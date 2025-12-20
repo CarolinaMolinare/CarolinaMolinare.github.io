@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Victimization Rate Over Time",
+    "subtitle": ["Households victimized by crimes in 12 months", "Source: ENUSC"],
+    "anchor": "start",
+    "fontSize": 20,
+    "subtitleFontSize": 14
+  },
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/CarolinaMolinare/CarolinaMolinare.github.io/refs/heads/main/PortafolioTask/badgraphcorrect.csv",
+    "format": {
+      "type": "dsv",
+      "delimiter": ";"
+    }
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "axis": {
+            "title": "Year",
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "Victimization Rate",
+          "type": "quantitative",
+          "axis": {
+            "title": "Victimization Rate (%)"
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": -10
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "Victimization Rate",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "Victimization Rate",
+          "type": "quantitative"
+        }
+      }
+    }
+  ]
+}

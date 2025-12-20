@@ -1,0 +1,90 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "data": {
+    "url": "https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023",
+    "format": {
+      "property": "[1]"
+    }
+  },
+  "view": {
+    "stroke": "transparent"
+  },
+  "width": 400,
+  "height": 300,
+  "title": {
+    "text": "Fertility Rate",
+    "subtitle": "By country income classification group (1960-2023)",
+    "anchor": "start"
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": "Source: World Bank API",
+      "axis": {
+        "grid": false,
+        "titleFontSize": 10,
+        "titlePadding": 10
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Births per woman",
+      "scale": {
+        "domain": [0, 8]
+      }
+    },
+    "color": {
+      "field": "country.value",
+      "type": "nominal",
+      "legend": {
+        "title": "Income Group"
+      },
+      "scale": {
+        "domain": [
+          "Low income",
+          "Lower middle income",
+          "Middle income",
+          "Upper middle income",
+          "High income"
+        ],
+        "range": [
+          "#a8e6cf",
+          "#7bc96f",
+          "#4caf50",
+          "#388e3c",
+          "#1b5e20"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "country.value",
+        "type": "nominal",
+        "title": "Income Group"
+      },
+      {
+        "field": "date",
+        "type": "temporal",
+        "title": "Year",
+        "timeUnit": "year"
+      },
+      {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Fertility Rate",
+        "format": ".1f"
+      }
+    ]
+  },
+  "transform": [
+    {
+      "filter": "datum.value"
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "strokeWidth": 2
+  }
+}

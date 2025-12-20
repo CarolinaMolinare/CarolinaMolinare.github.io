@@ -1,0 +1,64 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Distribution of Births by Age Group (1992-2022)",
+    "fontSize": 14,
+    "anchor": "start",
+    "subtitle": "Source: Vital Statistics, National Statistics Institute of Chile",
+    "subtitleFontSize": 11,
+    "subtitleColor": "#666"
+  },
+  "width": 700,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/CarolinaMolinare/CarolinaMolinare.github.io/refs/heads/main/PortafolioTask/Figure2.csv",
+    "format": {
+      "type": "dsv",
+      "delimiter": ";"
+    }
+  },
+  "transform": [
+    {
+      "fold": ["15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49"],
+      "as": ["Age Group", "Percentage"]
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {
+        "labelAngle": -45,
+        "labelAlign": "right"
+      }
+    },
+    "y": {
+      "field": "Percentage",
+      "type": "quantitative",
+      "title": "Percentage (%)",
+      "stack": "normalize",
+      "axis": {
+        "format": "%"
+      }
+    },
+    "color": {
+      "field": "Age Group",
+      "type": "nominal",
+      "title": "Age Group",
+      "scale": {
+        "domain": ["15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49"],
+        "range": ["#E8F5E9", "#A5D6A7", "#66BB6A", "#43A047", "#2E7D32", "#1B5E20", "#0D3D16"]
+      },
+      "legend": {
+        "orient": "right"
+      }
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal", "title": "Year"},
+      {"field": "Age Group", "type": "nominal", "title": "Age Group"},
+      {"field": "Percentage", "type": "quantitative", "title": "Percentage", "format": ".1f"}
+    ]
+  }
+}

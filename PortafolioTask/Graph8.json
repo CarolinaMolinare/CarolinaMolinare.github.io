@@ -1,0 +1,124 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 240,
+
+  "data": {
+    "values": [
+      { "Year": "2010", "Percentage": 30.7, "Height": 30.7 },
+      { "Year": "2013", "Percentage": 22.8, "Height": 10.2 },
+      { "Year": "2016", "Percentage": 27.3, "Height": 27.3 }
+    ]
+  },
+
+  "layer": [
+    {
+      "data": { "values": [{}] },
+      "mark": {
+        "type": "rect",
+        "fill": {
+          "gradient": "radial",
+          "stops": [
+            { "offset": 0, "color": "white" },
+            { "offset": 1, "color": "#FFF3B0" }
+          ]
+        }
+      },
+      "encoding": {
+        "x": { "value": 0 },
+        "x2": { "value": 500 },
+        "y": { "value": 0 },
+        "y2": { "value": 240 }
+      }
+    },
+
+    {
+      "mark": { "type": "rule", "strokeWidth": 2, "color": "black" },
+      "encoding": { "y": { "value": 1 }, "x": { "value": 150 }, "x2": { "value": 350 } }
+    },
+    {
+      "mark": { "type": "text", "fontSize": 24, "fontWeight": "bold", "align": "center" },
+      "encoding": { "x": { "value": 250 }, "y": { "value": 20 }, "text": { "value": "DELINQUENCY" } }
+    },
+    {
+      "mark": { "type": "rule", "strokeWidth": 2, "color": "black" },
+      "encoding": { "y": { "value": 35 }, "x": { "value": 150 }, "x2": { "value": 350 } }
+    },
+    {
+      "mark": { "type": "text", "fontSize": 11, "align": "center", "color": "#666" },
+      "encoding": {
+        "x": { "value": 250 },
+        "y": { "value": 50 },
+        "text": { "value": "Victimization (households victimized by crimes in 12 months)" }
+      }
+    },
+
+    {
+      "mark": { "type": "bar", "width": 120 },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "nominal",
+          "title": null,
+          "axis": { "labels": false, "ticks": false, "domain": false }
+        },
+        "y": {
+          "field": "Height",
+          "type": "quantitative",
+          "title": null,
+          "scale": { "domain": [0, 35], "range": [200, 70] },
+          "axis": null
+        },
+        "color": {
+          "field": "Year",
+          "type": "nominal",
+          "scale": {
+            "domain": ["2010", "2013", "2016"],
+            "range": ["#E74C3C", "#5B9BD5", "#E74C3C"]
+          },
+          "legend": null
+        }
+      }
+    },
+
+    {
+      "mark": { "type": "text", "fontSize": 20, "fontWeight": "bold", "align": "center", "baseline": "top" },
+      "encoding": {
+        "x": { "field": "Year", "type": "nominal" },
+        "y": { "value": 205 },
+        "text": { "field": "Year" },
+        "color": {
+          "condition": [{ "test": "datum.Year === '2013'", "value": "#5B9BD5" }],
+          "value": "#E74C3C"
+        }
+      }
+    },
+
+    {
+      "mark": { "type": "text", "align": "center", "baseline": "middle", "fontSize": 30, "fontWeight": "bold", "color": "white", "dy": 25 },
+      "encoding": {
+        "x": { "field": "Year", "type": "nominal" },
+        "y": { "field": "Height", "type": "quantitative" },
+        "text": { "field": "Label", "type": "nominal" }
+      },
+      "transform": [
+        { "calculate": "format(datum.Percentage, '.1f') + '%'", "as": "Label" }
+      ]
+    },
+
+    {
+      "mark": { "type": "text", "align": "left", "baseline": "bottom", "fontSize": 10, "color": "#000000" },
+      "encoding": {
+        "x": { "value": 10 },
+        "y": { "value": 235 },
+        "text": { "value": "Source: ENUSC" }
+      }
+    }
+  ],
+
+  "config": {
+    "view": { "stroke": null },
+    "axis": { "grid": false, "domain": false },
+    "background": "transparent"
+  }
+}
