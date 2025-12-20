@@ -1,1646 +1,1646 @@
-geo_id,council_name,year,variable,value
-S12000039,West Dunbartonshire,2016,Roads Needing Repairs,33.8
-S12000039,West Dunbartonshire,2009,Roads Needing Repairs,32.5
-S12000039,West Dunbartonshire,2021,Roads Needing Repairs,28.0
-S12000039,West Dunbartonshire,2015,Roads Needing Repairs,35.4
-S12000039,West Dunbartonshire,2008,Roads Needing Repairs,29.4
-S12000039,West Dunbartonshire,2009,Traffic Congestion,7.76
-S12000039,West Dunbartonshire,2020,Roads Needing Repairs,30.6
-S12000039,West Dunbartonshire,2016,Vehicle Kilometres,667.0
-S12000039,West Dunbartonshire,2014,Vehicle Kilometres,646.0
-S12000039,West Dunbartonshire,2008,Vehicle Kilometres,623.0
-S12000039,West Dunbartonshire,2014,Traffic Congestion,9.5
-S12000039,West Dunbartonshire,2014,Roads Needing Repairs,25.4
-S12000039,West Dunbartonshire,2021,Vehicle Kilometres,613.0
-S12000039,West Dunbartonshire,2015,Vehicle Kilometres,655.0
-S12000039,West Dunbartonshire,2015,Traffic Congestion,12.1
-S12000039,West Dunbartonshire,2021,Traffic Congestion,14.0
-S12000039,West Dunbartonshire,2018,Traffic Congestion,16.0
-S12000039,West Dunbartonshire,2019,Roads Needing Repairs,31.8
-S12000039,West Dunbartonshire,2009,Vehicle Kilometres,640.0
-S12000039,West Dunbartonshire,2019,Vehicle Kilometres,678.0
-S12000039,West Dunbartonshire,2006,Roads Needing Repairs,45.0
-S12000039,West Dunbartonshire,2018,Vehicle Kilometres,677.0
-S12000039,West Dunbartonshire,2018,Roads Needing Repairs,33.6
-S12000039,West Dunbartonshire,2006,Vehicle Kilometres,628.0
-S12000039,West Dunbartonshire,2005,Traffic Congestion,16.3
-S12000039,West Dunbartonshire,2017,Vehicle Kilometres,664.0
-S12000039,West Dunbartonshire,2020,Vehicle Kilometres,534.0
-S12000039,West Dunbartonshire,2016,Traffic Congestion,12.4
-S12000039,West Dunbartonshire,2017,Roads Needing Repairs,31.9
-S12000039,West Dunbartonshire,2019,Traffic Congestion,18.0
-S12000039,West Dunbartonshire,2017,Traffic Congestion,14.0
-S12000039,West Dunbartonshire,2023,Roads Needing Repairs,28.0
-S12000039,West Dunbartonshire,2007,Vehicle Kilometres,622.0
-S12000039,West Dunbartonshire,2011,Roads Needing Repairs,34.2
-S12000039,West Dunbartonshire,2012,Vehicle Kilometres,630.0
-S12000039,West Dunbartonshire,2013,Vehicle Kilometres,628.0
-S12000039,West Dunbartonshire,2013,Roads Needing Repairs,25.4
-S12000039,West Dunbartonshire,2013,Traffic Congestion,12.6
-S12000039,West Dunbartonshire,2012,Roads Needing Repairs,34.0
-S12000039,West Dunbartonshire,2011,Vehicle Kilometres,627.0
-S12000039,West Dunbartonshire,2012,Traffic Congestion,11.7
-S12000039,West Dunbartonshire,2003,Traffic Congestion,12.5
-S12000039,West Dunbartonshire,2023,Vehicle Kilometres,672.0
-S12000039,West Dunbartonshire,2023,Traffic Congestion,13.0
-S12000039,West Dunbartonshire,2022,Roads Needing Repairs,27.0
-S12000039,West Dunbartonshire,2007,Traffic Congestion,15.2
-S12000039,West Dunbartonshire,2007,Roads Needing Repairs,32.0
-S12000039,West Dunbartonshire,2022,Vehicle Kilometres,663.0
-S12000039,West Dunbartonshire,2010,Vehicle Kilometres,624.0
-S12000039,West Dunbartonshire,2022,Traffic Congestion,9.0
-S12000040,West Lothian,2012,Traffic Congestion,8.2
-S12000040,West Lothian,2017,Roads Needing Repairs,29.4
-S12000040,West Lothian,2014,Vehicle Kilometres,1757.0
-S12000040,West Lothian,2009,Vehicle Kilometres,1714.0
-S12000040,West Lothian,2012,Vehicle Kilometres,1699.0
-S12000040,West Lothian,2011,Vehicle Kilometres,1699.0
-S12000040,West Lothian,2018,Vehicle Kilometres,1926.0
-S12000040,West Lothian,2014,Traffic Congestion,10.4
-S12000040,West Lothian,2006,Vehicle Kilometres,1681.0
-S12000040,West Lothian,2011,Roads Needing Repairs,30.5
-S12000040,West Lothian,2012,Roads Needing Repairs,26.9
-S12000040,West Lothian,2018,Traffic Congestion,19.0
-S12000040,West Lothian,2014,Roads Needing Repairs,46.8
-S12000040,West Lothian,2018,Roads Needing Repairs,29.9
-S12000040,West Lothian,2007,Vehicle Kilometres,1709.0
-S12000040,West Lothian,2013,Roads Needing Repairs,46.8
-S12000040,West Lothian,2013,Vehicle Kilometres,1716.0
-S12000040,West Lothian,2015,Vehicle Kilometres,1803.0
-S12000040,West Lothian,2007,Roads Needing Repairs,27.0
-S12000040,West Lothian,2015,Roads Needing Repairs,27.4
-S12000040,West Lothian,2016,Roads Needing Repairs,29.4
-S12000040,West Lothian,2007,Traffic Congestion,14.6
-S12000040,West Lothian,2017,Vehicle Kilometres,1884.0
-S12000040,West Lothian,2009,Roads Needing Repairs,32.3
-S12000040,West Lothian,2010,Vehicle Kilometres,1699.0
-S12000040,West Lothian,2017,Traffic Congestion,19.3
-S12000040,West Lothian,2013,Traffic Congestion,12.0
-S12000040,West Lothian,2016,Vehicle Kilometres,1835.0
-S12000040,West Lothian,2016,Traffic Congestion,15.2
-S12000040,West Lothian,2015,Traffic Congestion,16.3
-S12000040,West Lothian,2008,Roads Needing Repairs,26.2
-S12000040,West Lothian,2019,Vehicle Kilometres,1931.0
-S12000040,West Lothian,2020,Vehicle Kilometres,1509.0
-S12000040,West Lothian,2021,Vehicle Kilometres,1711.0
-S12000040,West Lothian,2023,Roads Needing Repairs,31.0
-S12000040,West Lothian,2019,Roads Needing Repairs,27.4
-S12000040,West Lothian,2022,Vehicle Kilometres,1842.0
-S12000040,West Lothian,2005,Traffic Congestion,10.8
-S12000040,West Lothian,2022,Roads Needing Repairs,29.0
-S12000040,West Lothian,2022,Traffic Congestion,10.0
-S12000040,West Lothian,2019,Traffic Congestion,20.0
-S12000040,West Lothian,2021,Traffic Congestion,15.0
-S12000040,West Lothian,2006,Roads Needing Repairs,42.0
-S12000040,West Lothian,2008,Vehicle Kilometres,1729.0
-S12000040,West Lothian,2009,Traffic Congestion,8.4
-S12000040,West Lothian,2020,Roads Needing Repairs,28.5
-S12000040,West Lothian,2021,Roads Needing Repairs,30.0
-S12000040,West Lothian,2003,Traffic Congestion,12.3
-S12000040,West Lothian,2023,Vehicle Kilometres,1898.0
-S12000040,West Lothian,2023,Traffic Congestion,12.0
-S92000003,Scotland,2022,Roads Needing Repairs,33.0
-S92000003,Scotland,2021,Traffic Congestion,11.2
-S92000003,Scotland,2014,Roads Needing Repairs,36.7
-S92000003,Scotland,2014,Vehicle Kilometres,44776.0
-S92000003,Scotland,2015,Vehicle Kilometres,45374.0
-S92000003,Scotland,2015,Roads Needing Repairs,36.7
-S92000003,Scotland,2021,Vehicle Kilometres,43410.0
-S92000003,Scotland,2008,Roads Needing Repairs,34.2
-S92000003,Scotland,2021,Roads Needing Repairs,34.0
-S92000003,Scotland,2015,Traffic Congestion,12.4
-S92000003,Scotland,2011,Vehicle Kilometres,43085.0
-S92000003,Scotland,2023,Vehicle Kilometres,48018.0
-S92000003,Scotland,2023,Roads Needing Repairs,34.0
-S92000003,Scotland,2013,Traffic Congestion,9.7
-S92000003,Scotland,2007,Vehicle Kilometres,43988.0
-S92000003,Scotland,2012,Vehicle Kilometres,43498.0
-S92000003,Scotland,2011,Roads Needing Repairs,36.4
-S92000003,Scotland,2012,Roads Needing Repairs,36.2
-S92000003,Scotland,2013,Vehicle Kilometres,43711.0
-S92000003,Scotland,2013,Roads Needing Repairs,36.7
-S92000003,Scotland,2014,Traffic Congestion,11.7
-S92000003,Scotland,2010,Vehicle Kilometres,43160.0
-S92000003,Scotland,2008,Vehicle Kilometres,43799.0
-S92000003,Scotland,2022,Traffic Congestion,10.6
-S92000003,Scotland,2022,Vehicle Kilometres,46957.0
-S92000003,Scotland,2016,Traffic Congestion,11.7
-S92000003,Scotland,2009,Roads Needing Repairs,36.1
-S92000003,Scotland,2018,Traffic Congestion,12.5
-S92000003,Scotland,2023,Traffic Congestion,11.0
-S92000003,Scotland,2020,Vehicle Kilometres,37883.0
-S92000003,Scotland,2006,Roads Needing Repairs,37.4
-S92000003,Scotland,2007,Roads Needing Repairs,37.4
-S92000003,Scotland,2017,Traffic Congestion,12.3
-S92000003,Scotland,2009,Vehicle Kilometres,43566.0
-S92000003,Scotland,2019,Traffic Congestion,12.6
-S92000003,Scotland,2006,Vehicle Kilometres,43456.0
-S92000003,Scotland,2017,Roads Needing Repairs,36.7
-S92000003,Scotland,2017,Vehicle Kilometres,48045.0
-S92000003,Scotland,2019,Vehicle Kilometres,48713.0
-S92000003,Scotland,2018,Roads Needing Repairs,36.3
-S92000003,Scotland,2019,Roads Needing Repairs,35.9
-S92000003,Scotland,2016,Roads Needing Repairs,36.4
-S92000003,Scotland,2018,Vehicle Kilometres,48187.0
-S92000003,Scotland,2020,Roads Needing Repairs,35.5
-S92000003,Scotland,2016,Vehicle Kilometres,46843.0
-S12000005,Clackmannanshire,2022,Traffic Congestion,10.0
-S12000005,Clackmannanshire,2018,Roads Needing Repairs,34.4
-S12000005,Clackmannanshire,2017,Roads Needing Repairs,36.4
-S12000005,Clackmannanshire,2022,Roads Needing Repairs,35.0
-S12000005,Clackmannanshire,2012,Roads Needing Repairs,33.7
-S12000005,Clackmannanshire,2009,Roads Needing Repairs,37.8
-S12000005,Clackmannanshire,2012,Vehicle Kilometres,316.0
-S12000005,Clackmannanshire,2009,Traffic Congestion,10.79
-S12000005,Clackmannanshire,2019,Traffic Congestion,9.0
-S12000005,Clackmannanshire,2012,Traffic Congestion,4.5
-S12000005,Clackmannanshire,2007,Roads Needing Repairs,39.0
-S12000005,Clackmannanshire,2013,Traffic Congestion,6.3
-S12000005,Clackmannanshire,2008,Vehicle Kilometres,298.0
-S12000005,Clackmannanshire,2018,Traffic Congestion,8.0
-S12000005,Clackmannanshire,2019,Vehicle Kilometres,345.0
-S12000005,Clackmannanshire,2018,Vehicle Kilometres,340.0
-S12000005,Clackmannanshire,2017,Vehicle Kilometres,336.0
-S12000005,Clackmannanshire,2023,Roads Needing Repairs,34.0
-S12000005,Clackmannanshire,2023,Vehicle Kilometres,339.0
-S12000005,Clackmannanshire,2023,Traffic Congestion,11.0
-S12000005,Clackmannanshire,2016,Traffic Congestion,4.2
-S12000005,Clackmannanshire,2015,Vehicle Kilometres,324.0
-S12000005,Clackmannanshire,2005,Traffic Congestion,13.8
-S12000005,Clackmannanshire,2020,Roads Needing Repairs,35.9
-S12000005,Clackmannanshire,2021,Traffic Congestion,9.0
-S12000005,Clackmannanshire,2011,Vehicle Kilometres,318.0
-S12000005,Clackmannanshire,2007,Traffic Congestion,13.3
-S12000005,Clackmannanshire,2015,Traffic Congestion,6.7
-S12000005,Clackmannanshire,2016,Vehicle Kilometres,333.0
-S12000005,Clackmannanshire,2015,Roads Needing Repairs,36.2
-S12000005,Clackmannanshire,2016,Roads Needing Repairs,35.2
-S12000005,Clackmannanshire,2006,Roads Needing Repairs,54.0
-S12000005,Clackmannanshire,2006,Vehicle Kilometres,290.0
-S12000005,Clackmannanshire,2021,Vehicle Kilometres,308.0
-S12000005,Clackmannanshire,2009,Vehicle Kilometres,312.0
-S12000005,Clackmannanshire,2014,Traffic Congestion,10.4
-S12000005,Clackmannanshire,2019,Roads Needing Repairs,35.6
-S12000005,Clackmannanshire,2022,Vehicle Kilometres,334.0
-S12000005,Clackmannanshire,2017,Traffic Congestion,6.9
-S12000005,Clackmannanshire,2013,Roads Needing Repairs,43.5
-S12000005,Clackmannanshire,2010,Vehicle Kilometres,316.0
-S12000005,Clackmannanshire,2011,Roads Needing Repairs,36.4
-S12000005,Clackmannanshire,2013,Vehicle Kilometres,307.0
-S12000005,Clackmannanshire,2007,Vehicle Kilometres,295.0
-S12000005,Clackmannanshire,2020,Vehicle Kilometres,274.0
-S12000005,Clackmannanshire,2021,Roads Needing Repairs,34.0
-S12000005,Clackmannanshire,2014,Roads Needing Repairs,43.5
-S12000005,Clackmannanshire,2003,Traffic Congestion,11.9
-S12000005,Clackmannanshire,2014,Vehicle Kilometres,319.0
-S12000005,Clackmannanshire,2008,Roads Needing Repairs,36.9
-S12000006,Dumfries and Galloway,2009,Vehicle Kilometres,1988.0
-S12000006,Dumfries and Galloway,2009,Traffic Congestion,8.04
-S12000006,Dumfries and Galloway,2009,Roads Needing Repairs,44.8
-S12000006,Dumfries and Galloway,2010,Vehicle Kilometres,1976.0
-S12000006,Dumfries and Galloway,2008,Roads Needing Repairs,43.6
-S12000006,Dumfries and Galloway,2008,Vehicle Kilometres,2012.0
-S12000006,Dumfries and Galloway,2019,Traffic Congestion,7.0
-S12000006,Dumfries and Galloway,2019,Roads Needing Repairs,47.9
-S12000006,Dumfries and Galloway,2019,Vehicle Kilometres,2240.0
-S12000006,Dumfries and Galloway,2020,Roads Needing Repairs,47.5
-S12000006,Dumfries and Galloway,2020,Vehicle Kilometres,1692.0
-S12000006,Dumfries and Galloway,2017,Vehicle Kilometres,2267.0
-S12000006,Dumfries and Galloway,2018,Traffic Congestion,9.0
-S12000006,Dumfries and Galloway,2017,Roads Needing Repairs,47.4
-S12000006,Dumfries and Galloway,2018,Vehicle Kilometres,2234.0
-S12000006,Dumfries and Galloway,2018,Roads Needing Repairs,47.8
-S12000006,Dumfries and Galloway,2022,Roads Needing Repairs,47.0
-S12000006,Dumfries and Galloway,2023,Vehicle Kilometres,2254.0
-S12000006,Dumfries and Galloway,2022,Traffic Congestion,9.0
-S12000006,Dumfries and Galloway,2023,Roads Needing Repairs,50.0
-S12000006,Dumfries and Galloway,2023,Traffic Congestion,8.0
-S12000006,Dumfries and Galloway,2021,Traffic Congestion,6.0
-S12000006,Dumfries and Galloway,2021,Vehicle Kilometres,2051.0
-S12000006,Dumfries and Galloway,2022,Vehicle Kilometres,2215.0
-S12000006,Dumfries and Galloway,2021,Roads Needing Repairs,47.0
-S12000006,Dumfries and Galloway,2013,Traffic Congestion,6.1
-S12000006,Dumfries and Galloway,2013,Roads Needing Repairs,35.0
-S12000006,Dumfries and Galloway,2012,Roads Needing Repairs,48.6
-S12000006,Dumfries and Galloway,2014,Traffic Congestion,7.4
-S12000006,Dumfries and Galloway,2013,Vehicle Kilometres,1966.0
-S12000006,Dumfries and Galloway,2011,Vehicle Kilometres,1965.0
-S12000006,Dumfries and Galloway,2011,Roads Needing Repairs,48.1
-S12000006,Dumfries and Galloway,2012,Traffic Congestion,4.5
-S12000006,Dumfries and Galloway,2012,Vehicle Kilometres,1942.0
-S12000006,Dumfries and Galloway,2016,Roads Needing Repairs,46.5
-S12000006,Dumfries and Galloway,2016,Traffic Congestion,8.7
-S12000006,Dumfries and Galloway,2015,Roads Needing Repairs,46.9
-S12000006,Dumfries and Galloway,2017,Traffic Congestion,7.5
-S12000006,Dumfries and Galloway,2016,Vehicle Kilometres,2150.0
-S12000006,Dumfries and Galloway,2014,Roads Needing Repairs,35.0
-S12000006,Dumfries and Galloway,2014,Vehicle Kilometres,2032.0
-S12000006,Dumfries and Galloway,2015,Vehicle Kilometres,2087.0
-S12000006,Dumfries and Galloway,2015,Traffic Congestion,10.1
-S12000006,Dumfries and Galloway,2003,Traffic Congestion,7.2
-S12000006,Dumfries and Galloway,2006,Roads Needing Repairs,48.0
-S12000006,Dumfries and Galloway,2007,Traffic Congestion,6.3
-S12000006,Dumfries and Galloway,2007,Vehicle Kilometres,2012.0
-S12000006,Dumfries and Galloway,2005,Traffic Congestion,5.1
-S12000006,Dumfries and Galloway,2006,Vehicle Kilometres,1943.0
-S12000006,Dumfries and Galloway,2007,Roads Needing Repairs,47.0
-S12000008,East Ayrshire,2016,Roads Needing Repairs,39.1
-S12000008,East Ayrshire,2006,Vehicle Kilometres,1055.0
-S12000008,East Ayrshire,2020,Roads Needing Repairs,36.8
-S12000008,East Ayrshire,2017,Roads Needing Repairs,39.1
-S12000008,East Ayrshire,2009,Vehicle Kilometres,1041.0
-S12000008,East Ayrshire,2022,Roads Needing Repairs,34.0
-S12000008,East Ayrshire,2006,Roads Needing Repairs,50.0
-S12000008,East Ayrshire,2007,Traffic Congestion,10.2
-S12000008,East Ayrshire,2010,Vehicle Kilometres,1045.0
-S12000008,East Ayrshire,2017,Vehicle Kilometres,1139.0
-S12000008,East Ayrshire,2020,Vehicle Kilometres,903.0
-S12000008,East Ayrshire,2014,Traffic Congestion,7.4
-S12000008,East Ayrshire,2015,Traffic Congestion,12.7
-S12000008,East Ayrshire,2005,Traffic Congestion,12.9
-S12000008,East Ayrshire,2012,Traffic Congestion,6.4
-S12000008,East Ayrshire,2016,Traffic Congestion,8.3
-S12000008,East Ayrshire,2009,Roads Needing Repairs,40.1
-S12000008,East Ayrshire,2014,Vehicle Kilometres,1079.0
-S12000008,East Ayrshire,2021,Traffic Congestion,10.0
-S12000008,East Ayrshire,2012,Roads Needing Repairs,40.6
-S12000008,East Ayrshire,2016,Vehicle Kilometres,1101.0
-S12000008,East Ayrshire,2009,Traffic Congestion,6.67
-S12000008,East Ayrshire,2021,Vehicle Kilometres,1048.0
-S12000008,East Ayrshire,2021,Roads Needing Repairs,34.0
-S12000008,East Ayrshire,2017,Traffic Congestion,9.2
-S12000008,East Ayrshire,2015,Vehicle Kilometres,1089.0
-S12000008,East Ayrshire,2022,Traffic Congestion,10.0
-S12000008,East Ayrshire,2007,Vehicle Kilometres,1050.0
-S12000008,East Ayrshire,2022,Vehicle Kilometres,1124.0
-S12000008,East Ayrshire,2011,Vehicle Kilometres,1040.0
-S12000008,East Ayrshire,2023,Traffic Congestion,12.0
-S12000008,East Ayrshire,2008,Roads Needing Repairs,40.5
-S12000008,East Ayrshire,2015,Roads Needing Repairs,39.4
-S12000008,East Ayrshire,2018,Traffic Congestion,8.0
-S12000008,East Ayrshire,2019,Traffic Congestion,8.0
-S12000008,East Ayrshire,2013,Vehicle Kilometres,1037.0
-S12000008,East Ayrshire,2014,Roads Needing Repairs,27.3
-S12000008,East Ayrshire,2008,Vehicle Kilometres,1043.0
-S12000008,East Ayrshire,2011,Roads Needing Repairs,42.8
-S12000008,East Ayrshire,2023,Roads Needing Repairs,33.0
-S12000008,East Ayrshire,2018,Vehicle Kilometres,1150.0
-S12000008,East Ayrshire,2019,Vehicle Kilometres,1148.0
-S12000008,East Ayrshire,2018,Roads Needing Repairs,38.5
-S12000008,East Ayrshire,2013,Traffic Congestion,13.3
-S12000008,East Ayrshire,2007,Roads Needing Repairs,43.0
-S12000008,East Ayrshire,2019,Roads Needing Repairs,37.8
-S12000008,East Ayrshire,2023,Vehicle Kilometres,1148.0
-S12000008,East Ayrshire,2003,Traffic Congestion,11.7
-S12000008,East Ayrshire,2012,Vehicle Kilometres,1037.0
-S12000008,East Ayrshire,2013,Roads Needing Repairs,27.3
-S12000010,East Lothian,2007,Vehicle Kilometres,904.0
-S12000010,East Lothian,2011,Roads Needing Repairs,30.2
-S12000010,East Lothian,2021,Traffic Congestion,13.0
-S12000010,East Lothian,2019,Vehicle Kilometres,1018.0
-S12000010,East Lothian,2019,Roads Needing Repairs,33.3
-S12000010,East Lothian,2017,Vehicle Kilometres,1004.0
-S12000010,East Lothian,2011,Vehicle Kilometres,852.0
-S12000010,East Lothian,2018,Vehicle Kilometres,1006.0
-S12000010,East Lothian,2021,Roads Needing Repairs,30.0
-S12000010,East Lothian,2005,Traffic Congestion,14.9
-S12000010,East Lothian,2020,Vehicle Kilometres,793.0
-S12000010,East Lothian,2010,Vehicle Kilometres,853.0
-S12000010,East Lothian,2016,Vehicle Kilometres,934.0
-S12000010,East Lothian,2012,Roads Needing Repairs,31.6
-S12000010,East Lothian,2014,Roads Needing Repairs,42.0
-S12000010,East Lothian,2017,Traffic Congestion,11.0
-S12000010,East Lothian,2015,Traffic Congestion,5.4
-S12000010,East Lothian,2009,Traffic Congestion,9.2
-S12000010,East Lothian,2021,Vehicle Kilometres,932.0
-S12000010,East Lothian,2020,Roads Needing Repairs,32.2
-S12000010,East Lothian,2009,Roads Needing Repairs,32.5
-S12000010,East Lothian,2017,Roads Needing Repairs,34.2
-S12000010,East Lothian,2019,Traffic Congestion,14.0
-S12000010,East Lothian,2014,Vehicle Kilometres,875.0
-S12000010,East Lothian,2018,Traffic Congestion,14.0
-S12000010,East Lothian,2016,Traffic Congestion,10.1
-S12000010,East Lothian,2007,Traffic Congestion,9.6
-S12000010,East Lothian,2009,Vehicle Kilometres,848.0
-S12000010,East Lothian,2012,Traffic Congestion,7.5
-S12000010,East Lothian,2018,Roads Needing Repairs,35.0
-S12000010,East Lothian,2007,Roads Needing Repairs,36.0
-S12000010,East Lothian,2014,Traffic Congestion,13.4
-S12000010,East Lothian,2006,Vehicle Kilometres,876.0
-S12000010,East Lothian,2022,Traffic Congestion,14.0
-S12000010,East Lothian,2015,Vehicle Kilometres,887.0
-S12000010,East Lothian,2013,Traffic Congestion,5.5
-S12000010,East Lothian,2015,Roads Needing Repairs,32.7
-S12000010,East Lothian,2013,Vehicle Kilometres,842.0
-S12000010,East Lothian,2023,Vehicle Kilometres,1026.0
-S12000010,East Lothian,2013,Roads Needing Repairs,42.0
-S12000010,East Lothian,2023,Traffic Congestion,14.0
-S12000010,East Lothian,2003,Traffic Congestion,13.4
-S12000010,East Lothian,2016,Roads Needing Repairs,31.9
-S12000010,East Lothian,2006,Roads Needing Repairs,47.0
-S12000010,East Lothian,2022,Roads Needing Repairs,33.0
-S12000010,East Lothian,2023,Roads Needing Repairs,33.0
-S12000010,East Lothian,2012,Vehicle Kilometres,841.0
-S12000010,East Lothian,2008,Vehicle Kilometres,866.0
-S12000010,East Lothian,2008,Roads Needing Repairs,32.0
-S12000010,East Lothian,2022,Vehicle Kilometres,1012.0
-S12000011,East Renfrewshire,2014,Vehicle Kilometres,754.0
-S12000011,East Renfrewshire,2012,Roads Needing Repairs,43.3
-S12000011,East Renfrewshire,2009,Vehicle Kilometres,733.0
-S12000011,East Renfrewshire,2023,Vehicle Kilometres,790.0
-S12000011,East Renfrewshire,2007,Traffic Congestion,18.0
-S12000011,East Renfrewshire,2008,Vehicle Kilometres,736.0
-S12000011,East Renfrewshire,2008,Roads Needing Repairs,44.0
-S12000011,East Renfrewshire,2015,Traffic Congestion,23.6
-S12000011,East Renfrewshire,2006,Vehicle Kilometres,704.0
-S12000011,East Renfrewshire,2017,Vehicle Kilometres,792.0
-S12000011,East Renfrewshire,2007,Roads Needing Repairs,48.0
-S12000011,East Renfrewshire,2020,Vehicle Kilometres,624.0
-S12000011,East Renfrewshire,2019,Vehicle Kilometres,791.0
-S12000011,East Renfrewshire,2006,Roads Needing Repairs,62.0
-S12000011,East Renfrewshire,2011,Roads Needing Repairs,45.1
-S12000011,East Renfrewshire,2011,Vehicle Kilometres,741.0
-S12000011,East Renfrewshire,2014,Roads Needing Repairs,30.0
-S12000011,East Renfrewshire,2013,Traffic Congestion,11.4
-S12000011,East Renfrewshire,2015,Roads Needing Repairs,39.2
-S12000011,East Renfrewshire,2018,Vehicle Kilometres,797.0
-S12000011,East Renfrewshire,2023,Roads Needing Repairs,36.0
-S12000011,East Renfrewshire,2010,Vehicle Kilometres,714.0
-S12000011,East Renfrewshire,2018,Traffic Congestion,13.0
-S12000011,East Renfrewshire,2015,Vehicle Kilometres,776.0
-S12000011,East Renfrewshire,2019,Roads Needing Repairs,35.5
-S12000011,East Renfrewshire,2014,Traffic Congestion,13.0
-S12000011,East Renfrewshire,2019,Traffic Congestion,11.0
-S12000011,East Renfrewshire,2018,Roads Needing Repairs,39.1
-S12000011,East Renfrewshire,2007,Vehicle Kilometres,731.0
-S12000011,East Renfrewshire,2023,Traffic Congestion,15.0
-S12000011,East Renfrewshire,2022,Traffic Congestion,15.0
-S12000011,East Renfrewshire,2013,Roads Needing Repairs,30.0
-S12000011,East Renfrewshire,2017,Traffic Congestion,18.2
-S12000011,East Renfrewshire,2016,Roads Needing Repairs,39.2
-S12000011,East Renfrewshire,2017,Roads Needing Repairs,37.5
-S12000011,East Renfrewshire,2012,Traffic Congestion,10.1
-S12000011,East Renfrewshire,2003,Traffic Congestion,14.7
-S12000011,East Renfrewshire,2021,Traffic Congestion,11.0
-S12000011,East Renfrewshire,2009,Traffic Congestion,9.14
-S12000011,East Renfrewshire,2009,Roads Needing Repairs,43.9
-S12000011,East Renfrewshire,2012,Vehicle Kilometres,730.0
-S12000011,East Renfrewshire,2016,Vehicle Kilometres,800.0
-S12000011,East Renfrewshire,2005,Traffic Congestion,15.5
-S12000011,East Renfrewshire,2020,Roads Needing Repairs,36.4
-S12000011,East Renfrewshire,2013,Vehicle Kilometres,733.0
-S12000011,East Renfrewshire,2021,Roads Needing Repairs,37.0
-S12000011,East Renfrewshire,2022,Vehicle Kilometres,777.0
-S12000011,East Renfrewshire,2021,Vehicle Kilometres,715.0
-S12000011,East Renfrewshire,2016,Traffic Congestion,13.2
-S12000011,East Renfrewshire,2022,Roads Needing Repairs,35.0
-S12000013,Na h-Eileanan Siar,2007,Vehicle Kilometres,209.0
-S12000013,Na h-Eileanan Siar,2018,Vehicle Kilometres,238.0
-S12000013,Na h-Eileanan Siar,2019,Traffic Congestion,2.0
-S12000013,Na h-Eileanan Siar,2011,Vehicle Kilometres,206.0
-S12000013,Na h-Eileanan Siar,2012,Roads Needing Repairs,49.8
-S12000013,Na h-Eileanan Siar,2021,Roads Needing Repairs,40.0
-S12000013,Na h-Eileanan Siar,2005,Traffic Congestion,1.1
-S12000013,Na h-Eileanan Siar,2003,Traffic Congestion,2.4
-S12000013,Na h-Eileanan Siar,2023,Roads Needing Repairs,38.0
-S12000013,Na h-Eileanan Siar,2006,Vehicle Kilometres,208.0
-S12000013,Na h-Eileanan Siar,2013,Vehicle Kilometres,212.0
-S12000013,Na h-Eileanan Siar,2014,Roads Needing Repairs,34.2
-S12000013,Na h-Eileanan Siar,2013,Traffic Congestion,1.1
-S12000013,Na h-Eileanan Siar,2016,Vehicle Kilometres,256.0
-S12000013,Na h-Eileanan Siar,2013,Roads Needing Repairs,34.2
-S12000013,Na h-Eileanan Siar,2022,Traffic Congestion,1.0
-S12000013,Na h-Eileanan Siar,2018,Roads Needing Repairs,42.9
-S12000013,Na h-Eileanan Siar,2007,Traffic Congestion,2.5
-S12000013,Na h-Eileanan Siar,2011,Roads Needing Repairs,51.8
-S12000013,Na h-Eileanan Siar,2021,Traffic Congestion,2.0
-S12000013,Na h-Eileanan Siar,2019,Vehicle Kilometres,234.0
-S12000013,Na h-Eileanan Siar,2023,Traffic Congestion,10.0
-S12000013,Na h-Eileanan Siar,2006,Roads Needing Repairs,50.0
-S12000013,Na h-Eileanan Siar,2008,Vehicle Kilometres,205.0
-S12000013,Na h-Eileanan Siar,2009,Roads Needing Repairs,46.9
-S12000013,Na h-Eileanan Siar,2022,Roads Needing Repairs,40.0
-S12000013,Na h-Eileanan Siar,2020,Roads Needing Repairs,41.0
-S12000013,Na h-Eileanan Siar,2017,Vehicle Kilometres,241.0
-S12000013,Na h-Eileanan Siar,2020,Vehicle Kilometres,187.0
-S12000013,Na h-Eileanan Siar,2023,Vehicle Kilometres,223.0
-S12000013,Na h-Eileanan Siar,2017,Roads Needing Repairs,43.5
-S12000013,Na h-Eileanan Siar,2022,Vehicle Kilometres,218.0
-S12000013,Na h-Eileanan Siar,2012,Traffic Congestion,0.5
-S12000013,Na h-Eileanan Siar,2014,Vehicle Kilometres,220.0
-S12000013,Na h-Eileanan Siar,2009,Vehicle Kilometres,206.0
-S12000013,Na h-Eileanan Siar,2008,Roads Needing Repairs,45.7
-S12000013,Na h-Eileanan Siar,2015,Traffic Congestion,0.5
-S12000013,Na h-Eileanan Siar,2009,Traffic Congestion,1.76
-S12000013,Na h-Eileanan Siar,2018,Traffic Congestion,1.0
-S12000013,Na h-Eileanan Siar,2014,Traffic Congestion,0.6
-S12000013,Na h-Eileanan Siar,2019,Roads Needing Repairs,40.7
-S12000013,Na h-Eileanan Siar,2016,Traffic Congestion,0.2
-S12000013,Na h-Eileanan Siar,2016,Roads Needing Repairs,43.1
-S12000013,Na h-Eileanan Siar,2010,Vehicle Kilometres,206.0
-S12000013,Na h-Eileanan Siar,2015,Vehicle Kilometres,226.0
-S12000013,Na h-Eileanan Siar,2017,Traffic Congestion,1.1
-S12000013,Na h-Eileanan Siar,2021,Vehicle Kilometres,207.0
-S12000013,Na h-Eileanan Siar,2007,Roads Needing Repairs,47.0
-S12000013,Na h-Eileanan Siar,2015,Roads Needing Repairs,44.6
-S12000013,Na h-Eileanan Siar,2012,Vehicle Kilometres,209.0
-S12000014,Falkirk,2016,Vehicle Kilometres,1641.0
-S12000014,Falkirk,2011,Vehicle Kilometres,1464.0
-S12000014,Falkirk,2018,Vehicle Kilometres,1648.0
-S12000014,Falkirk,2006,Vehicle Kilometres,1458.0
-S12000014,Falkirk,2006,Roads Needing Repairs,54.0
-S12000014,Falkirk,2017,Vehicle Kilometres,1647.0
-S12000014,Falkirk,2012,Vehicle Kilometres,1502.0
-S12000014,Falkirk,2015,Traffic Congestion,12.4
-S12000014,Falkirk,2017,Traffic Congestion,14.7
-S12000014,Falkirk,2015,Vehicle Kilometres,1576.0
-S12000014,Falkirk,2012,Roads Needing Repairs,36.5
-S12000014,Falkirk,2017,Roads Needing Repairs,37.3
-S12000014,Falkirk,2016,Roads Needing Repairs,35.2
-S12000014,Falkirk,2016,Traffic Congestion,15.0
-S12000014,Falkirk,2013,Traffic Congestion,11.0
-S12000014,Falkirk,2018,Roads Needing Repairs,35.9
-S12000014,Falkirk,2018,Traffic Congestion,14.0
-S12000014,Falkirk,2015,Roads Needing Repairs,33.2
-S12000014,Falkirk,2012,Traffic Congestion,6.4
-S12000014,Falkirk,2021,Roads Needing Repairs,33.0
-S12000014,Falkirk,2013,Roads Needing Repairs,34.0
-S12000014,Falkirk,2022,Vehicle Kilometres,1532.0
-S12000014,Falkirk,2007,Roads Needing Repairs,35.0
-S12000014,Falkirk,2019,Roads Needing Repairs,36.6
-S12000014,Falkirk,2007,Vehicle Kilometres,1490.0
-S12000014,Falkirk,2014,Traffic Congestion,14.6
-S12000014,Falkirk,2022,Traffic Congestion,8.0
-S12000014,Falkirk,2019,Traffic Congestion,14.0
-S12000014,Falkirk,2013,Vehicle Kilometres,1506.0
-S12000014,Falkirk,2009,Roads Needing Repairs,38.1
-S12000014,Falkirk,2020,Roads Needing Repairs,37.8
-S12000014,Falkirk,2009,Traffic Congestion,12.68
-S12000014,Falkirk,2014,Vehicle Kilometres,1537.0
-S12000014,Falkirk,2009,Vehicle Kilometres,1472.0
-S12000014,Falkirk,2020,Vehicle Kilometres,1277.0
-S12000014,Falkirk,2005,Traffic Congestion,12.7
-S12000014,Falkirk,2021,Traffic Congestion,11.0
-S12000014,Falkirk,2021,Vehicle Kilometres,1440.0
-S12000014,Falkirk,2010,Vehicle Kilometres,1455.0
-S12000014,Falkirk,2007,Traffic Congestion,12.8
-S12000014,Falkirk,2023,Vehicle Kilometres,1598.0
-S12000014,Falkirk,2019,Vehicle Kilometres,1647.0
-S12000014,Falkirk,2003,Traffic Congestion,13.6
-S12000014,Falkirk,2014,Roads Needing Repairs,34.0
-S12000014,Falkirk,2023,Roads Needing Repairs,33.0
-S12000014,Falkirk,2011,Roads Needing Repairs,37.7
-S12000014,Falkirk,2008,Vehicle Kilometres,1483.0
-S12000014,Falkirk,2023,Traffic Congestion,9.0
-S12000014,Falkirk,2008,Roads Needing Repairs,33.2
-S12000014,Falkirk,2022,Roads Needing Repairs,33.0
-S12000017,Highland,2007,Vehicle Kilometres,2560.0
-S12000017,Highland,2005,Traffic Congestion,11.1
-S12000017,Highland,2009,Vehicle Kilometres,2589.0
-S12000017,Highland,2009,Roads Needing Repairs,33.6
-S12000017,Highland,2021,Vehicle Kilometres,2723.0
-S12000017,Highland,2016,Roads Needing Repairs,38.7
-S12000017,Highland,2017,Traffic Congestion,7.5
-S12000017,Highland,2023,Traffic Congestion,10.0
-S12000017,Highland,2013,Traffic Congestion,7.5
-S12000017,Highland,2022,Roads Needing Repairs,36.0
-S12000017,Highland,2020,Roads Needing Repairs,39.1
-S12000017,Highland,2013,Roads Needing Repairs,35.6
-S12000017,Highland,2007,Roads Needing Repairs,39.0
-S12000017,Highland,2009,Traffic Congestion,9.48
-S12000017,Highland,2023,Roads Needing Repairs,39.0
-S12000017,Highland,2015,Roads Needing Repairs,39.1
-S12000017,Highland,2003,Traffic Congestion,6.1
-S12000017,Highland,2021,Roads Needing Repairs,37.0
-S12000017,Highland,2023,Vehicle Kilometres,3084.0
-S12000017,Highland,2022,Vehicle Kilometres,2947.0
-S12000017,Highland,2013,Vehicle Kilometres,2592.0
-S12000017,Highland,2016,Vehicle Kilometres,2825.0
-S12000017,Highland,2008,Vehicle Kilometres,2563.0
-S12000017,Highland,2016,Traffic Congestion,5.8
-S12000017,Highland,2007,Traffic Congestion,8.8
-S12000017,Highland,2015,Vehicle Kilometres,2727.0
-S12000017,Highland,2022,Traffic Congestion,6.0
-S12000017,Highland,2008,Roads Needing Repairs,34.5
-S12000017,Highland,2021,Traffic Congestion,7.0
-S12000017,Highland,2010,Vehicle Kilometres,2574.0
-S12000017,Highland,2018,Traffic Congestion,8.0
-S12000017,Highland,2011,Roads Needing Repairs,31.9
-S12000017,Highland,2019,Traffic Congestion,10.0
-S12000017,Highland,2012,Roads Needing Repairs,33.2
-S12000017,Highland,2020,Vehicle Kilometres,2298.0
-S12000017,Highland,2019,Roads Needing Repairs,37.9
-S12000017,Highland,2014,Traffic Congestion,10.7
-S12000017,Highland,2014,Roads Needing Repairs,35.6
-S12000017,Highland,2006,Vehicle Kilometres,2523.0
-S12000017,Highland,2018,Vehicle Kilometres,2963.0
-S12000017,Highland,2006,Roads Needing Repairs,39.0
-S12000017,Highland,2011,Vehicle Kilometres,2570.0
-S12000017,Highland,2015,Traffic Congestion,9.1
-S12000017,Highland,2019,Vehicle Kilometres,2994.0
-S12000017,Highland,2018,Roads Needing Repairs,38.6
-S12000017,Highland,2014,Vehicle Kilometres,2648.0
-S12000017,Highland,2012,Traffic Congestion,8.0
-S12000017,Highland,2017,Vehicle Kilometres,2923.0
-S12000017,Highland,2012,Vehicle Kilometres,2561.0
-S12000017,Highland,2017,Roads Needing Repairs,38.8
-S12000018,Inverclyde,2014,Vehicle Kilometres,516.0
-S12000018,Inverclyde,2008,Roads Needing Repairs,42.9
-S12000018,Inverclyde,2008,Vehicle Kilometres,535.0
-S12000018,Inverclyde,2006,Vehicle Kilometres,533.0
-S12000018,Inverclyde,2012,Roads Needing Repairs,49.0
-S12000018,Inverclyde,2018,Roads Needing Repairs,37.5
-S12000018,Inverclyde,2011,Roads Needing Repairs,47.6
-S12000018,Inverclyde,2009,Traffic Congestion,13.97
-S12000018,Inverclyde,2016,Roads Needing Repairs,40.5
-S12000018,Inverclyde,2021,Vehicle Kilometres,501.0
-S12000018,Inverclyde,2006,Roads Needing Repairs,57.0
-S12000018,Inverclyde,2019,Vehicle Kilometres,544.0
-S12000018,Inverclyde,2003,Traffic Congestion,13.8
-S12000018,Inverclyde,2005,Traffic Congestion,9.5
-S12000018,Inverclyde,2009,Vehicle Kilometres,527.0
-S12000018,Inverclyde,2013,Vehicle Kilometres,501.0
-S12000018,Inverclyde,2023,Traffic Congestion,13.0
-S12000018,Inverclyde,2023,Roads Needing Repairs,33.0
-S12000018,Inverclyde,2013,Traffic Congestion,3.8
-S12000018,Inverclyde,2014,Roads Needing Repairs,49.2
-S12000018,Inverclyde,2018,Vehicle Kilometres,530.0
-S12000018,Inverclyde,2023,Vehicle Kilometres,524.0
-S12000018,Inverclyde,2012,Vehicle Kilometres,504.0
-S12000018,Inverclyde,2011,Vehicle Kilometres,508.0
-S12000018,Inverclyde,2010,Vehicle Kilometres,512.0
-S12000018,Inverclyde,2009,Roads Needing Repairs,44.1
-S12000018,Inverclyde,2015,Roads Needing Repairs,43.1
-S12000018,Inverclyde,2016,Traffic Congestion,11.1
-S12000018,Inverclyde,2017,Vehicle Kilometres,531.0
-S12000018,Inverclyde,2007,Traffic Congestion,12.5
-S12000018,Inverclyde,2019,Roads Needing Repairs,37.3
-S12000018,Inverclyde,2019,Traffic Congestion,12.0
-S12000018,Inverclyde,2007,Vehicle Kilometres,539.0
-S12000018,Inverclyde,2016,Vehicle Kilometres,532.0
-S12000018,Inverclyde,2021,Roads Needing Repairs,33.0
-S12000018,Inverclyde,2020,Vehicle Kilometres,447.0
-S12000018,Inverclyde,2021,Traffic Congestion,13.0
-S12000018,Inverclyde,2012,Traffic Congestion,8.1
-S12000018,Inverclyde,2020,Roads Needing Repairs,35.3
-S12000018,Inverclyde,2014,Traffic Congestion,7.7
-S12000018,Inverclyde,2022,Roads Needing Repairs,31.0
-S12000018,Inverclyde,2017,Traffic Congestion,12.5
-S12000018,Inverclyde,2015,Vehicle Kilometres,519.0
-S12000018,Inverclyde,2022,Traffic Congestion,9.0
-S12000018,Inverclyde,2015,Traffic Congestion,13.8
-S12000018,Inverclyde,2022,Vehicle Kilometres,526.0
-S12000018,Inverclyde,2017,Roads Needing Repairs,37.9
-S12000018,Inverclyde,2007,Roads Needing Repairs,45.0
-S12000018,Inverclyde,2018,Traffic Congestion,11.0
-S12000018,Inverclyde,2013,Roads Needing Repairs,49.2
-S12000019,Midlothian,2015,Traffic Congestion,10.9
-S12000019,Midlothian,2013,Roads Needing Repairs,31.1
-S12000019,Midlothian,2014,Traffic Congestion,11.0
-S12000019,Midlothian,2014,Vehicle Kilometres,665.0
-S12000019,Midlothian,2014,Roads Needing Repairs,31.1
-S12000019,Midlothian,2007,Vehicle Kilometres,631.0
-S12000019,Midlothian,2015,Vehicle Kilometres,671.0
-S12000019,Midlothian,2007,Roads Needing Repairs,40.0
-S12000019,Midlothian,2013,Vehicle Kilometres,638.0
-S12000019,Midlothian,2007,Traffic Congestion,18.0
-S12000019,Midlothian,2020,Vehicle Kilometres,566.0
-S12000019,Midlothian,2020,Roads Needing Repairs,34.6
-S12000019,Midlothian,2019,Roads Needing Repairs,35.0
-S12000019,Midlothian,2010,Vehicle Kilometres,645.0
-S12000019,Midlothian,2009,Vehicle Kilometres,643.0
-S12000019,Midlothian,2009,Roads Needing Repairs,32.7
-S12000019,Midlothian,2009,Traffic Congestion,5.1
-S12000019,Midlothian,2006,Roads Needing Repairs,41.0
-S12000019,Midlothian,2019,Vehicle Kilometres,718.0
-S12000019,Midlothian,2018,Vehicle Kilometres,716.0
-S12000019,Midlothian,2011,Roads Needing Repairs,31.2
-S12000019,Midlothian,2006,Vehicle Kilometres,622.0
-S12000019,Midlothian,2019,Traffic Congestion,17.0
-S12000019,Midlothian,2011,Vehicle Kilometres,647.0
-S12000019,Midlothian,2008,Vehicle Kilometres,631.0
-S12000019,Midlothian,2023,Vehicle Kilometres,686.0
-S12000019,Midlothian,2022,Roads Needing Repairs,39.0
-S12000019,Midlothian,2003,Traffic Congestion,16.9
-S12000019,Midlothian,2023,Traffic Congestion,6.0
-S12000019,Midlothian,2023,Roads Needing Repairs,37.0
-S12000019,Midlothian,2008,Roads Needing Repairs,35.9
-S12000019,Midlothian,2021,Vehicle Kilometres,640.0
-S12000019,Midlothian,2021,Traffic Congestion,17.0
-S12000019,Midlothian,2005,Traffic Congestion,14.5
-S12000019,Midlothian,2022,Vehicle Kilometres,676.0
-S12000019,Midlothian,2022,Traffic Congestion,14.0
-S12000019,Midlothian,2021,Roads Needing Repairs,36.0
-S12000019,Midlothian,2016,Traffic Congestion,10.6
-S12000019,Midlothian,2017,Traffic Congestion,12.3
-S12000019,Midlothian,2016,Vehicle Kilometres,695.0
-S12000019,Midlothian,2017,Vehicle Kilometres,717.0
-S12000019,Midlothian,2017,Roads Needing Repairs,32.9
-S12000019,Midlothian,2013,Traffic Congestion,8.2
-S12000019,Midlothian,2012,Vehicle Kilometres,642.0
-S12000019,Midlothian,2015,Roads Needing Repairs,31.4
-S12000019,Midlothian,2016,Roads Needing Repairs,31.4
-S12000019,Midlothian,2012,Roads Needing Repairs,32.4
-S12000019,Midlothian,2018,Traffic Congestion,14.0
-S12000019,Midlothian,2012,Traffic Congestion,9.7
-S12000019,Midlothian,2018,Roads Needing Repairs,35.7
-S12000020,Moray,2006,Roads Needing Repairs,50.0
-S12000020,Moray,2022,Roads Needing Repairs,26.0
-S12000020,Moray,2014,Vehicle Kilometres,745.0
-S12000020,Moray,2021,Roads Needing Repairs,26.0
-S12000020,Moray,2014,Roads Needing Repairs,25.2
-S12000020,Moray,2016,Roads Needing Repairs,26.9
-S12000020,Moray,2022,Traffic Congestion,6.0
-S12000020,Moray,2022,Vehicle Kilometres,777.0
-S12000020,Moray,2023,Traffic Congestion,1.0
-S12000020,Moray,2007,Traffic Congestion,13.6
-S12000020,Moray,2018,Roads Needing Repairs,29.1
-S12000020,Moray,2023,Roads Needing Repairs,25.0
-S12000020,Moray,2007,Vehicle Kilometres,728.0
-S12000020,Moray,2015,Roads Needing Repairs,27.9
-S12000020,Moray,2007,Roads Needing Repairs,28.0
-S12000020,Moray,2003,Traffic Congestion,7.3
-S12000020,Moray,2023,Vehicle Kilometres,818.0
-S12000020,Moray,2018,Vehicle Kilometres,812.0
-S12000020,Moray,2020,Vehicle Kilometres,669.0
-S12000020,Moray,2017,Roads Needing Repairs,28.0
-S12000020,Moray,2019,Roads Needing Repairs,30.6
-S12000020,Moray,2020,Roads Needing Repairs,28.5
-S12000020,Moray,2014,Traffic Congestion,16.2
-S12000020,Moray,2019,Traffic Congestion,11.0
-S12000020,Moray,2015,Traffic Congestion,9.8
-S12000020,Moray,2019,Vehicle Kilometres,809.0
-S12000020,Moray,2017,Vehicle Kilometres,809.0
-S12000020,Moray,2006,Vehicle Kilometres,713.0
-S12000020,Moray,2021,Vehicle Kilometres,765.0
-S12000020,Moray,2016,Traffic Congestion,9.8
-S12000020,Moray,2016,Vehicle Kilometres,785.0
-S12000020,Moray,2021,Traffic Congestion,6.0
-S12000020,Moray,2005,Traffic Congestion,11.5
-S12000020,Moray,2017,Traffic Congestion,8.5
-S12000020,Moray,2018,Traffic Congestion,11.0
-S12000020,Moray,2015,Vehicle Kilometres,757.0
-S12000020,Moray,2012,Vehicle Kilometres,718.0
-S12000020,Moray,2012,Roads Needing Repairs,26.1
-S12000020,Moray,2011,Roads Needing Repairs,26.1
-S12000020,Moray,2008,Roads Needing Repairs,22.7
-S12000020,Moray,2011,Vehicle Kilometres,705.0
-S12000020,Moray,2009,Vehicle Kilometres,715.0
-S12000020,Moray,2009,Roads Needing Repairs,24.4
-S12000020,Moray,2008,Vehicle Kilometres,724.0
-S12000020,Moray,2012,Traffic Congestion,5.1
-S12000020,Moray,2010,Vehicle Kilometres,710.0
-S12000020,Moray,2009,Traffic Congestion,9.7
-S12000020,Moray,2013,Vehicle Kilometres,719.0
-S12000020,Moray,2013,Roads Needing Repairs,25.2
-S12000020,Moray,2013,Traffic Congestion,7.4
-S12000021,North Ayrshire,2009,Traffic Congestion,8.38
-S12000021,North Ayrshire,2013,Traffic Congestion,11.0
-S12000021,North Ayrshire,2023,Roads Needing Repairs,33.0
-S12000021,North Ayrshire,2019,Roads Needing Repairs,37.3
-S12000021,North Ayrshire,2007,Traffic Congestion,10.2
-S12000021,North Ayrshire,2022,Traffic Congestion,10.0
-S12000021,North Ayrshire,2019,Traffic Congestion,9.0
-S12000021,North Ayrshire,2003,Traffic Congestion,12.3
-S12000021,North Ayrshire,2006,Roads Needing Repairs,50.0
-S12000021,North Ayrshire,2010,Vehicle Kilometres,764.0
-S12000021,North Ayrshire,2016,Vehicle Kilometres,793.0
-S12000021,North Ayrshire,2014,Traffic Congestion,6.7
-S12000021,North Ayrshire,2014,Roads Needing Repairs,40.8
-S12000021,North Ayrshire,2012,Traffic Congestion,9.7
-S12000021,North Ayrshire,2007,Vehicle Kilometres,778.0
-S12000021,North Ayrshire,2018,Traffic Congestion,8.0
-S12000021,North Ayrshire,2012,Roads Needing Repairs,42.7
-S12000021,North Ayrshire,2005,Traffic Congestion,5.4
-S12000021,North Ayrshire,2020,Roads Needing Repairs,37.1
-S12000021,North Ayrshire,2020,Vehicle Kilometres,629.0
-S12000021,North Ayrshire,2015,Roads Needing Repairs,37.9
-S12000021,North Ayrshire,2008,Vehicle Kilometres,778.0
-S12000021,North Ayrshire,2016,Roads Needing Repairs,38.3
-S12000021,North Ayrshire,2007,Roads Needing Repairs,41.0
-S12000021,North Ayrshire,2009,Roads Needing Repairs,40.0
-S12000021,North Ayrshire,2018,Roads Needing Repairs,38.2
-S12000021,North Ayrshire,2017,Traffic Congestion,8.5
-S12000021,North Ayrshire,2013,Roads Needing Repairs,40.8
-S12000021,North Ayrshire,2023,Traffic Congestion,6.0
-S12000021,North Ayrshire,2006,Vehicle Kilometres,767.0
-S12000021,North Ayrshire,2022,Roads Needing Repairs,34.0
-S12000021,North Ayrshire,2009,Vehicle Kilometres,769.0
-S12000021,North Ayrshire,2017,Vehicle Kilometres,805.0
-S12000021,North Ayrshire,2015,Traffic Congestion,8.4
-S12000021,North Ayrshire,2021,Traffic Congestion,16.0
-S12000021,North Ayrshire,2008,Roads Needing Repairs,37.2
-S12000021,North Ayrshire,2017,Roads Needing Repairs,39.2
-S12000021,North Ayrshire,2018,Vehicle Kilometres,804.0
-S12000021,North Ayrshire,2023,Vehicle Kilometres,798.0
-S12000021,North Ayrshire,2021,Roads Needing Repairs,34.0
-S12000021,North Ayrshire,2016,Traffic Congestion,11.4
-S12000021,North Ayrshire,2013,Vehicle Kilometres,740.0
-S12000021,North Ayrshire,2011,Roads Needing Repairs,43.8
-S12000021,North Ayrshire,2011,Vehicle Kilometres,761.0
-S12000021,North Ayrshire,2021,Vehicle Kilometres,721.0
-S12000021,North Ayrshire,2019,Vehicle Kilometres,806.0
-S12000021,North Ayrshire,2022,Vehicle Kilometres,781.0
-S12000021,North Ayrshire,2014,Vehicle Kilometres,765.0
-S12000021,North Ayrshire,2015,Vehicle Kilometres,774.0
-S12000021,North Ayrshire,2012,Vehicle Kilometres,744.0
-S12000023,Orkney Islands,2009,Roads Needing Repairs,27.3
-S12000023,Orkney Islands,2018,Traffic Congestion,1.0
-S12000023,Orkney Islands,2009,Traffic Congestion,3.33
-S12000023,Orkney Islands,2015,Vehicle Kilometres,145.0
-S12000023,Orkney Islands,2023,Vehicle Kilometres,146.0
-S12000023,Orkney Islands,2009,Vehicle Kilometres,133.0
-S12000023,Orkney Islands,2021,Vehicle Kilometres,135.0
-S12000023,Orkney Islands,2021,Traffic Congestion,3.0
-S12000023,Orkney Islands,2005,Traffic Congestion,1.5
-S12000023,Orkney Islands,2013,Traffic Congestion,0.0
-S12000023,Orkney Islands,2015,Traffic Congestion,0.4
-S12000023,Orkney Islands,2022,Roads Needing Repairs,21.0
-S12000023,Orkney Islands,2017,Roads Needing Repairs,19.8
-S12000023,Orkney Islands,2008,Vehicle Kilometres,132.0
-S12000023,Orkney Islands,2012,Vehicle Kilometres,134.0
-S12000023,Orkney Islands,2019,Vehicle Kilometres,151.0
-S12000023,Orkney Islands,2006,Vehicle Kilometres,131.0
-S12000023,Orkney Islands,2017,Traffic Congestion,0.8
-S12000023,Orkney Islands,2023,Traffic Congestion,4.0
-S12000023,Orkney Islands,2011,Vehicle Kilometres,133.0
-S12000023,Orkney Islands,2018,Roads Needing Repairs,20.5
-S12000023,Orkney Islands,2017,Vehicle Kilometres,155.0
-S12000023,Orkney Islands,2018,Vehicle Kilometres,152.0
-S12000023,Orkney Islands,2008,Roads Needing Repairs,19.5
-S12000023,Orkney Islands,2020,Vehicle Kilometres,123.0
-S12000023,Orkney Islands,2023,Roads Needing Repairs,22.0
-S12000023,Orkney Islands,2016,Vehicle Kilometres,151.0
-S12000023,Orkney Islands,2019,Roads Needing Repairs,21.2
-S12000023,Orkney Islands,2020,Roads Needing Repairs,22.2
-S12000023,Orkney Islands,2015,Roads Needing Repairs,21.2
-S12000023,Orkney Islands,2016,Roads Needing Repairs,21.2
-S12000023,Orkney Islands,2006,Roads Needing Repairs,42.0
-S12000023,Orkney Islands,2016,Traffic Congestion,1.1
-S12000023,Orkney Islands,2019,Traffic Congestion,0.0
-S12000023,Orkney Islands,2012,Traffic Congestion,0.5
-S12000023,Orkney Islands,2010,Vehicle Kilometres,135.0
-S12000023,Orkney Islands,2012,Roads Needing Repairs,20.4
-S12000023,Orkney Islands,2022,Vehicle Kilometres,142.0
-S12000023,Orkney Islands,2007,Roads Needing Repairs,25.0
-S12000023,Orkney Islands,2003,Traffic Congestion,2.4
-S12000023,Orkney Islands,2007,Vehicle Kilometres,133.0
-S12000023,Orkney Islands,2007,Traffic Congestion,5.3
-S12000023,Orkney Islands,2014,Roads Needing Repairs,20.1
-S12000023,Orkney Islands,2011,Roads Needing Repairs,21.4
-S12000023,Orkney Islands,2021,Roads Needing Repairs,22.0
-S12000023,Orkney Islands,2014,Traffic Congestion,0.8
-S12000023,Orkney Islands,2014,Vehicle Kilometres,142.0
-S12000023,Orkney Islands,2013,Vehicle Kilometres,135.0
-S12000023,Orkney Islands,2022,Traffic Congestion,3.0
-S12000023,Orkney Islands,2013,Roads Needing Repairs,20.1
-S12000026,Scottish Borders,2013,Roads Needing Repairs,46.8
-S12000026,Scottish Borders,2014,Traffic Congestion,4.4
-S12000026,Scottish Borders,2009,Roads Needing Repairs,38.1
-S12000026,Scottish Borders,2010,Vehicle Kilometres,1180.0
-S12000026,Scottish Borders,2020,Vehicle Kilometres,989.0
-S12000026,Scottish Borders,2016,Vehicle Kilometres,1295.0
-S12000026,Scottish Borders,2019,Roads Needing Repairs,45.3
-S12000026,Scottish Borders,2023,Traffic Congestion,11.0
-S12000026,Scottish Borders,2012,Roads Needing Repairs,41.7
-S12000026,Scottish Borders,2012,Vehicle Kilometres,1177.0
-S12000026,Scottish Borders,2020,Roads Needing Repairs,43.5
-S12000026,Scottish Borders,2007,Vehicle Kilometres,1204.0
-S12000026,Scottish Borders,2015,Roads Needing Repairs,46.3
-S12000026,Scottish Borders,2009,Vehicle Kilometres,1190.0
-S12000026,Scottish Borders,2013,Traffic Congestion,4.7
-S12000026,Scottish Borders,2009,Traffic Congestion,5.2
-S12000026,Scottish Borders,2016,Roads Needing Repairs,46.6
-S12000026,Scottish Borders,2014,Roads Needing Repairs,46.8
-S12000026,Scottish Borders,2018,Roads Needing Repairs,45.4
-S12000026,Scottish Borders,2005,Traffic Congestion,5.7
-S12000026,Scottish Borders,2017,Traffic Congestion,4.7
-S12000026,Scottish Borders,2008,Roads Needing Repairs,37.2
-S12000026,Scottish Borders,2012,Traffic Congestion,2.6
-S12000026,Scottish Borders,2022,Roads Needing Repairs,42.0
-S12000026,Scottish Borders,2022,Vehicle Kilometres,1260.0
-S12000026,Scottish Borders,2019,Vehicle Kilometres,1292.0
-S12000026,Scottish Borders,2017,Vehicle Kilometres,1313.0
-S12000026,Scottish Borders,2011,Vehicle Kilometres,1180.0
-S12000026,Scottish Borders,2018,Vehicle Kilometres,1303.0
-S12000026,Scottish Borders,2017,Roads Needing Repairs,48.6
-S12000026,Scottish Borders,2022,Traffic Congestion,8.0
-S12000026,Scottish Borders,2023,Roads Needing Repairs,42.0
-S12000026,Scottish Borders,2016,Traffic Congestion,3.9
-S12000026,Scottish Borders,2007,Roads Needing Repairs,41.0
-S12000026,Scottish Borders,2003,Traffic Congestion,7.6
-S12000026,Scottish Borders,2013,Vehicle Kilometres,1183.0
-S12000026,Scottish Borders,2011,Roads Needing Repairs,40.2
-S12000026,Scottish Borders,2006,Roads Needing Repairs,56.0
-S12000026,Scottish Borders,2008,Vehicle Kilometres,1189.0
-S12000026,Scottish Borders,2006,Vehicle Kilometres,1193.0
-S12000026,Scottish Borders,2019,Traffic Congestion,9.0
-S12000026,Scottish Borders,2007,Traffic Congestion,11.0
-S12000026,Scottish Borders,2014,Vehicle Kilometres,1222.0
-S12000026,Scottish Borders,2021,Roads Needing Repairs,41.0
-S12000026,Scottish Borders,2021,Vehicle Kilometres,1178.0
-S12000026,Scottish Borders,2015,Vehicle Kilometres,1254.0
-S12000026,Scottish Borders,2023,Vehicle Kilometres,1254.0
-S12000026,Scottish Borders,2021,Traffic Congestion,9.0
-S12000026,Scottish Borders,2015,Traffic Congestion,4.1
-S12000026,Scottish Borders,2018,Traffic Congestion,7.0
-S12000027,Shetland Islands,2016,Vehicle Kilometres,233.0
-S12000027,Shetland Islands,2012,Roads Needing Repairs,42.5
-S12000027,Shetland Islands,2022,Roads Needing Repairs,30.0
-S12000027,Shetland Islands,2015,Vehicle Kilometres,225.0
-S12000027,Shetland Islands,2007,Roads Needing Repairs,40.0
-S12000027,Shetland Islands,2019,Roads Needing Repairs,35.7
-S12000027,Shetland Islands,2007,Vehicle Kilometres,206.0
-S12000027,Shetland Islands,2006,Vehicle Kilometres,205.0
-S12000027,Shetland Islands,2012,Vehicle Kilometres,209.0
-S12000027,Shetland Islands,2010,Vehicle Kilometres,207.0
-S12000027,Shetland Islands,2023,Traffic Congestion,2.0
-S12000027,Shetland Islands,2014,Vehicle Kilometres,219.0
-S12000027,Shetland Islands,2014,Roads Needing Repairs,35.9
-S12000027,Shetland Islands,2020,Vehicle Kilometres,189.0
-S12000027,Shetland Islands,2005,Traffic Congestion,0.7
-S12000027,Shetland Islands,2016,Roads Needing Repairs,37.7
-S12000027,Shetland Islands,2012,Traffic Congestion,0.5
-S12000027,Shetland Islands,2014,Traffic Congestion,0.8
-S12000027,Shetland Islands,2006,Roads Needing Repairs,39.0
-S12000027,Shetland Islands,2008,Roads Needing Repairs,38.3
-S12000027,Shetland Islands,2013,Traffic Congestion,0.4
-S12000027,Shetland Islands,2018,Vehicle Kilometres,234.0
-S12000027,Shetland Islands,2022,Vehicle Kilometres,221.0
-S12000027,Shetland Islands,2017,Vehicle Kilometres,238.0
-S12000027,Shetland Islands,2017,Traffic Congestion,2.0
-S12000027,Shetland Islands,2017,Roads Needing Repairs,35.3
-S12000027,Shetland Islands,2018,Roads Needing Repairs,36.2
-S12000027,Shetland Islands,2011,Vehicle Kilometres,208.0
-S12000027,Shetland Islands,2011,Roads Needing Repairs,43.6
-S12000027,Shetland Islands,2018,Traffic Congestion,2.0
-S12000027,Shetland Islands,2021,Traffic Congestion,1.0
-S12000027,Shetland Islands,2023,Vehicle Kilometres,225.0
-S12000027,Shetland Islands,2016,Traffic Congestion,2.4
-S12000027,Shetland Islands,2023,Roads Needing Repairs,30.0
-S12000027,Shetland Islands,2019,Traffic Congestion,2.0
-S12000027,Shetland Islands,2022,Traffic Congestion,2.0
-S12000027,Shetland Islands,2009,Vehicle Kilometres,203.0
-S12000027,Shetland Islands,2015,Traffic Congestion,2.4
-S12000027,Shetland Islands,2021,Vehicle Kilometres,208.0
-S12000027,Shetland Islands,2021,Roads Needing Repairs,34.0
-S12000027,Shetland Islands,2019,Vehicle Kilometres,233.0
-S12000027,Shetland Islands,2013,Roads Needing Repairs,35.9
-S12000027,Shetland Islands,2020,Roads Needing Repairs,34.7
-S12000027,Shetland Islands,2015,Roads Needing Repairs,38.9
-S12000027,Shetland Islands,2013,Vehicle Kilometres,212.0
-S12000027,Shetland Islands,2009,Traffic Congestion,2.47
-S12000027,Shetland Islands,2008,Vehicle Kilometres,206.0
-S12000027,Shetland Islands,2003,Traffic Congestion,2.1
-S12000027,Shetland Islands,2007,Traffic Congestion,2.1
-S12000027,Shetland Islands,2009,Roads Needing Repairs,39.3
-S12000028,South Ayrshire,2022,Vehicle Kilometres,1040.0
-S12000028,South Ayrshire,2015,Traffic Congestion,9.0
-S12000028,South Ayrshire,2010,Vehicle Kilometres,977.0
-S12000028,South Ayrshire,2020,Vehicle Kilometres,814.0
-S12000028,South Ayrshire,2015,Roads Needing Repairs,44.2
-S12000028,South Ayrshire,2014,Traffic Congestion,7.0
-S12000028,South Ayrshire,2017,Traffic Congestion,6.1
-S12000028,South Ayrshire,2013,Vehicle Kilometres,952.0
-S12000028,South Ayrshire,2021,Roads Needing Repairs,39.0
-S12000028,South Ayrshire,2017,Vehicle Kilometres,1049.0
-S12000028,South Ayrshire,2012,Traffic Congestion,5.5
-S12000028,South Ayrshire,2016,Traffic Congestion,4.1
-S12000028,South Ayrshire,2019,Roads Needing Repairs,40.6
-S12000028,South Ayrshire,2017,Roads Needing Repairs,41.0
-S12000028,South Ayrshire,2020,Roads Needing Repairs,40.9
-S12000028,South Ayrshire,2016,Vehicle Kilometres,1028.0
-S12000028,South Ayrshire,2012,Roads Needing Repairs,44.5
-S12000028,South Ayrshire,2009,Roads Needing Repairs,42.8
-S12000028,South Ayrshire,2022,Traffic Congestion,9.0
-S12000028,South Ayrshire,2023,Roads Needing Repairs,36.0
-S12000028,South Ayrshire,2018,Vehicle Kilometres,1051.0
-S12000028,South Ayrshire,2021,Traffic Congestion,7.0
-S12000028,South Ayrshire,2015,Vehicle Kilometres,996.0
-S12000028,South Ayrshire,2023,Vehicle Kilometres,1053.0
-S12000028,South Ayrshire,2022,Roads Needing Repairs,38.0
-S12000028,South Ayrshire,2006,Vehicle Kilometres,969.0
-S12000028,South Ayrshire,2003,Traffic Congestion,14.5
-S12000028,South Ayrshire,2006,Roads Needing Repairs,61.0
-S12000028,South Ayrshire,2011,Roads Needing Repairs,46.7
-S12000028,South Ayrshire,2007,Vehicle Kilometres,980.0
-S12000028,South Ayrshire,2018,Traffic Congestion,6.0
-S12000028,South Ayrshire,2014,Vehicle Kilometres,980.0
-S12000028,South Ayrshire,2009,Vehicle Kilometres,970.0
-S12000028,South Ayrshire,2007,Traffic Congestion,8.4
-S12000028,South Ayrshire,2021,Vehicle Kilometres,950.0
-S12000028,South Ayrshire,2018,Roads Needing Repairs,41.3
-S12000028,South Ayrshire,2016,Roads Needing Repairs,42.3
-S12000028,South Ayrshire,2007,Roads Needing Repairs,45.0
-S12000028,South Ayrshire,2013,Traffic Congestion,6.2
-S12000028,South Ayrshire,2008,Roads Needing Repairs,42.2
-S12000028,South Ayrshire,2019,Traffic Congestion,6.0
-S12000028,South Ayrshire,2011,Vehicle Kilometres,973.0
-S12000028,South Ayrshire,2012,Vehicle Kilometres,959.0
-S12000028,South Ayrshire,2014,Roads Needing Repairs,41.4
-S12000028,South Ayrshire,2005,Traffic Congestion,7.9
-S12000028,South Ayrshire,2019,Vehicle Kilometres,1053.0
-S12000028,South Ayrshire,2013,Roads Needing Repairs,41.4
-S12000028,South Ayrshire,2023,Traffic Congestion,8.0
-S12000028,South Ayrshire,2009,Traffic Congestion,6.1
-S12000028,South Ayrshire,2008,Vehicle Kilometres,974.0
-S12000029,South Lanarkshire,2011,Vehicle Kilometres,2448.0
-S12000029,South Lanarkshire,2009,Roads Needing Repairs,37.5
-S12000029,South Lanarkshire,2021,Traffic Congestion,15.0
-S12000029,South Lanarkshire,2006,Vehicle Kilometres,2437.0
-S12000029,South Lanarkshire,2019,Traffic Congestion,15.0
-S12000029,South Lanarkshire,2017,Vehicle Kilometres,2796.0
-S12000029,South Lanarkshire,2006,Roads Needing Repairs,51.0
-S12000029,South Lanarkshire,2021,Vehicle Kilometres,2559.0
-S12000029,South Lanarkshire,2007,Traffic Congestion,15.7
-S12000029,South Lanarkshire,2003,Traffic Congestion,12.0
-S12000029,South Lanarkshire,2019,Vehicle Kilometres,2836.0
-S12000029,South Lanarkshire,2008,Vehicle Kilometres,2451.0
-S12000029,South Lanarkshire,2023,Vehicle Kilometres,2843.0
-S12000029,South Lanarkshire,2023,Traffic Congestion,14.0
-S12000029,South Lanarkshire,2016,Traffic Congestion,18.6
-S12000029,South Lanarkshire,2017,Roads Needing Repairs,31.9
-S12000029,South Lanarkshire,2015,Traffic Congestion,21.8
-S12000029,South Lanarkshire,2019,Roads Needing Repairs,30.4
-S12000029,South Lanarkshire,2017,Traffic Congestion,19.2
-S12000029,South Lanarkshire,2023,Roads Needing Repairs,32.0
-S12000029,South Lanarkshire,2007,Roads Needing Repairs,39.0
-S12000029,South Lanarkshire,2014,Roads Needing Repairs,42.1
-S12000029,South Lanarkshire,2020,Vehicle Kilometres,2181.0
-S12000029,South Lanarkshire,2012,Vehicle Kilometres,2502.0
-S12000029,South Lanarkshire,2015,Vehicle Kilometres,2608.0
-S12000029,South Lanarkshire,2021,Roads Needing Repairs,30.0
-S12000029,South Lanarkshire,2015,Roads Needing Repairs,33.5
-S12000029,South Lanarkshire,2013,Traffic Congestion,7.5
-S12000029,South Lanarkshire,2014,Traffic Congestion,14.6
-S12000029,South Lanarkshire,2018,Roads Needing Repairs,31.3
-S12000029,South Lanarkshire,2014,Vehicle Kilometres,2585.0
-S12000029,South Lanarkshire,2018,Traffic Congestion,17.0
-S12000029,South Lanarkshire,2012,Traffic Congestion,13.1
-S12000029,South Lanarkshire,2009,Traffic Congestion,11.47
-S12000029,South Lanarkshire,2016,Roads Needing Repairs,33.1
-S12000029,South Lanarkshire,2010,Vehicle Kilometres,2454.0
-S12000029,South Lanarkshire,2018,Vehicle Kilometres,2809.0
-S12000029,South Lanarkshire,2005,Traffic Congestion,15.4
-S12000029,South Lanarkshire,2012,Roads Needing Repairs,36.8
-S12000029,South Lanarkshire,2008,Roads Needing Repairs,37.5
-S12000029,South Lanarkshire,2022,Roads Needing Repairs,30.0
-S12000029,South Lanarkshire,2020,Roads Needing Repairs,30.6
-S12000029,South Lanarkshire,2016,Vehicle Kilometres,2713.0
-S12000029,South Lanarkshire,2007,Vehicle Kilometres,2446.0
-S12000029,South Lanarkshire,2022,Vehicle Kilometres,2781.0
-S12000029,South Lanarkshire,2022,Traffic Congestion,14.0
-S12000029,South Lanarkshire,2011,Roads Needing Repairs,37.5
-S12000029,South Lanarkshire,2013,Vehicle Kilometres,2513.0
-S12000029,South Lanarkshire,2013,Roads Needing Repairs,42.1
-S12000029,South Lanarkshire,2009,Vehicle Kilometres,2475.0
-S12000030,Stirling,2007,Traffic Congestion,16.1
-S12000030,Stirling,2022,Traffic Congestion,10.0
-S12000030,Stirling,2006,Roads Needing Repairs,53.0
-S12000030,Stirling,2008,Vehicle Kilometres,1249.0
-S12000030,Stirling,2019,Roads Needing Repairs,41.3
-S12000030,Stirling,2005,Traffic Congestion,9.4
-S12000030,Stirling,2013,Traffic Congestion,5.9
-S12000030,Stirling,2006,Vehicle Kilometres,1236.0
-S12000030,Stirling,2018,Traffic Congestion,12.0
-S12000030,Stirling,2007,Roads Needing Repairs,47.0
-S12000030,Stirling,2017,Roads Needing Repairs,42.5
-S12000030,Stirling,2017,Traffic Congestion,10.7
-S12000030,Stirling,2021,Roads Needing Repairs,40.0
-S12000030,Stirling,2012,Roads Needing Repairs,40.8
-S12000030,Stirling,2011,Roads Needing Repairs,42.3
-S12000030,Stirling,2022,Vehicle Kilometres,1259.0
-S12000030,Stirling,2018,Vehicle Kilometres,1351.0
-S12000030,Stirling,2015,Vehicle Kilometres,1263.0
-S12000030,Stirling,2012,Vehicle Kilometres,1195.0
-S12000030,Stirling,2021,Traffic Congestion,11.0
-S12000030,Stirling,2003,Traffic Congestion,8.2
-S12000030,Stirling,2013,Roads Needing Repairs,35.6
-S12000030,Stirling,2014,Roads Needing Repairs,35.6
-S12000030,Stirling,2021,Vehicle Kilometres,1160.0
-S12000030,Stirling,2009,Traffic Congestion,11.99
-S12000030,Stirling,2015,Traffic Congestion,12.1
-S12000030,Stirling,2009,Roads Needing Repairs,44.5
-S12000030,Stirling,2023,Roads Needing Repairs,40.0
-S12000030,Stirling,2015,Roads Needing Repairs,44.2
-S12000030,Stirling,2016,Traffic Congestion,5.0
-S12000030,Stirling,2014,Traffic Congestion,10.9
-S12000030,Stirling,2018,Roads Needing Repairs,41.6
-S12000030,Stirling,2013,Vehicle Kilometres,1192.0
-S12000030,Stirling,2023,Vehicle Kilometres,1281.0
-S12000030,Stirling,2014,Vehicle Kilometres,1236.0
-S12000030,Stirling,2007,Vehicle Kilometres,1261.0
-S12000030,Stirling,2008,Roads Needing Repairs,44.7
-S12000030,Stirling,2016,Vehicle Kilometres,1329.0
-S12000030,Stirling,2022,Roads Needing Repairs,40.0
-S12000030,Stirling,2017,Vehicle Kilometres,1341.0
-S12000030,Stirling,2023,Traffic Congestion,13.0
-S12000030,Stirling,2011,Vehicle Kilometres,1210.0
-S12000030,Stirling,2020,Roads Needing Repairs,41.8
-S12000030,Stirling,2019,Vehicle Kilometres,1350.0
-S12000030,Stirling,2016,Roads Needing Repairs,43.8
-S12000030,Stirling,2019,Traffic Congestion,15.0
-S12000030,Stirling,2009,Vehicle Kilometres,1234.0
-S12000030,Stirling,2020,Vehicle Kilometres,1020.0
-S12000030,Stirling,2010,Vehicle Kilometres,1227.0
-S12000030,Stirling,2012,Traffic Congestion,7.7
-S12000033,Aberdeen City,2015,Vehicle Kilometres,1308.0
-S12000033,Aberdeen City,2014,Roads Needing Repairs,27.0
-S12000033,Aberdeen City,2012,Traffic Congestion,11.6
-S12000033,Aberdeen City,2012,Vehicle Kilometres,1270.0
-S12000033,Aberdeen City,2010,Vehicle Kilometres,1273.0
-S12000033,Aberdeen City,2016,Vehicle Kilometres,1345.0
-S12000033,Aberdeen City,2005,Traffic Congestion,19.2
-S12000033,Aberdeen City,2021,Roads Needing Repairs,28.0
-S12000033,Aberdeen City,2016,Roads Needing Repairs,28.2
-S12000033,Aberdeen City,2013,Vehicle Kilometres,1268.0
-S12000033,Aberdeen City,2015,Roads Needing Repairs,26.0
-S12000033,Aberdeen City,2018,Vehicle Kilometres,1351.0
-S12000033,Aberdeen City,2020,Vehicle Kilometres,1254.0
-S12000033,Aberdeen City,2009,Traffic Congestion,18.15
-S12000033,Aberdeen City,2006,Roads Needing Repairs,39.0
-S12000033,Aberdeen City,2018,Traffic Congestion,20.0
-S12000033,Aberdeen City,2013,Roads Needing Repairs,27.0
-S12000033,Aberdeen City,2014,Vehicle Kilometres,1299.0
-S12000033,Aberdeen City,2013,Traffic Congestion,18.5
-S12000033,Aberdeen City,2023,Traffic Congestion,13.0
-S12000033,Aberdeen City,2007,Traffic Congestion,23.1
-S12000033,Aberdeen City,2009,Roads Needing Repairs,31.2
-S12000033,Aberdeen City,2008,Vehicle Kilometres,1342.0
-S12000033,Aberdeen City,2017,Traffic Congestion,19.4
-S12000033,Aberdeen City,2023,Vehicle Kilometres,1529.0
-S12000033,Aberdeen City,2023,Roads Needing Repairs,27.0
-S12000033,Aberdeen City,2007,Roads Needing Repairs,22.0
-S12000033,Aberdeen City,2017,Roads Needing Repairs,30.3
-S12000033,Aberdeen City,2019,Vehicle Kilometres,1586.0
-S12000033,Aberdeen City,2020,Roads Needing Repairs,28.4
-S12000033,Aberdeen City,2015,Traffic Congestion,16.4
-S12000033,Aberdeen City,2008,Roads Needing Repairs,24.6
-S12000033,Aberdeen City,2019,Traffic Congestion,17.0
-S12000033,Aberdeen City,2019,Roads Needing Repairs,30.0
-S12000033,Aberdeen City,2022,Vehicle Kilometres,1474.0
-S12000033,Aberdeen City,2017,Vehicle Kilometres,1344.0
-S12000033,Aberdeen City,2022,Traffic Congestion,11.0
-S12000033,Aberdeen City,2021,Traffic Congestion,11.0
-S12000033,Aberdeen City,2006,Vehicle Kilometres,1390.0
-S12000033,Aberdeen City,2014,Traffic Congestion,19.2
-S12000033,Aberdeen City,2018,Roads Needing Repairs,30.2
-S12000033,Aberdeen City,2011,Vehicle Kilometres,1261.0
-S12000033,Aberdeen City,2009,Vehicle Kilometres,1293.0
-S12000033,Aberdeen City,2007,Vehicle Kilometres,1354.0
-S12000033,Aberdeen City,2011,Roads Needing Repairs,32.4
-S12000033,Aberdeen City,2016,Traffic Congestion,19.6
-S12000033,Aberdeen City,2012,Roads Needing Repairs,30.5
-S12000033,Aberdeen City,2003,Traffic Congestion,18.3
-S12000033,Aberdeen City,2022,Roads Needing Repairs,26.0
-S12000033,Aberdeen City,2021,Vehicle Kilometres,1382.0
-S12000034,Aberdeenshire,2011,Vehicle Kilometres,2694.0
-S12000034,Aberdeenshire,2018,Roads Needing Repairs,27.1
-S12000034,Aberdeenshire,2008,Vehicle Kilometres,2723.0
-S12000034,Aberdeenshire,2009,Traffic Congestion,11.5
-S12000034,Aberdeenshire,2009,Roads Needing Repairs,25.9
-S12000034,Aberdeenshire,2022,Traffic Congestion,6.0
-S12000034,Aberdeenshire,2021,Traffic Congestion,7.0
-S12000034,Aberdeenshire,2021,Vehicle Kilometres,2888.0
-S12000034,Aberdeenshire,2009,Vehicle Kilometres,2679.0
-S12000034,Aberdeenshire,2007,Vehicle Kilometres,2743.0
-S12000034,Aberdeenshire,2022,Roads Needing Repairs,23.0
-S12000034,Aberdeenshire,2022,Vehicle Kilometres,3095.0
-S12000034,Aberdeenshire,2007,Roads Needing Repairs,27.0
-S12000034,Aberdeenshire,2007,Traffic Congestion,12.7
-S12000034,Aberdeenshire,2019,Traffic Congestion,10.0
-S12000034,Aberdeenshire,2019,Vehicle Kilometres,3262.0
-S12000034,Aberdeenshire,2010,Vehicle Kilometres,2719.0
-S12000034,Aberdeenshire,2018,Vehicle Kilometres,3127.0
-S12000034,Aberdeenshire,2011,Roads Needing Repairs,24.7
-S12000034,Aberdeenshire,2019,Roads Needing Repairs,26.3
-S12000034,Aberdeenshire,2023,Traffic Congestion,7.0
-S12000034,Aberdeenshire,2020,Roads Needing Repairs,24.7
-S12000034,Aberdeenshire,2021,Roads Needing Repairs,23.0
-S12000034,Aberdeenshire,2005,Traffic Congestion,10.7
-S12000034,Aberdeenshire,2020,Vehicle Kilometres,2562.0
-S12000034,Aberdeenshire,2013,Traffic Congestion,12.8
-S12000034,Aberdeenshire,2013,Vehicle Kilometres,2771.0
-S12000034,Aberdeenshire,2015,Traffic Congestion,13.7
-S12000034,Aberdeenshire,2018,Traffic Congestion,14.0
-S12000034,Aberdeenshire,2012,Vehicle Kilometres,2741.0
-S12000034,Aberdeenshire,2017,Vehicle Kilometres,3257.0
-S12000034,Aberdeenshire,2008,Roads Needing Repairs,22.7
-S12000034,Aberdeenshire,2013,Roads Needing Repairs,26.3
-S12000034,Aberdeenshire,2016,Vehicle Kilometres,3078.0
-S12000034,Aberdeenshire,2015,Vehicle Kilometres,2954.0
-S12000034,Aberdeenshire,2016,Roads Needing Repairs,24.9
-S12000034,Aberdeenshire,2015,Roads Needing Repairs,24.9
-S12000034,Aberdeenshire,2012,Traffic Congestion,12.9
-S12000034,Aberdeenshire,2016,Traffic Congestion,15.8
-S12000034,Aberdeenshire,2012,Roads Needing Repairs,24.3
-S12000034,Aberdeenshire,2017,Traffic Congestion,14.6
-S12000034,Aberdeenshire,2014,Traffic Congestion,17.2
-S12000034,Aberdeenshire,2014,Roads Needing Repairs,26.3
-S12000034,Aberdeenshire,2023,Roads Needing Repairs,22.0
-S12000034,Aberdeenshire,2017,Roads Needing Repairs,26.2
-S12000034,Aberdeenshire,2006,Vehicle Kilometres,2742.0
-S12000034,Aberdeenshire,2006,Roads Needing Repairs,39.0
-S12000034,Aberdeenshire,2003,Traffic Congestion,8.4
-S12000034,Aberdeenshire,2014,Vehicle Kilometres,2898.0
-S12000034,Aberdeenshire,2023,Vehicle Kilometres,3178.0
-S12000035,Argyll and Bute,2005,Traffic Congestion,5.4
-S12000035,Argyll and Bute,2017,Roads Needing Repairs,55.5
-S12000035,Argyll and Bute,2012,Roads Needing Repairs,57.6
-S12000035,Argyll and Bute,2016,Vehicle Kilometres,963.0
-S12000035,Argyll and Bute,2003,Traffic Congestion,3.6
-S12000035,Argyll and Bute,2020,Vehicle Kilometres,737.0
-S12000035,Argyll and Bute,2010,Vehicle Kilometres,882.0
-S12000035,Argyll and Bute,2016,Traffic Congestion,2.5
-S12000035,Argyll and Bute,2012,Traffic Congestion,3.7
-S12000035,Argyll and Bute,2017,Traffic Congestion,5.1
-S12000035,Argyll and Bute,2017,Vehicle Kilometres,996.0
-S12000035,Argyll and Bute,2019,Traffic Congestion,6.0
-S12000035,Argyll and Bute,2019,Roads Needing Repairs,54.2
-S12000035,Argyll and Bute,2012,Vehicle Kilometres,872.0
-S12000035,Argyll and Bute,2019,Vehicle Kilometres,985.0
-S12000035,Argyll and Bute,2006,Vehicle Kilometres,903.0
-S12000035,Argyll and Bute,2014,Roads Needing Repairs,57.6
-S12000035,Argyll and Bute,2007,Traffic Congestion,7.6
-S12000035,Argyll and Bute,2022,Traffic Congestion,7.0
-S12000035,Argyll and Bute,2013,Vehicle Kilometres,882.0
-S12000035,Argyll and Bute,2014,Vehicle Kilometres,908.0
-S12000035,Argyll and Bute,2021,Traffic Congestion,7.0
-S12000035,Argyll and Bute,2009,Traffic Congestion,3.73
-S12000035,Argyll and Bute,2007,Vehicle Kilometres,902.0
-S12000035,Argyll and Bute,2014,Traffic Congestion,17.5
-S12000035,Argyll and Bute,2022,Vehicle Kilometres,945.0
-S12000035,Argyll and Bute,2009,Roads Needing Repairs,55.3
-S12000035,Argyll and Bute,2009,Vehicle Kilometres,893.0
-S12000035,Argyll and Bute,2022,Roads Needing Repairs,50.0
-S12000035,Argyll and Bute,2015,Vehicle Kilometres,931.0
-S12000035,Argyll and Bute,2020,Roads Needing Repairs,52.5
-S12000035,Argyll and Bute,2007,Roads Needing Repairs,57.0
-S12000035,Argyll and Bute,2013,Traffic Congestion,2.5
-S12000035,Argyll and Bute,2016,Roads Needing Repairs,55.3
-S12000035,Argyll and Bute,2015,Roads Needing Repairs,54.4
-S12000035,Argyll and Bute,2015,Traffic Congestion,5.6
-S12000035,Argyll and Bute,2023,Traffic Congestion,10.0
-S12000035,Argyll and Bute,2013,Roads Needing Repairs,57.6
-S12000035,Argyll and Bute,2023,Vehicle Kilometres,959.0
-S12000035,Argyll and Bute,2021,Roads Needing Repairs,51.0
-S12000035,Argyll and Bute,2021,Vehicle Kilometres,865.0
-S12000035,Argyll and Bute,2011,Roads Needing Repairs,58.8
-S12000035,Argyll and Bute,2011,Vehicle Kilometres,878.0
-S12000035,Argyll and Bute,2018,Traffic Congestion,4.0
-S12000035,Argyll and Bute,2023,Roads Needing Repairs,49.0
-S12000035,Argyll and Bute,2018,Roads Needing Repairs,54.5
-S12000035,Argyll and Bute,2008,Vehicle Kilometres,896.0
-S12000035,Argyll and Bute,2008,Roads Needing Repairs,52.2
-S12000035,Argyll and Bute,2018,Vehicle Kilometres,983.0
-S12000035,Argyll and Bute,2006,Roads Needing Repairs,56.0
-S12000036,City of Edinburgh,2012,Traffic Congestion,18.3
-S12000036,City of Edinburgh,2022,Traffic Congestion,17.0
-S12000036,City of Edinburgh,2017,Vehicle Kilometres,3014.0
-S12000036,City of Edinburgh,2016,Roads Needing Repairs,34.6
-S12000036,City of Edinburgh,2007,Roads Needing Repairs,39.0
-S12000036,City of Edinburgh,2013,Traffic Congestion,15.0
-S12000036,City of Edinburgh,2006,Vehicle Kilometres,2964.0
-S12000036,City of Edinburgh,2023,Traffic Congestion,19.0
-S12000036,City of Edinburgh,2021,Vehicle Kilometres,2757.0
-S12000036,City of Edinburgh,2009,Vehicle Kilometres,2953.0
-S12000036,City of Edinburgh,2022,Roads Needing Repairs,36.0
-S12000036,City of Edinburgh,2017,Traffic Congestion,16.9
-S12000036,City of Edinburgh,2006,Roads Needing Repairs,49.0
-S12000036,City of Edinburgh,2018,Traffic Congestion,19.0
-S12000036,City of Edinburgh,2016,Vehicle Kilometres,3026.0
-S12000036,City of Edinburgh,2011,Roads Needing Repairs,32.5
-S12000036,City of Edinburgh,2016,Traffic Congestion,16.1
-S12000036,City of Edinburgh,2020,Roads Needing Repairs,37.3
-S12000036,City of Edinburgh,2020,Vehicle Kilometres,2468.0
-S12000036,City of Edinburgh,2014,Vehicle Kilometres,2889.0
-S12000036,City of Edinburgh,2021,Traffic Congestion,18.0
-S12000036,City of Edinburgh,2008,Roads Needing Repairs,34.1
-S12000036,City of Edinburgh,2019,Traffic Congestion,20.0
-S12000036,City of Edinburgh,2014,Roads Needing Repairs,43.5
-S12000036,City of Edinburgh,2009,Roads Needing Repairs,32.9
-S12000036,City of Edinburgh,2015,Traffic Congestion,15.3
-S12000036,City of Edinburgh,2017,Roads Needing Repairs,36.4
-S12000036,City of Edinburgh,2008,Vehicle Kilometres,2932.0
-S12000036,City of Edinburgh,2011,Vehicle Kilometres,2848.0
-S12000036,City of Edinburgh,2018,Roads Needing Repairs,36.5
-S12000036,City of Edinburgh,2010,Vehicle Kilometres,2835.0
-S12000036,City of Edinburgh,2003,Traffic Congestion,16.5
-S12000036,City of Edinburgh,2005,Traffic Congestion,17.1
-S12000036,City of Edinburgh,2023,Vehicle Kilometres,3040.0
-S12000036,City of Edinburgh,2019,Vehicle Kilometres,3158.0
-S12000036,City of Edinburgh,2022,Vehicle Kilometres,2998.0
-S12000036,City of Edinburgh,2019,Roads Needing Repairs,33.5
-S12000036,City of Edinburgh,2014,Traffic Congestion,16.8
-S12000036,City of Edinburgh,2009,Traffic Congestion,15.0
-S12000036,City of Edinburgh,2012,Vehicle Kilometres,2824.0
-S12000036,City of Edinburgh,2012,Roads Needing Repairs,34.0
-S12000036,City of Edinburgh,2018,Vehicle Kilometres,3138.0
-S12000036,City of Edinburgh,2007,Vehicle Kilometres,3015.0
-S12000036,City of Edinburgh,2015,Vehicle Kilometres,2951.0
-S12000036,City of Edinburgh,2015,Roads Needing Repairs,35.9
-S12000036,City of Edinburgh,2023,Roads Needing Repairs,34.0
-S12000036,City of Edinburgh,2007,Traffic Congestion,15.0
-S12000036,City of Edinburgh,2021,Roads Needing Repairs,36.0
-S12000036,City of Edinburgh,2013,Roads Needing Repairs,43.5
-S12000036,City of Edinburgh,2013,Vehicle Kilometres,2833.0
-S12000038,Renfrewshire,2018,Vehicle Kilometres,1634.0
-S12000038,Renfrewshire,2021,Traffic Congestion,14.0
-S12000038,Renfrewshire,2016,Vehicle Kilometres,1581.0
-S12000038,Renfrewshire,2015,Vehicle Kilometres,1544.0
-S12000038,Renfrewshire,2008,Vehicle Kilometres,1492.0
-S12000038,Renfrewshire,2007,Vehicle Kilometres,1476.0
-S12000038,Renfrewshire,2016,Roads Needing Repairs,34.8
-S12000038,Renfrewshire,2023,Roads Needing Repairs,28.0
-S12000038,Renfrewshire,2021,Vehicle Kilometres,1471.0
-S12000038,Renfrewshire,2003,Traffic Congestion,10.1
-S12000038,Renfrewshire,2023,Vehicle Kilometres,1616.0
-S12000038,Renfrewshire,2020,Roads Needing Repairs,32.0
-S12000038,Renfrewshire,2018,Traffic Congestion,11.0
-S12000038,Renfrewshire,2013,Traffic Congestion,9.5
-S12000038,Renfrewshire,2021,Roads Needing Repairs,29.0
-S12000038,Renfrewshire,2005,Traffic Congestion,11.9
-S12000038,Renfrewshire,2015,Traffic Congestion,17.7
-S12000038,Renfrewshire,2007,Roads Needing Repairs,34.0
-S12000038,Renfrewshire,2017,Traffic Congestion,12.8
-S12000038,Renfrewshire,2011,Roads Needing Repairs,42.5
-S12000038,Renfrewshire,2008,Roads Needing Repairs,35.7
-S12000038,Renfrewshire,2022,Traffic Congestion,12.0
-S12000038,Renfrewshire,2022,Roads Needing Repairs,28.0
-S12000038,Renfrewshire,2009,Roads Needing Repairs,46.1
-S12000038,Renfrewshire,2023,Traffic Congestion,11.0
-S12000038,Renfrewshire,2009,Traffic Congestion,13.1
-S12000038,Renfrewshire,2017,Vehicle Kilometres,1589.0
-S12000038,Renfrewshire,2018,Roads Needing Repairs,35.1
-S12000038,Renfrewshire,2012,Traffic Congestion,15.6
-S12000038,Renfrewshire,2013,Roads Needing Repairs,38.8
-S12000038,Renfrewshire,2014,Traffic Congestion,18.2
-S12000038,Renfrewshire,2017,Roads Needing Repairs,33.9
-S12000038,Renfrewshire,2022,Vehicle Kilometres,1610.0
-S12000038,Renfrewshire,2019,Vehicle Kilometres,1639.0
-S12000038,Renfrewshire,2013,Vehicle Kilometres,1454.0
-S12000038,Renfrewshire,2019,Roads Needing Repairs,32.9
-S12000038,Renfrewshire,2006,Vehicle Kilometres,1469.0
-S12000038,Renfrewshire,2007,Traffic Congestion,18.0
-S12000038,Renfrewshire,2014,Roads Needing Repairs,38.8
-S12000038,Renfrewshire,2011,Vehicle Kilometres,1449.0
-S12000038,Renfrewshire,2010,Vehicle Kilometres,1444.0
-S12000038,Renfrewshire,2016,Traffic Congestion,11.7
-S12000038,Renfrewshire,2020,Vehicle Kilometres,1280.0
-S12000038,Renfrewshire,2014,Vehicle Kilometres,1508.0
-S12000038,Renfrewshire,2012,Vehicle Kilometres,1440.0
-S12000038,Renfrewshire,2012,Roads Needing Repairs,37.3
-S12000038,Renfrewshire,2019,Traffic Congestion,13.0
-S12000038,Renfrewshire,2015,Roads Needing Repairs,36.2
-S12000038,Renfrewshire,2009,Vehicle Kilometres,1464.0
-S12000038,Renfrewshire,2006,Roads Needing Repairs,45.0
-S12000041,Angus,2015,Vehicle Kilometres,1102.0
-S12000041,Angus,2007,Traffic Congestion,6.4
-S12000041,Angus,2007,Roads Needing Repairs,30.0
-S12000041,Angus,2015,Roads Needing Repairs,28.9
-S12000041,Angus,2023,Vehicle Kilometres,1120.0
-S12000041,Angus,2020,Roads Needing Repairs,31.0
-S12000041,Angus,2009,Roads Needing Repairs,27.1
-S12000041,Angus,2009,Traffic Congestion,7.56
-S12000041,Angus,2021,Traffic Congestion,5.0
-S12000041,Angus,2013,Vehicle Kilometres,1063.0
-S12000041,Angus,2009,Vehicle Kilometres,1042.0
-S12000041,Angus,2014,Roads Needing Repairs,30.1
-S12000041,Angus,2022,Vehicle Kilometres,1101.0
-S12000041,Angus,2022,Roads Needing Repairs,31.0
-S12000041,Angus,2014,Traffic Congestion,6.8
-S12000041,Angus,2018,Roads Needing Repairs,32.7
-S12000041,Angus,2013,Roads Needing Repairs,30.1
-S12000041,Angus,2023,Traffic Congestion,8.0
-S12000041,Angus,2021,Vehicle Kilometres,1012.0
-S12000041,Angus,2003,Traffic Congestion,8.5
-S12000041,Angus,2021,Roads Needing Repairs,31.0
-S12000041,Angus,2015,Traffic Congestion,4.7
-S12000041,Angus,2013,Traffic Congestion,5.3
-S12000041,Angus,2008,Vehicle Kilometres,1052.0
-S12000041,Angus,2006,Roads Needing Repairs,39.0
-S12000041,Angus,2007,Vehicle Kilometres,1032.0
-S12000041,Angus,2018,Traffic Congestion,10.0
-S12000041,Angus,2014,Vehicle Kilometres,1100.0
-S12000041,Angus,2011,Roads Needing Repairs,29.0
-S12000041,Angus,2012,Roads Needing Repairs,27.9
-S12000041,Angus,2012,Vehicle Kilometres,1049.0
-S12000041,Angus,2016,Vehicle Kilometres,1133.0
-S12000041,Angus,2012,Traffic Congestion,9.1
-S12000041,Angus,2019,Roads Needing Repairs,33.2
-S12000041,Angus,2016,Roads Needing Repairs,31.2
-S12000041,Angus,2011,Vehicle Kilometres,1040.0
-S12000041,Angus,2020,Vehicle Kilometres,887.0
-S12000041,Angus,2019,Vehicle Kilometres,1145.0
-S12000041,Angus,2008,Roads Needing Repairs,26.6
-S12000041,Angus,2010,Vehicle Kilometres,1049.0
-S12000041,Angus,2023,Roads Needing Repairs,32.0
-S12000041,Angus,2016,Traffic Congestion,5.5
-S12000041,Angus,2022,Traffic Congestion,5.0
-S12000041,Angus,2017,Traffic Congestion,7.3
-S12000041,Angus,2005,Traffic Congestion,5.1
-S12000041,Angus,2018,Vehicle Kilometres,1148.0
-S12000041,Angus,2019,Traffic Congestion,9.0
-S12000041,Angus,2017,Vehicle Kilometres,1163.0
-S12000041,Angus,2006,Vehicle Kilometres,1043.0
-S12000041,Angus,2017,Roads Needing Repairs,31.8
-S12000042,Dundee City,2023,Vehicle Kilometres,853.0
-S12000042,Dundee City,2007,Traffic Congestion,19.9
-S12000042,Dundee City,2014,Roads Needing Repairs,49.3
-S12000042,Dundee City,2013,Vehicle Kilometres,817.0
-S12000042,Dundee City,2021,Traffic Congestion,14.0
-S12000042,Dundee City,2017,Vehicle Kilometres,839.0
-S12000042,Dundee City,2019,Traffic Congestion,13.0
-S12000042,Dundee City,2013,Roads Needing Repairs,49.3
-S12000042,Dundee City,2011,Vehicle Kilometres,829.0
-S12000042,Dundee City,2012,Vehicle Kilometres,831.0
-S12000042,Dundee City,2021,Vehicle Kilometres,783.0
-S12000042,Dundee City,2017,Traffic Congestion,11.2
-S12000042,Dundee City,2018,Roads Needing Repairs,26.5
-S12000042,Dundee City,2012,Roads Needing Repairs,27.7
-S12000042,Dundee City,2014,Vehicle Kilometres,819.0
-S12000042,Dundee City,2009,Traffic Congestion,11.76
-S12000042,Dundee City,2023,Traffic Congestion,18.0
-S12000042,Dundee City,2023,Roads Needing Repairs,28.0
-S12000042,Dundee City,2010,Vehicle Kilometres,833.0
-S12000042,Dundee City,2016,Traffic Congestion,12.0
-S12000042,Dundee City,2013,Traffic Congestion,11.8
-S12000042,Dundee City,2022,Traffic Congestion,16.0
-S12000042,Dundee City,2007,Vehicle Kilometres,897.0
-S12000042,Dundee City,2018,Traffic Congestion,12.0
-S12000042,Dundee City,2005,Traffic Congestion,9.3
-S12000042,Dundee City,2007,Roads Needing Repairs,25.0
-S12000042,Dundee City,2016,Vehicle Kilometres,836.0
-S12000042,Dundee City,2009,Vehicle Kilometres,875.0
-S12000042,Dundee City,2009,Roads Needing Repairs,25.6
-S12000042,Dundee City,2015,Roads Needing Repairs,27.2
-S12000042,Dundee City,2011,Roads Needing Repairs,25.8
-S12000042,Dundee City,2014,Traffic Congestion,15.4
-S12000042,Dundee City,2015,Vehicle Kilometres,817.0
-S12000042,Dundee City,2008,Roads Needing Repairs,23.2
-S12000042,Dundee City,2018,Vehicle Kilometres,850.0
-S12000042,Dundee City,2020,Vehicle Kilometres,691.0
-S12000042,Dundee City,2008,Vehicle Kilometres,893.0
-S12000042,Dundee City,2022,Vehicle Kilometres,841.0
-S12000042,Dundee City,2019,Vehicle Kilometres,854.0
-S12000042,Dundee City,2015,Traffic Congestion,12.9
-S12000042,Dundee City,2003,Traffic Congestion,8.8
-S12000042,Dundee City,2022,Roads Needing Repairs,28.0
-S12000042,Dundee City,2016,Roads Needing Repairs,26.7
-S12000042,Dundee City,2021,Roads Needing Repairs,26.0
-S12000042,Dundee City,2012,Traffic Congestion,11.8
-S12000042,Dundee City,2006,Roads Needing Repairs,45.0
-S12000042,Dundee City,2006,Vehicle Kilometres,877.0
-S12000042,Dundee City,2017,Roads Needing Repairs,25.4
-S12000042,Dundee City,2019,Roads Needing Repairs,26.0
-S12000042,Dundee City,2020,Roads Needing Repairs,23.7
-S12000045,East Dunbartonshire,2014,Traffic Congestion,10.7
-S12000045,East Dunbartonshire,2022,Vehicle Kilometres,554.0
-S12000045,East Dunbartonshire,2014,Vehicle Kilometres,529.0
-S12000045,East Dunbartonshire,2016,Traffic Congestion,14.3
-S12000045,East Dunbartonshire,2009,Traffic Congestion,12.32
-S12000045,East Dunbartonshire,2019,Roads Needing Repairs,33.3
-S12000045,East Dunbartonshire,2011,Roads Needing Repairs,43.3
-S12000045,East Dunbartonshire,2009,Roads Needing Repairs,44.1
-S12000045,East Dunbartonshire,2003,Traffic Congestion,16.7
-S12000045,East Dunbartonshire,2022,Roads Needing Repairs,31.0
-S12000045,East Dunbartonshire,2014,Roads Needing Repairs,41.7
-S12000045,East Dunbartonshire,2007,Roads Needing Repairs,49.0
-S12000045,East Dunbartonshire,2011,Vehicle Kilometres,519.0
-S12000045,East Dunbartonshire,2013,Vehicle Kilometres,511.0
-S12000045,East Dunbartonshire,2012,Vehicle Kilometres,516.0
-S12000045,East Dunbartonshire,2017,Vehicle Kilometres,566.0
-S12000045,East Dunbartonshire,2019,Vehicle Kilometres,573.0
-S12000045,East Dunbartonshire,2012,Traffic Congestion,9.0
-S12000045,East Dunbartonshire,2017,Traffic Congestion,15.0
-S12000045,East Dunbartonshire,2018,Traffic Congestion,15.0
-S12000045,East Dunbartonshire,2018,Roads Needing Repairs,34.0
-S12000045,East Dunbartonshire,2013,Roads Needing Repairs,41.7
-S12000045,East Dunbartonshire,2007,Vehicle Kilometres,545.0
-S12000045,East Dunbartonshire,2021,Traffic Congestion,15.0
-S12000045,East Dunbartonshire,2012,Roads Needing Repairs,43.6
-S12000045,East Dunbartonshire,2009,Vehicle Kilometres,536.0
-S12000045,East Dunbartonshire,2010,Vehicle Kilometres,521.0
-S12000045,East Dunbartonshire,2023,Roads Needing Repairs,33.0
-S12000045,East Dunbartonshire,2015,Vehicle Kilometres,532.0
-S12000045,East Dunbartonshire,2021,Roads Needing Repairs,33.0
-S12000045,East Dunbartonshire,2023,Traffic Congestion,15.0
-S12000045,East Dunbartonshire,2019,Traffic Congestion,15.0
-S12000045,East Dunbartonshire,2023,Vehicle Kilometres,562.0
-S12000045,East Dunbartonshire,2005,Traffic Congestion,11.6
-S12000045,East Dunbartonshire,2021,Vehicle Kilometres,521.0
-S12000045,East Dunbartonshire,2022,Traffic Congestion,15.0
-S12000045,East Dunbartonshire,2015,Roads Needing Repairs,39.2
-S12000045,East Dunbartonshire,2016,Roads Needing Repairs,37.4
-S12000045,East Dunbartonshire,2017,Roads Needing Repairs,35.2
-S12000045,East Dunbartonshire,2020,Roads Needing Repairs,33.4
-S12000045,East Dunbartonshire,2007,Traffic Congestion,17.3
-S12000045,East Dunbartonshire,2008,Vehicle Kilometres,537.0
-S12000045,East Dunbartonshire,2015,Traffic Congestion,14.9
-S12000045,East Dunbartonshire,2020,Vehicle Kilometres,467.0
-S12000045,East Dunbartonshire,2013,Traffic Congestion,13.2
-S12000045,East Dunbartonshire,2006,Roads Needing Repairs,44.0
-S12000045,East Dunbartonshire,2018,Vehicle Kilometres,571.0
-S12000045,East Dunbartonshire,2016,Vehicle Kilometres,545.0
-S12000045,East Dunbartonshire,2006,Vehicle Kilometres,534.0
-S12000045,East Dunbartonshire,2008,Roads Needing Repairs,44.4
-S12000047,Fife,2006,Vehicle Kilometres,2809.0
-S12000047,Fife,2007,Roads Needing Repairs,35.0
-S12000047,Fife,2022,Vehicle Kilometres,2969.0
-S12000047,Fife,2005,Traffic Congestion,11.3
-S12000047,Fife,2015,Traffic Congestion,8.2
-S12000047,Fife,2011,Vehicle Kilometres,2836.0
-S12000047,Fife,2017,Traffic Congestion,8.3
-S12000047,Fife,2017,Roads Needing Repairs,31.8
-S12000047,Fife,2009,Traffic Congestion,8.18
-S12000047,Fife,2006,Roads Needing Repairs,58.0
-S12000047,Fife,2020,Vehicle Kilometres,2409.0
-S12000047,Fife,2021,Roads Needing Repairs,33.0
-S12000047,Fife,2018,Traffic Congestion,9.0
-S12000047,Fife,2015,Roads Needing Repairs,32.6
-S12000047,Fife,2020,Roads Needing Repairs,32.5
-S12000047,Fife,2013,Roads Needing Repairs,33.0
-S12000047,Fife,2019,Roads Needing Repairs,32.4
-S12000047,Fife,2016,Roads Needing Repairs,32.6
-S12000047,Fife,2023,Traffic Congestion,16.0
-S12000047,Fife,2011,Roads Needing Repairs,36.3
-S12000047,Fife,2008,Roads Needing Repairs,32.8
-S12000047,Fife,2016,Vehicle Kilometres,3040.0
-S12000047,Fife,2014,Vehicle Kilometres,2923.0
-S12000047,Fife,2014,Traffic Congestion,9.0
-S12000047,Fife,2007,Traffic Congestion,10.0
-S12000047,Fife,2022,Traffic Congestion,9.0
-S12000047,Fife,2003,Traffic Congestion,9.5
-S12000047,Fife,2017,Vehicle Kilometres,3124.0
-S12000047,Fife,2008,Vehicle Kilometres,2844.0
-S12000047,Fife,2009,Roads Needing Repairs,40.6
-S12000047,Fife,2021,Vehicle Kilometres,2755.0
-S12000047,Fife,2013,Vehicle Kilometres,2839.0
-S12000047,Fife,2022,Roads Needing Repairs,32.0
-S12000047,Fife,2018,Roads Needing Repairs,31.9
-S12000047,Fife,2021,Traffic Congestion,8.0
-S12000047,Fife,2012,Roads Needing Repairs,34.1
-S12000047,Fife,2019,Traffic Congestion,9.0
-S12000047,Fife,2010,Vehicle Kilometres,2842.0
-S12000047,Fife,2014,Roads Needing Repairs,33.0
-S12000047,Fife,2023,Vehicle Kilometres,3036.0
-S12000047,Fife,2013,Traffic Congestion,8.8
-S12000047,Fife,2007,Vehicle Kilometres,2864.0
-S12000047,Fife,2016,Traffic Congestion,6.9
-S12000047,Fife,2019,Vehicle Kilometres,3119.0
-S12000047,Fife,2012,Vehicle Kilometres,2819.0
-S12000047,Fife,2015,Vehicle Kilometres,2945.0
-S12000047,Fife,2023,Roads Needing Repairs,32.0
-S12000047,Fife,2009,Vehicle Kilometres,2849.0
-S12000047,Fife,2012,Traffic Congestion,9.3
-S12000047,Fife,2018,Vehicle Kilometres,3085.0
-S12000048,Perth and Kinross,2009,Roads Needing Repairs,32.5
-S12000048,Perth and Kinross,2022,Traffic Congestion,7.0
-S12000048,Perth and Kinross,2023,Vehicle Kilometres,2515.0
-S12000048,Perth and Kinross,2023,Roads Needing Repairs,33.0
-S12000048,Perth and Kinross,2009,Traffic Congestion,12.46
-S12000048,Perth and Kinross,2008,Vehicle Kilometres,2270.0
-S12000048,Perth and Kinross,2009,Vehicle Kilometres,2260.0
-S12000048,Perth and Kinross,2008,Roads Needing Repairs,32.1
-S12000048,Perth and Kinross,2018,Traffic Congestion,10.0
-S12000048,Perth and Kinross,2017,Roads Needing Repairs,37.2
-S12000048,Perth and Kinross,2018,Roads Needing Repairs,35.9
-S12000048,Perth and Kinross,2012,Vehicle Kilometres,2224.0
-S12000048,Perth and Kinross,2012,Traffic Congestion,9.5
-S12000048,Perth and Kinross,2017,Traffic Congestion,7.2
-S12000048,Perth and Kinross,2012,Roads Needing Repairs,35.3
-S12000048,Perth and Kinross,2018,Vehicle Kilometres,2622.0
-S12000048,Perth and Kinross,2006,Roads Needing Repairs,46.0
-S12000048,Perth and Kinross,2019,Roads Needing Repairs,37.0
-S12000048,Perth and Kinross,2007,Roads Needing Repairs,36.0
-S12000048,Perth and Kinross,2011,Roads Needing Repairs,34.3
-S12000048,Perth and Kinross,2006,Vehicle Kilometres,2309.0
-S12000048,Perth and Kinross,2011,Vehicle Kilometres,2252.0
-S12000048,Perth and Kinross,2013,Roads Needing Repairs,35.4
-S12000048,Perth and Kinross,2013,Vehicle Kilometres,2257.0
-S12000048,Perth and Kinross,2015,Traffic Congestion,7.8
-S12000048,Perth and Kinross,2013,Traffic Congestion,10.0
-S12000048,Perth and Kinross,2014,Vehicle Kilometres,2337.0
-S12000048,Perth and Kinross,2014,Traffic Congestion,6.8
-S12000048,Perth and Kinross,2014,Roads Needing Repairs,35.4
-S12000048,Perth and Kinross,2016,Roads Needing Repairs,37.2
-S12000048,Perth and Kinross,2023,Traffic Congestion,7.0
-S12000048,Perth and Kinross,2017,Vehicle Kilometres,2647.0
-S12000048,Perth and Kinross,2016,Traffic Congestion,9.5
-S12000048,Perth and Kinross,2015,Roads Needing Repairs,34.3
-S12000048,Perth and Kinross,2015,Vehicle Kilometres,2380.0
-S12000048,Perth and Kinross,2016,Vehicle Kilometres,2501.0
-S12000048,Perth and Kinross,2010,Vehicle Kilometres,2237.0
-S12000048,Perth and Kinross,2021,Roads Needing Repairs,31.0
-S12000048,Perth and Kinross,2020,Roads Needing Repairs,34.9
-S12000048,Perth and Kinross,2003,Traffic Congestion,7.6
-S12000048,Perth and Kinross,2005,Traffic Congestion,6.5
-S12000048,Perth and Kinross,2007,Traffic Congestion,9.1
-S12000048,Perth and Kinross,2019,Traffic Congestion,8.0
-S12000048,Perth and Kinross,2022,Roads Needing Repairs,31.0
-S12000048,Perth and Kinross,2021,Traffic Congestion,4.0
-S12000048,Perth and Kinross,2019,Vehicle Kilometres,2591.0
-S12000048,Perth and Kinross,2022,Vehicle Kilometres,2463.0
-S12000048,Perth and Kinross,2021,Vehicle Kilometres,2163.0
-S12000048,Perth and Kinross,2020,Vehicle Kilometres,1952.0
-S12000048,Perth and Kinross,2007,Vehicle Kilometres,2319.0
-S12000049,Glasgow City,2015,Vehicle Kilometres,3498.0
-S12000049,Glasgow City,2023,Traffic Congestion,8.0
-S12000049,Glasgow City,2021,Vehicle Kilometres,3240.0
-S12000049,Glasgow City,2016,Traffic Congestion,15.8
-S12000049,Glasgow City,2016,Vehicle Kilometres,3583.0
-S12000049,Glasgow City,2006,Vehicle Kilometres,3334.0
-S12000049,Glasgow City,2021,Roads Needing Repairs,28.0
-S12000049,Glasgow City,2013,Roads Needing Repairs,33.0
-S12000049,Glasgow City,2016,Roads Needing Repairs,30.8
-S12000049,Glasgow City,2022,Vehicle Kilometres,3500.0
-S12000049,Glasgow City,2014,Roads Needing Repairs,33.0
-S12000049,Glasgow City,2008,Vehicle Kilometres,3407.0
-S12000049,Glasgow City,2022,Roads Needing Repairs,28.0
-S12000049,Glasgow City,2014,Vehicle Kilometres,3526.0
-S12000049,Glasgow City,2007,Vehicle Kilometres,3381.0
-S12000049,Glasgow City,2014,Traffic Congestion,9.0
-S12000049,Glasgow City,2015,Roads Needing Repairs,32.1
-S12000049,Glasgow City,2021,Traffic Congestion,15.0
-S12000049,Glasgow City,2023,Vehicle Kilometres,3571.0
-S12000049,Glasgow City,2015,Traffic Congestion,12.8
-S12000049,Glasgow City,2007,Traffic Congestion,19.9
-S12000049,Glasgow City,2013,Vehicle Kilometres,3496.0
-S12000049,Glasgow City,2013,Traffic Congestion,9.2
-S12000049,Glasgow City,2008,Roads Needing Repairs,25.5
-S12000049,Glasgow City,2018,Roads Needing Repairs,29.3
-S12000049,Glasgow City,2010,Vehicle Kilometres,3291.0
-S12000049,Glasgow City,2019,Traffic Congestion,15.0
-S12000049,Glasgow City,2009,Vehicle Kilometres,3369.0
-S12000049,Glasgow City,2018,Traffic Congestion,15.0
-S12000049,Glasgow City,2003,Traffic Congestion,13.2
-S12000049,Glasgow City,2022,Traffic Congestion,15.0
-S12000049,Glasgow City,2006,Roads Needing Repairs,60.0
-S12000049,Glasgow City,2019,Vehicle Kilometres,3645.0
-S12000049,Glasgow City,2019,Roads Needing Repairs,28.9
-S12000049,Glasgow City,2011,Roads Needing Repairs,30.9
-S12000049,Glasgow City,2018,Vehicle Kilometres,3586.0
-S12000049,Glasgow City,2011,Vehicle Kilometres,3301.0
-S12000049,Glasgow City,2017,Traffic Congestion,14.3
-S12000049,Glasgow City,2017,Vehicle Kilometres,3597.0
-S12000049,Glasgow City,2009,Roads Needing Repairs,29.7
-S12000049,Glasgow City,2012,Traffic Congestion,8.8
-S12000049,Glasgow City,2020,Roads Needing Repairs,29.5
-S12000049,Glasgow City,2005,Traffic Congestion,18.1
-S12000049,Glasgow City,2012,Vehicle Kilometres,3450.0
-S12000049,Glasgow City,2020,Vehicle Kilometres,2832.0
-S12000049,Glasgow City,2009,Traffic Congestion,14.07
-S12000049,Glasgow City,2023,Roads Needing Repairs,30.0
-S12000049,Glasgow City,2017,Roads Needing Repairs,30.6
-S12000049,Glasgow City,2007,Roads Needing Repairs,25.0
-S12000049,Glasgow City,2012,Roads Needing Repairs,32.4
-S12000050,North Lanarkshire,2008,Roads Needing Repairs,32.6
-S12000050,North Lanarkshire,2008,Vehicle Kilometres,2986.0
-S12000050,North Lanarkshire,2003,Traffic Congestion,12.2
-S12000050,North Lanarkshire,2023,Traffic Congestion,14.0
-S12000050,North Lanarkshire,2006,Vehicle Kilometres,2910.0
-S12000050,North Lanarkshire,2012,Traffic Congestion,13.2
-S12000050,North Lanarkshire,2017,Vehicle Kilometres,3255.0
-S12000050,North Lanarkshire,2016,Roads Needing Repairs,31.8
-S12000050,North Lanarkshire,2016,Traffic Congestion,16.3
-S12000050,North Lanarkshire,2016,Vehicle Kilometres,3117.0
-S12000050,North Lanarkshire,2017,Roads Needing Repairs,32.8
-S12000050,North Lanarkshire,2006,Roads Needing Repairs,48.0
-S12000050,North Lanarkshire,2018,Traffic Congestion,16.0
-S12000050,North Lanarkshire,2017,Traffic Congestion,16.5
-S12000050,North Lanarkshire,2012,Vehicle Kilometres,3210.0
-S12000050,North Lanarkshire,2012,Roads Needing Repairs,32.0
-S12000050,North Lanarkshire,2015,Vehicle Kilometres,3051.0
-S12000050,North Lanarkshire,2007,Vehicle Kilometres,2974.0
-S12000050,North Lanarkshire,2015,Roads Needing Repairs,33.3
-S12000050,North Lanarkshire,2014,Roads Needing Repairs,31.8
-S12000050,North Lanarkshire,2014,Traffic Congestion,9.7
-S12000050,North Lanarkshire,2014,Vehicle Kilometres,3099.0
-S12000050,North Lanarkshire,2013,Roads Needing Repairs,31.8
-S12000050,North Lanarkshire,2013,Traffic Congestion,10.3
-S12000050,North Lanarkshire,2013,Vehicle Kilometres,3195.0
-S12000050,North Lanarkshire,2007,Traffic Congestion,16.7
-S12000050,North Lanarkshire,2015,Traffic Congestion,17.1
-S12000050,North Lanarkshire,2021,Vehicle Kilometres,3007.0
-S12000050,North Lanarkshire,2009,Vehicle Kilometres,2952.0
-S12000050,North Lanarkshire,2009,Traffic Congestion,14.45
-S12000050,North Lanarkshire,2020,Roads Needing Repairs,31.8
-S12000050,North Lanarkshire,2009,Roads Needing Repairs,32.4
-S12000050,North Lanarkshire,2021,Roads Needing Repairs,29.0
-S12000050,North Lanarkshire,2023,Roads Needing Repairs,32.0
-S12000050,North Lanarkshire,2022,Traffic Congestion,13.0
-S12000050,North Lanarkshire,2023,Vehicle Kilometres,3384.0
-S12000050,North Lanarkshire,2022,Roads Needing Repairs,32.0
-S12000050,North Lanarkshire,2021,Traffic Congestion,12.0
-S12000050,North Lanarkshire,2022,Vehicle Kilometres,3281.0
-S12000050,North Lanarkshire,2011,Roads Needing Repairs,31.8
-S12000050,North Lanarkshire,2019,Roads Needing Repairs,30.7
-S12000050,North Lanarkshire,2019,Vehicle Kilometres,3338.0
-S12000050,North Lanarkshire,2018,Roads Needing Repairs,30.5
-S12000050,North Lanarkshire,2011,Vehicle Kilometres,2919.0
-S12000050,North Lanarkshire,2018,Vehicle Kilometres,3349.0
-S12000050,North Lanarkshire,2005,Traffic Congestion,13.8
-S12000050,North Lanarkshire,2010,Vehicle Kilometres,2960.0
-S12000050,North Lanarkshire,2020,Vehicle Kilometres,2625.0
-S12000050,North Lanarkshire,2007,Roads Needing Repairs,34.0
-S12000050,North Lanarkshire,2019,Traffic Congestion,15.0
+geo_id;council_name;year;variable;value
+S12000039;West Dunbartonshire;2016;Roads Needing Repairs;33.8
+S12000039;West Dunbartonshire;2009;Roads Needing Repairs;32.5
+S12000039;West Dunbartonshire;2021;Roads Needing Repairs;28
+S12000039;West Dunbartonshire;2015;Roads Needing Repairs;35.4
+S12000039;West Dunbartonshire;2008;Roads Needing Repairs;29.4
+S12000039;West Dunbartonshire;2009;Traffic Congestion;7.76
+S12000039;West Dunbartonshire;2020;Roads Needing Repairs;30.6
+S12000039;West Dunbartonshire;2016;Vehicle Kilometres;667
+S12000039;West Dunbartonshire;2014;Vehicle Kilometres;646
+S12000039;West Dunbartonshire;2008;Vehicle Kilometres;623
+S12000039;West Dunbartonshire;2014;Traffic Congestion;9.5
+S12000039;West Dunbartonshire;2014;Roads Needing Repairs;25.4
+S12000039;West Dunbartonshire;2021;Vehicle Kilometres;613
+S12000039;West Dunbartonshire;2015;Vehicle Kilometres;655
+S12000039;West Dunbartonshire;2015;Traffic Congestion;12.1
+S12000039;West Dunbartonshire;2021;Traffic Congestion;14
+S12000039;West Dunbartonshire;2018;Traffic Congestion;16
+S12000039;West Dunbartonshire;2019;Roads Needing Repairs;31.8
+S12000039;West Dunbartonshire;2009;Vehicle Kilometres;640
+S12000039;West Dunbartonshire;2019;Vehicle Kilometres;678
+S12000039;West Dunbartonshire;2006;Roads Needing Repairs;45
+S12000039;West Dunbartonshire;2018;Vehicle Kilometres;677
+S12000039;West Dunbartonshire;2018;Roads Needing Repairs;33.6
+S12000039;West Dunbartonshire;2006;Vehicle Kilometres;628
+S12000039;West Dunbartonshire;2005;Traffic Congestion;16.3
+S12000039;West Dunbartonshire;2017;Vehicle Kilometres;664
+S12000039;West Dunbartonshire;2020;Vehicle Kilometres;534
+S12000039;West Dunbartonshire;2016;Traffic Congestion;12.4
+S12000039;West Dunbartonshire;2017;Roads Needing Repairs;31.9
+S12000039;West Dunbartonshire;2019;Traffic Congestion;18
+S12000039;West Dunbartonshire;2017;Traffic Congestion;14
+S12000039;West Dunbartonshire;2023;Roads Needing Repairs;28
+S12000039;West Dunbartonshire;2007;Vehicle Kilometres;622
+S12000039;West Dunbartonshire;2011;Roads Needing Repairs;34.2
+S12000039;West Dunbartonshire;2012;Vehicle Kilometres;630
+S12000039;West Dunbartonshire;2013;Vehicle Kilometres;628
+S12000039;West Dunbartonshire;2013;Roads Needing Repairs;25.4
+S12000039;West Dunbartonshire;2013;Traffic Congestion;12.6
+S12000039;West Dunbartonshire;2012;Roads Needing Repairs;34
+S12000039;West Dunbartonshire;2011;Vehicle Kilometres;627
+S12000039;West Dunbartonshire;2012;Traffic Congestion;11.7
+S12000039;West Dunbartonshire;2003;Traffic Congestion;12.5
+S12000039;West Dunbartonshire;2023;Vehicle Kilometres;672
+S12000039;West Dunbartonshire;2023;Traffic Congestion;13
+S12000039;West Dunbartonshire;2022;Roads Needing Repairs;27
+S12000039;West Dunbartonshire;2007;Traffic Congestion;15.2
+S12000039;West Dunbartonshire;2007;Roads Needing Repairs;32
+S12000039;West Dunbartonshire;2022;Vehicle Kilometres;663
+S12000039;West Dunbartonshire;2010;Vehicle Kilometres;624
+S12000039;West Dunbartonshire;2022;Traffic Congestion;9
+S12000040;West Lothian;2012;Traffic Congestion;8.2
+S12000040;West Lothian;2017;Roads Needing Repairs;29.4
+S12000040;West Lothian;2014;Vehicle Kilometres;1757
+S12000040;West Lothian;2009;Vehicle Kilometres;1714
+S12000040;West Lothian;2012;Vehicle Kilometres;1699
+S12000040;West Lothian;2011;Vehicle Kilometres;1699
+S12000040;West Lothian;2018;Vehicle Kilometres;1926
+S12000040;West Lothian;2014;Traffic Congestion;10.4
+S12000040;West Lothian;2006;Vehicle Kilometres;1681
+S12000040;West Lothian;2011;Roads Needing Repairs;30.5
+S12000040;West Lothian;2012;Roads Needing Repairs;26.9
+S12000040;West Lothian;2018;Traffic Congestion;19
+S12000040;West Lothian;2014;Roads Needing Repairs;46.8
+S12000040;West Lothian;2018;Roads Needing Repairs;29.9
+S12000040;West Lothian;2007;Vehicle Kilometres;1709
+S12000040;West Lothian;2013;Roads Needing Repairs;46.8
+S12000040;West Lothian;2013;Vehicle Kilometres;1716
+S12000040;West Lothian;2015;Vehicle Kilometres;1803
+S12000040;West Lothian;2007;Roads Needing Repairs;27
+S12000040;West Lothian;2015;Roads Needing Repairs;27.4
+S12000040;West Lothian;2016;Roads Needing Repairs;29.4
+S12000040;West Lothian;2007;Traffic Congestion;14.6
+S12000040;West Lothian;2017;Vehicle Kilometres;1884
+S12000040;West Lothian;2009;Roads Needing Repairs;32.3
+S12000040;West Lothian;2010;Vehicle Kilometres;1699
+S12000040;West Lothian;2017;Traffic Congestion;19.3
+S12000040;West Lothian;2013;Traffic Congestion;12
+S12000040;West Lothian;2016;Vehicle Kilometres;1835
+S12000040;West Lothian;2016;Traffic Congestion;15.2
+S12000040;West Lothian;2015;Traffic Congestion;16.3
+S12000040;West Lothian;2008;Roads Needing Repairs;26.2
+S12000040;West Lothian;2019;Vehicle Kilometres;1931
+S12000040;West Lothian;2020;Vehicle Kilometres;1509
+S12000040;West Lothian;2021;Vehicle Kilometres;1711
+S12000040;West Lothian;2023;Roads Needing Repairs;31
+S12000040;West Lothian;2019;Roads Needing Repairs;27.4
+S12000040;West Lothian;2022;Vehicle Kilometres;1842
+S12000040;West Lothian;2005;Traffic Congestion;10.8
+S12000040;West Lothian;2022;Roads Needing Repairs;29
+S12000040;West Lothian;2022;Traffic Congestion;10
+S12000040;West Lothian;2019;Traffic Congestion;20
+S12000040;West Lothian;2021;Traffic Congestion;15
+S12000040;West Lothian;2006;Roads Needing Repairs;42
+S12000040;West Lothian;2008;Vehicle Kilometres;1729
+S12000040;West Lothian;2009;Traffic Congestion;8.4
+S12000040;West Lothian;2020;Roads Needing Repairs;28.5
+S12000040;West Lothian;2021;Roads Needing Repairs;30
+S12000040;West Lothian;2003;Traffic Congestion;12.3
+S12000040;West Lothian;2023;Vehicle Kilometres;1898
+S12000040;West Lothian;2023;Traffic Congestion;12
+S92000003;Scotland;2022;Roads Needing Repairs;33
+S92000003;Scotland;2021;Traffic Congestion;11.2
+S92000003;Scotland;2014;Roads Needing Repairs;36.7
+S92000003;Scotland;2014;Vehicle Kilometres;44776
+S92000003;Scotland;2015;Vehicle Kilometres;45374
+S92000003;Scotland;2015;Roads Needing Repairs;36.7
+S92000003;Scotland;2021;Vehicle Kilometres;43410
+S92000003;Scotland;2008;Roads Needing Repairs;34.2
+S92000003;Scotland;2021;Roads Needing Repairs;34
+S92000003;Scotland;2015;Traffic Congestion;12.4
+S92000003;Scotland;2011;Vehicle Kilometres;43085
+S92000003;Scotland;2023;Vehicle Kilometres;48018
+S92000003;Scotland;2023;Roads Needing Repairs;34
+S92000003;Scotland;2013;Traffic Congestion;9.7
+S92000003;Scotland;2007;Vehicle Kilometres;43988
+S92000003;Scotland;2012;Vehicle Kilometres;43498
+S92000003;Scotland;2011;Roads Needing Repairs;36.4
+S92000003;Scotland;2012;Roads Needing Repairs;36.2
+S92000003;Scotland;2013;Vehicle Kilometres;43711
+S92000003;Scotland;2013;Roads Needing Repairs;36.7
+S92000003;Scotland;2014;Traffic Congestion;11.7
+S92000003;Scotland;2010;Vehicle Kilometres;43160
+S92000003;Scotland;2008;Vehicle Kilometres;43799
+S92000003;Scotland;2022;Traffic Congestion;10.6
+S92000003;Scotland;2022;Vehicle Kilometres;46957
+S92000003;Scotland;2016;Traffic Congestion;11.7
+S92000003;Scotland;2009;Roads Needing Repairs;36.1
+S92000003;Scotland;2018;Traffic Congestion;12.5
+S92000003;Scotland;2023;Traffic Congestion;11
+S92000003;Scotland;2020;Vehicle Kilometres;37883
+S92000003;Scotland;2006;Roads Needing Repairs;37.4
+S92000003;Scotland;2007;Roads Needing Repairs;37.4
+S92000003;Scotland;2017;Traffic Congestion;12.3
+S92000003;Scotland;2009;Vehicle Kilometres;43566
+S92000003;Scotland;2019;Traffic Congestion;12.6
+S92000003;Scotland;2006;Vehicle Kilometres;43456
+S92000003;Scotland;2017;Roads Needing Repairs;36.7
+S92000003;Scotland;2017;Vehicle Kilometres;48045
+S92000003;Scotland;2019;Vehicle Kilometres;48713
+S92000003;Scotland;2018;Roads Needing Repairs;36.3
+S92000003;Scotland;2019;Roads Needing Repairs;35.9
+S92000003;Scotland;2016;Roads Needing Repairs;36.4
+S92000003;Scotland;2018;Vehicle Kilometres;48187
+S92000003;Scotland;2020;Roads Needing Repairs;35.5
+S92000003;Scotland;2016;Vehicle Kilometres;46843
+S12000005;Clackmannanshire;2022;Traffic Congestion;10
+S12000005;Clackmannanshire;2018;Roads Needing Repairs;34.4
+S12000005;Clackmannanshire;2017;Roads Needing Repairs;36.4
+S12000005;Clackmannanshire;2022;Roads Needing Repairs;35
+S12000005;Clackmannanshire;2012;Roads Needing Repairs;33.7
+S12000005;Clackmannanshire;2009;Roads Needing Repairs;37.8
+S12000005;Clackmannanshire;2012;Vehicle Kilometres;316
+S12000005;Clackmannanshire;2009;Traffic Congestion;10.79
+S12000005;Clackmannanshire;2019;Traffic Congestion;9
+S12000005;Clackmannanshire;2012;Traffic Congestion;4.5
+S12000005;Clackmannanshire;2007;Roads Needing Repairs;39
+S12000005;Clackmannanshire;2013;Traffic Congestion;6.3
+S12000005;Clackmannanshire;2008;Vehicle Kilometres;298
+S12000005;Clackmannanshire;2018;Traffic Congestion;8
+S12000005;Clackmannanshire;2019;Vehicle Kilometres;345
+S12000005;Clackmannanshire;2018;Vehicle Kilometres;340
+S12000005;Clackmannanshire;2017;Vehicle Kilometres;336
+S12000005;Clackmannanshire;2023;Roads Needing Repairs;34
+S12000005;Clackmannanshire;2023;Vehicle Kilometres;339
+S12000005;Clackmannanshire;2023;Traffic Congestion;11
+S12000005;Clackmannanshire;2016;Traffic Congestion;4.2
+S12000005;Clackmannanshire;2015;Vehicle Kilometres;324
+S12000005;Clackmannanshire;2005;Traffic Congestion;13.8
+S12000005;Clackmannanshire;2020;Roads Needing Repairs;35.9
+S12000005;Clackmannanshire;2021;Traffic Congestion;9
+S12000005;Clackmannanshire;2011;Vehicle Kilometres;318
+S12000005;Clackmannanshire;2007;Traffic Congestion;13.3
+S12000005;Clackmannanshire;2015;Traffic Congestion;6.7
+S12000005;Clackmannanshire;2016;Vehicle Kilometres;333
+S12000005;Clackmannanshire;2015;Roads Needing Repairs;36.2
+S12000005;Clackmannanshire;2016;Roads Needing Repairs;35.2
+S12000005;Clackmannanshire;2006;Roads Needing Repairs;54
+S12000005;Clackmannanshire;2006;Vehicle Kilometres;290
+S12000005;Clackmannanshire;2021;Vehicle Kilometres;308
+S12000005;Clackmannanshire;2009;Vehicle Kilometres;312
+S12000005;Clackmannanshire;2014;Traffic Congestion;10.4
+S12000005;Clackmannanshire;2019;Roads Needing Repairs;35.6
+S12000005;Clackmannanshire;2022;Vehicle Kilometres;334
+S12000005;Clackmannanshire;2017;Traffic Congestion;6.9
+S12000005;Clackmannanshire;2013;Roads Needing Repairs;43.5
+S12000005;Clackmannanshire;2010;Vehicle Kilometres;316
+S12000005;Clackmannanshire;2011;Roads Needing Repairs;36.4
+S12000005;Clackmannanshire;2013;Vehicle Kilometres;307
+S12000005;Clackmannanshire;2007;Vehicle Kilometres;295
+S12000005;Clackmannanshire;2020;Vehicle Kilometres;274
+S12000005;Clackmannanshire;2021;Roads Needing Repairs;34
+S12000005;Clackmannanshire;2014;Roads Needing Repairs;43.5
+S12000005;Clackmannanshire;2003;Traffic Congestion;11.9
+S12000005;Clackmannanshire;2014;Vehicle Kilometres;319
+S12000005;Clackmannanshire;2008;Roads Needing Repairs;36.9
+S12000006;Dumfries and Galloway;2009;Vehicle Kilometres;1988
+S12000006;Dumfries and Galloway;2009;Traffic Congestion;8.04
+S12000006;Dumfries and Galloway;2009;Roads Needing Repairs;44.8
+S12000006;Dumfries and Galloway;2010;Vehicle Kilometres;1976
+S12000006;Dumfries and Galloway;2008;Roads Needing Repairs;43.6
+S12000006;Dumfries and Galloway;2008;Vehicle Kilometres;2012
+S12000006;Dumfries and Galloway;2019;Traffic Congestion;7
+S12000006;Dumfries and Galloway;2019;Roads Needing Repairs;47.9
+S12000006;Dumfries and Galloway;2019;Vehicle Kilometres;2240
+S12000006;Dumfries and Galloway;2020;Roads Needing Repairs;47.5
+S12000006;Dumfries and Galloway;2020;Vehicle Kilometres;1692
+S12000006;Dumfries and Galloway;2017;Vehicle Kilometres;2267
+S12000006;Dumfries and Galloway;2018;Traffic Congestion;9
+S12000006;Dumfries and Galloway;2017;Roads Needing Repairs;47.4
+S12000006;Dumfries and Galloway;2018;Vehicle Kilometres;2234
+S12000006;Dumfries and Galloway;2018;Roads Needing Repairs;47.8
+S12000006;Dumfries and Galloway;2022;Roads Needing Repairs;47
+S12000006;Dumfries and Galloway;2023;Vehicle Kilometres;2254
+S12000006;Dumfries and Galloway;2022;Traffic Congestion;9
+S12000006;Dumfries and Galloway;2023;Roads Needing Repairs;50
+S12000006;Dumfries and Galloway;2023;Traffic Congestion;8
+S12000006;Dumfries and Galloway;2021;Traffic Congestion;6
+S12000006;Dumfries and Galloway;2021;Vehicle Kilometres;2051
+S12000006;Dumfries and Galloway;2022;Vehicle Kilometres;2215
+S12000006;Dumfries and Galloway;2021;Roads Needing Repairs;47
+S12000006;Dumfries and Galloway;2013;Traffic Congestion;6.1
+S12000006;Dumfries and Galloway;2013;Roads Needing Repairs;35
+S12000006;Dumfries and Galloway;2012;Roads Needing Repairs;48.6
+S12000006;Dumfries and Galloway;2014;Traffic Congestion;7.4
+S12000006;Dumfries and Galloway;2013;Vehicle Kilometres;1966
+S12000006;Dumfries and Galloway;2011;Vehicle Kilometres;1965
+S12000006;Dumfries and Galloway;2011;Roads Needing Repairs;48.1
+S12000006;Dumfries and Galloway;2012;Traffic Congestion;4.5
+S12000006;Dumfries and Galloway;2012;Vehicle Kilometres;1942
+S12000006;Dumfries and Galloway;2016;Roads Needing Repairs;46.5
+S12000006;Dumfries and Galloway;2016;Traffic Congestion;8.7
+S12000006;Dumfries and Galloway;2015;Roads Needing Repairs;46.9
+S12000006;Dumfries and Galloway;2017;Traffic Congestion;7.5
+S12000006;Dumfries and Galloway;2016;Vehicle Kilometres;2150
+S12000006;Dumfries and Galloway;2014;Roads Needing Repairs;35
+S12000006;Dumfries and Galloway;2014;Vehicle Kilometres;2032
+S12000006;Dumfries and Galloway;2015;Vehicle Kilometres;2087
+S12000006;Dumfries and Galloway;2015;Traffic Congestion;10.1
+S12000006;Dumfries and Galloway;2003;Traffic Congestion;7.2
+S12000006;Dumfries and Galloway;2006;Roads Needing Repairs;48
+S12000006;Dumfries and Galloway;2007;Traffic Congestion;6.3
+S12000006;Dumfries and Galloway;2007;Vehicle Kilometres;2012
+S12000006;Dumfries and Galloway;2005;Traffic Congestion;5.1
+S12000006;Dumfries and Galloway;2006;Vehicle Kilometres;1943
+S12000006;Dumfries and Galloway;2007;Roads Needing Repairs;47
+S12000008;East Ayrshire;2016;Roads Needing Repairs;39.1
+S12000008;East Ayrshire;2006;Vehicle Kilometres;1055
+S12000008;East Ayrshire;2020;Roads Needing Repairs;36.8
+S12000008;East Ayrshire;2017;Roads Needing Repairs;39.1
+S12000008;East Ayrshire;2009;Vehicle Kilometres;1041
+S12000008;East Ayrshire;2022;Roads Needing Repairs;34
+S12000008;East Ayrshire;2006;Roads Needing Repairs;50
+S12000008;East Ayrshire;2007;Traffic Congestion;10.2
+S12000008;East Ayrshire;2010;Vehicle Kilometres;1045
+S12000008;East Ayrshire;2017;Vehicle Kilometres;1139
+S12000008;East Ayrshire;2020;Vehicle Kilometres;903
+S12000008;East Ayrshire;2014;Traffic Congestion;7.4
+S12000008;East Ayrshire;2015;Traffic Congestion;12.7
+S12000008;East Ayrshire;2005;Traffic Congestion;12.9
+S12000008;East Ayrshire;2012;Traffic Congestion;6.4
+S12000008;East Ayrshire;2016;Traffic Congestion;8.3
+S12000008;East Ayrshire;2009;Roads Needing Repairs;40.1
+S12000008;East Ayrshire;2014;Vehicle Kilometres;1079
+S12000008;East Ayrshire;2021;Traffic Congestion;10
+S12000008;East Ayrshire;2012;Roads Needing Repairs;40.6
+S12000008;East Ayrshire;2016;Vehicle Kilometres;1101
+S12000008;East Ayrshire;2009;Traffic Congestion;6.67
+S12000008;East Ayrshire;2021;Vehicle Kilometres;1048
+S12000008;East Ayrshire;2021;Roads Needing Repairs;34
+S12000008;East Ayrshire;2017;Traffic Congestion;9.2
+S12000008;East Ayrshire;2015;Vehicle Kilometres;1089
+S12000008;East Ayrshire;2022;Traffic Congestion;10
+S12000008;East Ayrshire;2007;Vehicle Kilometres;1050
+S12000008;East Ayrshire;2022;Vehicle Kilometres;1124
+S12000008;East Ayrshire;2011;Vehicle Kilometres;1040
+S12000008;East Ayrshire;2023;Traffic Congestion;12
+S12000008;East Ayrshire;2008;Roads Needing Repairs;40.5
+S12000008;East Ayrshire;2015;Roads Needing Repairs;39.4
+S12000008;East Ayrshire;2018;Traffic Congestion;8
+S12000008;East Ayrshire;2019;Traffic Congestion;8
+S12000008;East Ayrshire;2013;Vehicle Kilometres;1037
+S12000008;East Ayrshire;2014;Roads Needing Repairs;27.3
+S12000008;East Ayrshire;2008;Vehicle Kilometres;1043
+S12000008;East Ayrshire;2011;Roads Needing Repairs;42.8
+S12000008;East Ayrshire;2023;Roads Needing Repairs;33
+S12000008;East Ayrshire;2018;Vehicle Kilometres;1150
+S12000008;East Ayrshire;2019;Vehicle Kilometres;1148
+S12000008;East Ayrshire;2018;Roads Needing Repairs;38.5
+S12000008;East Ayrshire;2013;Traffic Congestion;13.3
+S12000008;East Ayrshire;2007;Roads Needing Repairs;43
+S12000008;East Ayrshire;2019;Roads Needing Repairs;37.8
+S12000008;East Ayrshire;2023;Vehicle Kilometres;1148
+S12000008;East Ayrshire;2003;Traffic Congestion;11.7
+S12000008;East Ayrshire;2012;Vehicle Kilometres;1037
+S12000008;East Ayrshire;2013;Roads Needing Repairs;27.3
+S12000010;East Lothian;2007;Vehicle Kilometres;904
+S12000010;East Lothian;2011;Roads Needing Repairs;30.2
+S12000010;East Lothian;2021;Traffic Congestion;13
+S12000010;East Lothian;2019;Vehicle Kilometres;1018
+S12000010;East Lothian;2019;Roads Needing Repairs;33.3
+S12000010;East Lothian;2017;Vehicle Kilometres;1004
+S12000010;East Lothian;2011;Vehicle Kilometres;852
+S12000010;East Lothian;2018;Vehicle Kilometres;1006
+S12000010;East Lothian;2021;Roads Needing Repairs;30
+S12000010;East Lothian;2005;Traffic Congestion;14.9
+S12000010;East Lothian;2020;Vehicle Kilometres;793
+S12000010;East Lothian;2010;Vehicle Kilometres;853
+S12000010;East Lothian;2016;Vehicle Kilometres;934
+S12000010;East Lothian;2012;Roads Needing Repairs;31.6
+S12000010;East Lothian;2014;Roads Needing Repairs;42
+S12000010;East Lothian;2017;Traffic Congestion;11
+S12000010;East Lothian;2015;Traffic Congestion;5.4
+S12000010;East Lothian;2009;Traffic Congestion;9.2
+S12000010;East Lothian;2021;Vehicle Kilometres;932
+S12000010;East Lothian;2020;Roads Needing Repairs;32.2
+S12000010;East Lothian;2009;Roads Needing Repairs;32.5
+S12000010;East Lothian;2017;Roads Needing Repairs;34.2
+S12000010;East Lothian;2019;Traffic Congestion;14
+S12000010;East Lothian;2014;Vehicle Kilometres;875
+S12000010;East Lothian;2018;Traffic Congestion;14
+S12000010;East Lothian;2016;Traffic Congestion;10.1
+S12000010;East Lothian;2007;Traffic Congestion;9.6
+S12000010;East Lothian;2009;Vehicle Kilometres;848
+S12000010;East Lothian;2012;Traffic Congestion;7.5
+S12000010;East Lothian;2018;Roads Needing Repairs;35
+S12000010;East Lothian;2007;Roads Needing Repairs;36
+S12000010;East Lothian;2014;Traffic Congestion;13.4
+S12000010;East Lothian;2006;Vehicle Kilometres;876
+S12000010;East Lothian;2022;Traffic Congestion;14
+S12000010;East Lothian;2015;Vehicle Kilometres;887
+S12000010;East Lothian;2013;Traffic Congestion;5.5
+S12000010;East Lothian;2015;Roads Needing Repairs;32.7
+S12000010;East Lothian;2013;Vehicle Kilometres;842
+S12000010;East Lothian;2023;Vehicle Kilometres;1026
+S12000010;East Lothian;2013;Roads Needing Repairs;42
+S12000010;East Lothian;2023;Traffic Congestion;14
+S12000010;East Lothian;2003;Traffic Congestion;13.4
+S12000010;East Lothian;2016;Roads Needing Repairs;31.9
+S12000010;East Lothian;2006;Roads Needing Repairs;47
+S12000010;East Lothian;2022;Roads Needing Repairs;33
+S12000010;East Lothian;2023;Roads Needing Repairs;33
+S12000010;East Lothian;2012;Vehicle Kilometres;841
+S12000010;East Lothian;2008;Vehicle Kilometres;866
+S12000010;East Lothian;2008;Roads Needing Repairs;32
+S12000010;East Lothian;2022;Vehicle Kilometres;1012
+S12000011;East Renfrewshire;2014;Vehicle Kilometres;754
+S12000011;East Renfrewshire;2012;Roads Needing Repairs;43.3
+S12000011;East Renfrewshire;2009;Vehicle Kilometres;733
+S12000011;East Renfrewshire;2023;Vehicle Kilometres;790
+S12000011;East Renfrewshire;2007;Traffic Congestion;18
+S12000011;East Renfrewshire;2008;Vehicle Kilometres;736
+S12000011;East Renfrewshire;2008;Roads Needing Repairs;44
+S12000011;East Renfrewshire;2015;Traffic Congestion;23.6
+S12000011;East Renfrewshire;2006;Vehicle Kilometres;704
+S12000011;East Renfrewshire;2017;Vehicle Kilometres;792
+S12000011;East Renfrewshire;2007;Roads Needing Repairs;48
+S12000011;East Renfrewshire;2020;Vehicle Kilometres;624
+S12000011;East Renfrewshire;2019;Vehicle Kilometres;791
+S12000011;East Renfrewshire;2006;Roads Needing Repairs;62
+S12000011;East Renfrewshire;2011;Roads Needing Repairs;45.1
+S12000011;East Renfrewshire;2011;Vehicle Kilometres;741
+S12000011;East Renfrewshire;2014;Roads Needing Repairs;30
+S12000011;East Renfrewshire;2013;Traffic Congestion;11.4
+S12000011;East Renfrewshire;2015;Roads Needing Repairs;39.2
+S12000011;East Renfrewshire;2018;Vehicle Kilometres;797
+S12000011;East Renfrewshire;2023;Roads Needing Repairs;36
+S12000011;East Renfrewshire;2010;Vehicle Kilometres;714
+S12000011;East Renfrewshire;2018;Traffic Congestion;13
+S12000011;East Renfrewshire;2015;Vehicle Kilometres;776
+S12000011;East Renfrewshire;2019;Roads Needing Repairs;35.5
+S12000011;East Renfrewshire;2014;Traffic Congestion;13
+S12000011;East Renfrewshire;2019;Traffic Congestion;11
+S12000011;East Renfrewshire;2018;Roads Needing Repairs;39.1
+S12000011;East Renfrewshire;2007;Vehicle Kilometres;731
+S12000011;East Renfrewshire;2023;Traffic Congestion;15
+S12000011;East Renfrewshire;2022;Traffic Congestion;15
+S12000011;East Renfrewshire;2013;Roads Needing Repairs;30
+S12000011;East Renfrewshire;2017;Traffic Congestion;18.2
+S12000011;East Renfrewshire;2016;Roads Needing Repairs;39.2
+S12000011;East Renfrewshire;2017;Roads Needing Repairs;37.5
+S12000011;East Renfrewshire;2012;Traffic Congestion;10.1
+S12000011;East Renfrewshire;2003;Traffic Congestion;14.7
+S12000011;East Renfrewshire;2021;Traffic Congestion;11
+S12000011;East Renfrewshire;2009;Traffic Congestion;9.14
+S12000011;East Renfrewshire;2009;Roads Needing Repairs;43.9
+S12000011;East Renfrewshire;2012;Vehicle Kilometres;730
+S12000011;East Renfrewshire;2016;Vehicle Kilometres;800
+S12000011;East Renfrewshire;2005;Traffic Congestion;15.5
+S12000011;East Renfrewshire;2020;Roads Needing Repairs;36.4
+S12000011;East Renfrewshire;2013;Vehicle Kilometres;733
+S12000011;East Renfrewshire;2021;Roads Needing Repairs;37
+S12000011;East Renfrewshire;2022;Vehicle Kilometres;777
+S12000011;East Renfrewshire;2021;Vehicle Kilometres;715
+S12000011;East Renfrewshire;2016;Traffic Congestion;13.2
+S12000011;East Renfrewshire;2022;Roads Needing Repairs;35
+S12000013;Na h-Eileanan Siar;2007;Vehicle Kilometres;209
+S12000013;Na h-Eileanan Siar;2018;Vehicle Kilometres;238
+S12000013;Na h-Eileanan Siar;2019;Traffic Congestion;2
+S12000013;Na h-Eileanan Siar;2011;Vehicle Kilometres;206
+S12000013;Na h-Eileanan Siar;2012;Roads Needing Repairs;49.8
+S12000013;Na h-Eileanan Siar;2021;Roads Needing Repairs;40
+S12000013;Na h-Eileanan Siar;2005;Traffic Congestion;1.1
+S12000013;Na h-Eileanan Siar;2003;Traffic Congestion;2.4
+S12000013;Na h-Eileanan Siar;2023;Roads Needing Repairs;38
+S12000013;Na h-Eileanan Siar;2006;Vehicle Kilometres;208
+S12000013;Na h-Eileanan Siar;2013;Vehicle Kilometres;212
+S12000013;Na h-Eileanan Siar;2014;Roads Needing Repairs;34.2
+S12000013;Na h-Eileanan Siar;2013;Traffic Congestion;1.1
+S12000013;Na h-Eileanan Siar;2016;Vehicle Kilometres;256
+S12000013;Na h-Eileanan Siar;2013;Roads Needing Repairs;34.2
+S12000013;Na h-Eileanan Siar;2022;Traffic Congestion;1
+S12000013;Na h-Eileanan Siar;2018;Roads Needing Repairs;42.9
+S12000013;Na h-Eileanan Siar;2007;Traffic Congestion;2.5
+S12000013;Na h-Eileanan Siar;2011;Roads Needing Repairs;51.8
+S12000013;Na h-Eileanan Siar;2021;Traffic Congestion;2
+S12000013;Na h-Eileanan Siar;2019;Vehicle Kilometres;234
+S12000013;Na h-Eileanan Siar;2023;Traffic Congestion;10
+S12000013;Na h-Eileanan Siar;2006;Roads Needing Repairs;50
+S12000013;Na h-Eileanan Siar;2008;Vehicle Kilometres;205
+S12000013;Na h-Eileanan Siar;2009;Roads Needing Repairs;46.9
+S12000013;Na h-Eileanan Siar;2022;Roads Needing Repairs;40
+S12000013;Na h-Eileanan Siar;2020;Roads Needing Repairs;41
+S12000013;Na h-Eileanan Siar;2017;Vehicle Kilometres;241
+S12000013;Na h-Eileanan Siar;2020;Vehicle Kilometres;187
+S12000013;Na h-Eileanan Siar;2023;Vehicle Kilometres;223
+S12000013;Na h-Eileanan Siar;2017;Roads Needing Repairs;43.5
+S12000013;Na h-Eileanan Siar;2022;Vehicle Kilometres;218
+S12000013;Na h-Eileanan Siar;2012;Traffic Congestion;0.5
+S12000013;Na h-Eileanan Siar;2014;Vehicle Kilometres;220
+S12000013;Na h-Eileanan Siar;2009;Vehicle Kilometres;206
+S12000013;Na h-Eileanan Siar;2008;Roads Needing Repairs;45.7
+S12000013;Na h-Eileanan Siar;2015;Traffic Congestion;0.5
+S12000013;Na h-Eileanan Siar;2009;Traffic Congestion;1.76
+S12000013;Na h-Eileanan Siar;2018;Traffic Congestion;1
+S12000013;Na h-Eileanan Siar;2014;Traffic Congestion;0.6
+S12000013;Na h-Eileanan Siar;2019;Roads Needing Repairs;40.7
+S12000013;Na h-Eileanan Siar;2016;Traffic Congestion;0.2
+S12000013;Na h-Eileanan Siar;2016;Roads Needing Repairs;43.1
+S12000013;Na h-Eileanan Siar;2010;Vehicle Kilometres;206
+S12000013;Na h-Eileanan Siar;2015;Vehicle Kilometres;226
+S12000013;Na h-Eileanan Siar;2017;Traffic Congestion;1.1
+S12000013;Na h-Eileanan Siar;2021;Vehicle Kilometres;207
+S12000013;Na h-Eileanan Siar;2007;Roads Needing Repairs;47
+S12000013;Na h-Eileanan Siar;2015;Roads Needing Repairs;44.6
+S12000013;Na h-Eileanan Siar;2012;Vehicle Kilometres;209
+S12000014;Falkirk;2016;Vehicle Kilometres;1641
+S12000014;Falkirk;2011;Vehicle Kilometres;1464
+S12000014;Falkirk;2018;Vehicle Kilometres;1648
+S12000014;Falkirk;2006;Vehicle Kilometres;1458
+S12000014;Falkirk;2006;Roads Needing Repairs;54
+S12000014;Falkirk;2017;Vehicle Kilometres;1647
+S12000014;Falkirk;2012;Vehicle Kilometres;1502
+S12000014;Falkirk;2015;Traffic Congestion;12.4
+S12000014;Falkirk;2017;Traffic Congestion;14.7
+S12000014;Falkirk;2015;Vehicle Kilometres;1576
+S12000014;Falkirk;2012;Roads Needing Repairs;36.5
+S12000014;Falkirk;2017;Roads Needing Repairs;37.3
+S12000014;Falkirk;2016;Roads Needing Repairs;35.2
+S12000014;Falkirk;2016;Traffic Congestion;15
+S12000014;Falkirk;2013;Traffic Congestion;11
+S12000014;Falkirk;2018;Roads Needing Repairs;35.9
+S12000014;Falkirk;2018;Traffic Congestion;14
+S12000014;Falkirk;2015;Roads Needing Repairs;33.2
+S12000014;Falkirk;2012;Traffic Congestion;6.4
+S12000014;Falkirk;2021;Roads Needing Repairs;33
+S12000014;Falkirk;2013;Roads Needing Repairs;34
+S12000014;Falkirk;2022;Vehicle Kilometres;1532
+S12000014;Falkirk;2007;Roads Needing Repairs;35
+S12000014;Falkirk;2019;Roads Needing Repairs;36.6
+S12000014;Falkirk;2007;Vehicle Kilometres;1490
+S12000014;Falkirk;2014;Traffic Congestion;14.6
+S12000014;Falkirk;2022;Traffic Congestion;8
+S12000014;Falkirk;2019;Traffic Congestion;14
+S12000014;Falkirk;2013;Vehicle Kilometres;1506
+S12000014;Falkirk;2009;Roads Needing Repairs;38.1
+S12000014;Falkirk;2020;Roads Needing Repairs;37.8
+S12000014;Falkirk;2009;Traffic Congestion;12.68
+S12000014;Falkirk;2014;Vehicle Kilometres;1537
+S12000014;Falkirk;2009;Vehicle Kilometres;1472
+S12000014;Falkirk;2020;Vehicle Kilometres;1277
+S12000014;Falkirk;2005;Traffic Congestion;12.7
+S12000014;Falkirk;2021;Traffic Congestion;11
+S12000014;Falkirk;2021;Vehicle Kilometres;1440
+S12000014;Falkirk;2010;Vehicle Kilometres;1455
+S12000014;Falkirk;2007;Traffic Congestion;12.8
+S12000014;Falkirk;2023;Vehicle Kilometres;1598
+S12000014;Falkirk;2019;Vehicle Kilometres;1647
+S12000014;Falkirk;2003;Traffic Congestion;13.6
+S12000014;Falkirk;2014;Roads Needing Repairs;34
+S12000014;Falkirk;2023;Roads Needing Repairs;33
+S12000014;Falkirk;2011;Roads Needing Repairs;37.7
+S12000014;Falkirk;2008;Vehicle Kilometres;1483
+S12000014;Falkirk;2023;Traffic Congestion;9
+S12000014;Falkirk;2008;Roads Needing Repairs;33.2
+S12000014;Falkirk;2022;Roads Needing Repairs;33
+S12000017;Highland;2007;Vehicle Kilometres;2560
+S12000017;Highland;2005;Traffic Congestion;11.1
+S12000017;Highland;2009;Vehicle Kilometres;2589
+S12000017;Highland;2009;Roads Needing Repairs;33.6
+S12000017;Highland;2021;Vehicle Kilometres;2723
+S12000017;Highland;2016;Roads Needing Repairs;38.7
+S12000017;Highland;2017;Traffic Congestion;7.5
+S12000017;Highland;2023;Traffic Congestion;10
+S12000017;Highland;2013;Traffic Congestion;7.5
+S12000017;Highland;2022;Roads Needing Repairs;36
+S12000017;Highland;2020;Roads Needing Repairs;39.1
+S12000017;Highland;2013;Roads Needing Repairs;35.6
+S12000017;Highland;2007;Roads Needing Repairs;39
+S12000017;Highland;2009;Traffic Congestion;9.48
+S12000017;Highland;2023;Roads Needing Repairs;39
+S12000017;Highland;2015;Roads Needing Repairs;39.1
+S12000017;Highland;2003;Traffic Congestion;6.1
+S12000017;Highland;2021;Roads Needing Repairs;37
+S12000017;Highland;2023;Vehicle Kilometres;3084
+S12000017;Highland;2022;Vehicle Kilometres;2947
+S12000017;Highland;2013;Vehicle Kilometres;2592
+S12000017;Highland;2016;Vehicle Kilometres;2825
+S12000017;Highland;2008;Vehicle Kilometres;2563
+S12000017;Highland;2016;Traffic Congestion;5.8
+S12000017;Highland;2007;Traffic Congestion;8.8
+S12000017;Highland;2015;Vehicle Kilometres;2727
+S12000017;Highland;2022;Traffic Congestion;6
+S12000017;Highland;2008;Roads Needing Repairs;34.5
+S12000017;Highland;2021;Traffic Congestion;7
+S12000017;Highland;2010;Vehicle Kilometres;2574
+S12000017;Highland;2018;Traffic Congestion;8
+S12000017;Highland;2011;Roads Needing Repairs;31.9
+S12000017;Highland;2019;Traffic Congestion;10
+S12000017;Highland;2012;Roads Needing Repairs;33.2
+S12000017;Highland;2020;Vehicle Kilometres;2298
+S12000017;Highland;2019;Roads Needing Repairs;37.9
+S12000017;Highland;2014;Traffic Congestion;10.7
+S12000017;Highland;2014;Roads Needing Repairs;35.6
+S12000017;Highland;2006;Vehicle Kilometres;2523
+S12000017;Highland;2018;Vehicle Kilometres;2963
+S12000017;Highland;2006;Roads Needing Repairs;39
+S12000017;Highland;2011;Vehicle Kilometres;2570
+S12000017;Highland;2015;Traffic Congestion;9.1
+S12000017;Highland;2019;Vehicle Kilometres;2994
+S12000017;Highland;2018;Roads Needing Repairs;38.6
+S12000017;Highland;2014;Vehicle Kilometres;2648
+S12000017;Highland;2012;Traffic Congestion;8
+S12000017;Highland;2017;Vehicle Kilometres;2923
+S12000017;Highland;2012;Vehicle Kilometres;2561
+S12000017;Highland;2017;Roads Needing Repairs;38.8
+S12000018;Inverclyde;2014;Vehicle Kilometres;516
+S12000018;Inverclyde;2008;Roads Needing Repairs;42.9
+S12000018;Inverclyde;2008;Vehicle Kilometres;535
+S12000018;Inverclyde;2006;Vehicle Kilometres;533
+S12000018;Inverclyde;2012;Roads Needing Repairs;49
+S12000018;Inverclyde;2018;Roads Needing Repairs;37.5
+S12000018;Inverclyde;2011;Roads Needing Repairs;47.6
+S12000018;Inverclyde;2009;Traffic Congestion;13.97
+S12000018;Inverclyde;2016;Roads Needing Repairs;40.5
+S12000018;Inverclyde;2021;Vehicle Kilometres;501
+S12000018;Inverclyde;2006;Roads Needing Repairs;57
+S12000018;Inverclyde;2019;Vehicle Kilometres;544
+S12000018;Inverclyde;2003;Traffic Congestion;13.8
+S12000018;Inverclyde;2005;Traffic Congestion;9.5
+S12000018;Inverclyde;2009;Vehicle Kilometres;527
+S12000018;Inverclyde;2013;Vehicle Kilometres;501
+S12000018;Inverclyde;2023;Traffic Congestion;13
+S12000018;Inverclyde;2023;Roads Needing Repairs;33
+S12000018;Inverclyde;2013;Traffic Congestion;3.8
+S12000018;Inverclyde;2014;Roads Needing Repairs;49.2
+S12000018;Inverclyde;2018;Vehicle Kilometres;530
+S12000018;Inverclyde;2023;Vehicle Kilometres;524
+S12000018;Inverclyde;2012;Vehicle Kilometres;504
+S12000018;Inverclyde;2011;Vehicle Kilometres;508
+S12000018;Inverclyde;2010;Vehicle Kilometres;512
+S12000018;Inverclyde;2009;Roads Needing Repairs;44.1
+S12000018;Inverclyde;2015;Roads Needing Repairs;43.1
+S12000018;Inverclyde;2016;Traffic Congestion;11.1
+S12000018;Inverclyde;2017;Vehicle Kilometres;531
+S12000018;Inverclyde;2007;Traffic Congestion;12.5
+S12000018;Inverclyde;2019;Roads Needing Repairs;37.3
+S12000018;Inverclyde;2019;Traffic Congestion;12
+S12000018;Inverclyde;2007;Vehicle Kilometres;539
+S12000018;Inverclyde;2016;Vehicle Kilometres;532
+S12000018;Inverclyde;2021;Roads Needing Repairs;33
+S12000018;Inverclyde;2020;Vehicle Kilometres;447
+S12000018;Inverclyde;2021;Traffic Congestion;13
+S12000018;Inverclyde;2012;Traffic Congestion;8.1
+S12000018;Inverclyde;2020;Roads Needing Repairs;35.3
+S12000018;Inverclyde;2014;Traffic Congestion;7.7
+S12000018;Inverclyde;2022;Roads Needing Repairs;31
+S12000018;Inverclyde;2017;Traffic Congestion;12.5
+S12000018;Inverclyde;2015;Vehicle Kilometres;519
+S12000018;Inverclyde;2022;Traffic Congestion;9
+S12000018;Inverclyde;2015;Traffic Congestion;13.8
+S12000018;Inverclyde;2022;Vehicle Kilometres;526
+S12000018;Inverclyde;2017;Roads Needing Repairs;37.9
+S12000018;Inverclyde;2007;Roads Needing Repairs;45
+S12000018;Inverclyde;2018;Traffic Congestion;11
+S12000018;Inverclyde;2013;Roads Needing Repairs;49.2
+S12000019;Midlothian;2015;Traffic Congestion;10.9
+S12000019;Midlothian;2013;Roads Needing Repairs;31.1
+S12000019;Midlothian;2014;Traffic Congestion;11
+S12000019;Midlothian;2014;Vehicle Kilometres;665
+S12000019;Midlothian;2014;Roads Needing Repairs;31.1
+S12000019;Midlothian;2007;Vehicle Kilometres;631
+S12000019;Midlothian;2015;Vehicle Kilometres;671
+S12000019;Midlothian;2007;Roads Needing Repairs;40
+S12000019;Midlothian;2013;Vehicle Kilometres;638
+S12000019;Midlothian;2007;Traffic Congestion;18
+S12000019;Midlothian;2020;Vehicle Kilometres;566
+S12000019;Midlothian;2020;Roads Needing Repairs;34.6
+S12000019;Midlothian;2019;Roads Needing Repairs;35
+S12000019;Midlothian;2010;Vehicle Kilometres;645
+S12000019;Midlothian;2009;Vehicle Kilometres;643
+S12000019;Midlothian;2009;Roads Needing Repairs;32.7
+S12000019;Midlothian;2009;Traffic Congestion;5.1
+S12000019;Midlothian;2006;Roads Needing Repairs;41
+S12000019;Midlothian;2019;Vehicle Kilometres;718
+S12000019;Midlothian;2018;Vehicle Kilometres;716
+S12000019;Midlothian;2011;Roads Needing Repairs;31.2
+S12000019;Midlothian;2006;Vehicle Kilometres;622
+S12000019;Midlothian;2019;Traffic Congestion;17
+S12000019;Midlothian;2011;Vehicle Kilometres;647
+S12000019;Midlothian;2008;Vehicle Kilometres;631
+S12000019;Midlothian;2023;Vehicle Kilometres;686
+S12000019;Midlothian;2022;Roads Needing Repairs;39
+S12000019;Midlothian;2003;Traffic Congestion;16.9
+S12000019;Midlothian;2023;Traffic Congestion;6
+S12000019;Midlothian;2023;Roads Needing Repairs;37
+S12000019;Midlothian;2008;Roads Needing Repairs;35.9
+S12000019;Midlothian;2021;Vehicle Kilometres;640
+S12000019;Midlothian;2021;Traffic Congestion;17
+S12000019;Midlothian;2005;Traffic Congestion;14.5
+S12000019;Midlothian;2022;Vehicle Kilometres;676
+S12000019;Midlothian;2022;Traffic Congestion;14
+S12000019;Midlothian;2021;Roads Needing Repairs;36
+S12000019;Midlothian;2016;Traffic Congestion;10.6
+S12000019;Midlothian;2017;Traffic Congestion;12.3
+S12000019;Midlothian;2016;Vehicle Kilometres;695
+S12000019;Midlothian;2017;Vehicle Kilometres;717
+S12000019;Midlothian;2017;Roads Needing Repairs;32.9
+S12000019;Midlothian;2013;Traffic Congestion;8.2
+S12000019;Midlothian;2012;Vehicle Kilometres;642
+S12000019;Midlothian;2015;Roads Needing Repairs;31.4
+S12000019;Midlothian;2016;Roads Needing Repairs;31.4
+S12000019;Midlothian;2012;Roads Needing Repairs;32.4
+S12000019;Midlothian;2018;Traffic Congestion;14
+S12000019;Midlothian;2012;Traffic Congestion;9.7
+S12000019;Midlothian;2018;Roads Needing Repairs;35.7
+S12000020;Moray;2006;Roads Needing Repairs;50
+S12000020;Moray;2022;Roads Needing Repairs;26
+S12000020;Moray;2014;Vehicle Kilometres;745
+S12000020;Moray;2021;Roads Needing Repairs;26
+S12000020;Moray;2014;Roads Needing Repairs;25.2
+S12000020;Moray;2016;Roads Needing Repairs;26.9
+S12000020;Moray;2022;Traffic Congestion;6
+S12000020;Moray;2022;Vehicle Kilometres;777
+S12000020;Moray;2023;Traffic Congestion;1
+S12000020;Moray;2007;Traffic Congestion;13.6
+S12000020;Moray;2018;Roads Needing Repairs;29.1
+S12000020;Moray;2023;Roads Needing Repairs;25
+S12000020;Moray;2007;Vehicle Kilometres;728
+S12000020;Moray;2015;Roads Needing Repairs;27.9
+S12000020;Moray;2007;Roads Needing Repairs;28
+S12000020;Moray;2003;Traffic Congestion;7.3
+S12000020;Moray;2023;Vehicle Kilometres;818
+S12000020;Moray;2018;Vehicle Kilometres;812
+S12000020;Moray;2020;Vehicle Kilometres;669
+S12000020;Moray;2017;Roads Needing Repairs;28
+S12000020;Moray;2019;Roads Needing Repairs;30.6
+S12000020;Moray;2020;Roads Needing Repairs;28.5
+S12000020;Moray;2014;Traffic Congestion;16.2
+S12000020;Moray;2019;Traffic Congestion;11
+S12000020;Moray;2015;Traffic Congestion;9.8
+S12000020;Moray;2019;Vehicle Kilometres;809
+S12000020;Moray;2017;Vehicle Kilometres;809
+S12000020;Moray;2006;Vehicle Kilometres;713
+S12000020;Moray;2021;Vehicle Kilometres;765
+S12000020;Moray;2016;Traffic Congestion;9.8
+S12000020;Moray;2016;Vehicle Kilometres;785
+S12000020;Moray;2021;Traffic Congestion;6
+S12000020;Moray;2005;Traffic Congestion;11.5
+S12000020;Moray;2017;Traffic Congestion;8.5
+S12000020;Moray;2018;Traffic Congestion;11
+S12000020;Moray;2015;Vehicle Kilometres;757
+S12000020;Moray;2012;Vehicle Kilometres;718
+S12000020;Moray;2012;Roads Needing Repairs;26.1
+S12000020;Moray;2011;Roads Needing Repairs;26.1
+S12000020;Moray;2008;Roads Needing Repairs;22.7
+S12000020;Moray;2011;Vehicle Kilometres;705
+S12000020;Moray;2009;Vehicle Kilometres;715
+S12000020;Moray;2009;Roads Needing Repairs;24.4
+S12000020;Moray;2008;Vehicle Kilometres;724
+S12000020;Moray;2012;Traffic Congestion;5.1
+S12000020;Moray;2010;Vehicle Kilometres;710
+S12000020;Moray;2009;Traffic Congestion;9.7
+S12000020;Moray;2013;Vehicle Kilometres;719
+S12000020;Moray;2013;Roads Needing Repairs;25.2
+S12000020;Moray;2013;Traffic Congestion;7.4
+S12000021;North Ayrshire;2009;Traffic Congestion;8.38
+S12000021;North Ayrshire;2013;Traffic Congestion;11
+S12000021;North Ayrshire;2023;Roads Needing Repairs;33
+S12000021;North Ayrshire;2019;Roads Needing Repairs;37.3
+S12000021;North Ayrshire;2007;Traffic Congestion;10.2
+S12000021;North Ayrshire;2022;Traffic Congestion;10
+S12000021;North Ayrshire;2019;Traffic Congestion;9
+S12000021;North Ayrshire;2003;Traffic Congestion;12.3
+S12000021;North Ayrshire;2006;Roads Needing Repairs;50
+S12000021;North Ayrshire;2010;Vehicle Kilometres;764
+S12000021;North Ayrshire;2016;Vehicle Kilometres;793
+S12000021;North Ayrshire;2014;Traffic Congestion;6.7
+S12000021;North Ayrshire;2014;Roads Needing Repairs;40.8
+S12000021;North Ayrshire;2012;Traffic Congestion;9.7
+S12000021;North Ayrshire;2007;Vehicle Kilometres;778
+S12000021;North Ayrshire;2018;Traffic Congestion;8
+S12000021;North Ayrshire;2012;Roads Needing Repairs;42.7
+S12000021;North Ayrshire;2005;Traffic Congestion;5.4
+S12000021;North Ayrshire;2020;Roads Needing Repairs;37.1
+S12000021;North Ayrshire;2020;Vehicle Kilometres;629
+S12000021;North Ayrshire;2015;Roads Needing Repairs;37.9
+S12000021;North Ayrshire;2008;Vehicle Kilometres;778
+S12000021;North Ayrshire;2016;Roads Needing Repairs;38.3
+S12000021;North Ayrshire;2007;Roads Needing Repairs;41
+S12000021;North Ayrshire;2009;Roads Needing Repairs;40
+S12000021;North Ayrshire;2018;Roads Needing Repairs;38.2
+S12000021;North Ayrshire;2017;Traffic Congestion;8.5
+S12000021;North Ayrshire;2013;Roads Needing Repairs;40.8
+S12000021;North Ayrshire;2023;Traffic Congestion;6
+S12000021;North Ayrshire;2006;Vehicle Kilometres;767
+S12000021;North Ayrshire;2022;Roads Needing Repairs;34
+S12000021;North Ayrshire;2009;Vehicle Kilometres;769
+S12000021;North Ayrshire;2017;Vehicle Kilometres;805
+S12000021;North Ayrshire;2015;Traffic Congestion;8.4
+S12000021;North Ayrshire;2021;Traffic Congestion;16
+S12000021;North Ayrshire;2008;Roads Needing Repairs;37.2
+S12000021;North Ayrshire;2017;Roads Needing Repairs;39.2
+S12000021;North Ayrshire;2018;Vehicle Kilometres;804
+S12000021;North Ayrshire;2023;Vehicle Kilometres;798
+S12000021;North Ayrshire;2021;Roads Needing Repairs;34
+S12000021;North Ayrshire;2016;Traffic Congestion;11.4
+S12000021;North Ayrshire;2013;Vehicle Kilometres;740
+S12000021;North Ayrshire;2011;Roads Needing Repairs;43.8
+S12000021;North Ayrshire;2011;Vehicle Kilometres;761
+S12000021;North Ayrshire;2021;Vehicle Kilometres;721
+S12000021;North Ayrshire;2019;Vehicle Kilometres;806
+S12000021;North Ayrshire;2022;Vehicle Kilometres;781
+S12000021;North Ayrshire;2014;Vehicle Kilometres;765
+S12000021;North Ayrshire;2015;Vehicle Kilometres;774
+S12000021;North Ayrshire;2012;Vehicle Kilometres;744
+S12000023;Orkney Islands;2009;Roads Needing Repairs;27.3
+S12000023;Orkney Islands;2018;Traffic Congestion;1
+S12000023;Orkney Islands;2009;Traffic Congestion;3.33
+S12000023;Orkney Islands;2015;Vehicle Kilometres;145
+S12000023;Orkney Islands;2023;Vehicle Kilometres;146
+S12000023;Orkney Islands;2009;Vehicle Kilometres;133
+S12000023;Orkney Islands;2021;Vehicle Kilometres;135
+S12000023;Orkney Islands;2021;Traffic Congestion;3
+S12000023;Orkney Islands;2005;Traffic Congestion;1.5
+S12000023;Orkney Islands;2013;Traffic Congestion;0
+S12000023;Orkney Islands;2015;Traffic Congestion;0.4
+S12000023;Orkney Islands;2022;Roads Needing Repairs;21
+S12000023;Orkney Islands;2017;Roads Needing Repairs;19.8
+S12000023;Orkney Islands;2008;Vehicle Kilometres;132
+S12000023;Orkney Islands;2012;Vehicle Kilometres;134
+S12000023;Orkney Islands;2019;Vehicle Kilometres;151
+S12000023;Orkney Islands;2006;Vehicle Kilometres;131
+S12000023;Orkney Islands;2017;Traffic Congestion;0.8
+S12000023;Orkney Islands;2023;Traffic Congestion;4
+S12000023;Orkney Islands;2011;Vehicle Kilometres;133
+S12000023;Orkney Islands;2018;Roads Needing Repairs;20.5
+S12000023;Orkney Islands;2017;Vehicle Kilometres;155
+S12000023;Orkney Islands;2018;Vehicle Kilometres;152
+S12000023;Orkney Islands;2008;Roads Needing Repairs;19.5
+S12000023;Orkney Islands;2020;Vehicle Kilometres;123
+S12000023;Orkney Islands;2023;Roads Needing Repairs;22
+S12000023;Orkney Islands;2016;Vehicle Kilometres;151
+S12000023;Orkney Islands;2019;Roads Needing Repairs;21.2
+S12000023;Orkney Islands;2020;Roads Needing Repairs;22.2
+S12000023;Orkney Islands;2015;Roads Needing Repairs;21.2
+S12000023;Orkney Islands;2016;Roads Needing Repairs;21.2
+S12000023;Orkney Islands;2006;Roads Needing Repairs;42
+S12000023;Orkney Islands;2016;Traffic Congestion;1.1
+S12000023;Orkney Islands;2019;Traffic Congestion;0
+S12000023;Orkney Islands;2012;Traffic Congestion;0.5
+S12000023;Orkney Islands;2010;Vehicle Kilometres;135
+S12000023;Orkney Islands;2012;Roads Needing Repairs;20.4
+S12000023;Orkney Islands;2022;Vehicle Kilometres;142
+S12000023;Orkney Islands;2007;Roads Needing Repairs;25
+S12000023;Orkney Islands;2003;Traffic Congestion;2.4
+S12000023;Orkney Islands;2007;Vehicle Kilometres;133
+S12000023;Orkney Islands;2007;Traffic Congestion;5.3
+S12000023;Orkney Islands;2014;Roads Needing Repairs;20.1
+S12000023;Orkney Islands;2011;Roads Needing Repairs;21.4
+S12000023;Orkney Islands;2021;Roads Needing Repairs;22
+S12000023;Orkney Islands;2014;Traffic Congestion;0.8
+S12000023;Orkney Islands;2014;Vehicle Kilometres;142
+S12000023;Orkney Islands;2013;Vehicle Kilometres;135
+S12000023;Orkney Islands;2022;Traffic Congestion;3
+S12000023;Orkney Islands;2013;Roads Needing Repairs;20.1
+S12000026;Scottish Borders;2013;Roads Needing Repairs;46.8
+S12000026;Scottish Borders;2014;Traffic Congestion;4.4
+S12000026;Scottish Borders;2009;Roads Needing Repairs;38.1
+S12000026;Scottish Borders;2010;Vehicle Kilometres;1180
+S12000026;Scottish Borders;2020;Vehicle Kilometres;989
+S12000026;Scottish Borders;2016;Vehicle Kilometres;1295
+S12000026;Scottish Borders;2019;Roads Needing Repairs;45.3
+S12000026;Scottish Borders;2023;Traffic Congestion;11
+S12000026;Scottish Borders;2012;Roads Needing Repairs;41.7
+S12000026;Scottish Borders;2012;Vehicle Kilometres;1177
+S12000026;Scottish Borders;2020;Roads Needing Repairs;43.5
+S12000026;Scottish Borders;2007;Vehicle Kilometres;1204
+S12000026;Scottish Borders;2015;Roads Needing Repairs;46.3
+S12000026;Scottish Borders;2009;Vehicle Kilometres;1190
+S12000026;Scottish Borders;2013;Traffic Congestion;4.7
+S12000026;Scottish Borders;2009;Traffic Congestion;5.2
+S12000026;Scottish Borders;2016;Roads Needing Repairs;46.6
+S12000026;Scottish Borders;2014;Roads Needing Repairs;46.8
+S12000026;Scottish Borders;2018;Roads Needing Repairs;45.4
+S12000026;Scottish Borders;2005;Traffic Congestion;5.7
+S12000026;Scottish Borders;2017;Traffic Congestion;4.7
+S12000026;Scottish Borders;2008;Roads Needing Repairs;37.2
+S12000026;Scottish Borders;2012;Traffic Congestion;2.6
+S12000026;Scottish Borders;2022;Roads Needing Repairs;42
+S12000026;Scottish Borders;2022;Vehicle Kilometres;1260
+S12000026;Scottish Borders;2019;Vehicle Kilometres;1292
+S12000026;Scottish Borders;2017;Vehicle Kilometres;1313
+S12000026;Scottish Borders;2011;Vehicle Kilometres;1180
+S12000026;Scottish Borders;2018;Vehicle Kilometres;1303
+S12000026;Scottish Borders;2017;Roads Needing Repairs;48.6
+S12000026;Scottish Borders;2022;Traffic Congestion;8
+S12000026;Scottish Borders;2023;Roads Needing Repairs;42
+S12000026;Scottish Borders;2016;Traffic Congestion;3.9
+S12000026;Scottish Borders;2007;Roads Needing Repairs;41
+S12000026;Scottish Borders;2003;Traffic Congestion;7.6
+S12000026;Scottish Borders;2013;Vehicle Kilometres;1183
+S12000026;Scottish Borders;2011;Roads Needing Repairs;40.2
+S12000026;Scottish Borders;2006;Roads Needing Repairs;56
+S12000026;Scottish Borders;2008;Vehicle Kilometres;1189
+S12000026;Scottish Borders;2006;Vehicle Kilometres;1193
+S12000026;Scottish Borders;2019;Traffic Congestion;9
+S12000026;Scottish Borders;2007;Traffic Congestion;11
+S12000026;Scottish Borders;2014;Vehicle Kilometres;1222
+S12000026;Scottish Borders;2021;Roads Needing Repairs;41
+S12000026;Scottish Borders;2021;Vehicle Kilometres;1178
+S12000026;Scottish Borders;2015;Vehicle Kilometres;1254
+S12000026;Scottish Borders;2023;Vehicle Kilometres;1254
+S12000026;Scottish Borders;2021;Traffic Congestion;9
+S12000026;Scottish Borders;2015;Traffic Congestion;4.1
+S12000026;Scottish Borders;2018;Traffic Congestion;7
+S12000027;Shetland Islands;2016;Vehicle Kilometres;233
+S12000027;Shetland Islands;2012;Roads Needing Repairs;42.5
+S12000027;Shetland Islands;2022;Roads Needing Repairs;30
+S12000027;Shetland Islands;2015;Vehicle Kilometres;225
+S12000027;Shetland Islands;2007;Roads Needing Repairs;40
+S12000027;Shetland Islands;2019;Roads Needing Repairs;35.7
+S12000027;Shetland Islands;2007;Vehicle Kilometres;206
+S12000027;Shetland Islands;2006;Vehicle Kilometres;205
+S12000027;Shetland Islands;2012;Vehicle Kilometres;209
+S12000027;Shetland Islands;2010;Vehicle Kilometres;207
+S12000027;Shetland Islands;2023;Traffic Congestion;2
+S12000027;Shetland Islands;2014;Vehicle Kilometres;219
+S12000027;Shetland Islands;2014;Roads Needing Repairs;35.9
+S12000027;Shetland Islands;2020;Vehicle Kilometres;189
+S12000027;Shetland Islands;2005;Traffic Congestion;0.7
+S12000027;Shetland Islands;2016;Roads Needing Repairs;37.7
+S12000027;Shetland Islands;2012;Traffic Congestion;0.5
+S12000027;Shetland Islands;2014;Traffic Congestion;0.8
+S12000027;Shetland Islands;2006;Roads Needing Repairs;39
+S12000027;Shetland Islands;2008;Roads Needing Repairs;38.3
+S12000027;Shetland Islands;2013;Traffic Congestion;0.4
+S12000027;Shetland Islands;2018;Vehicle Kilometres;234
+S12000027;Shetland Islands;2022;Vehicle Kilometres;221
+S12000027;Shetland Islands;2017;Vehicle Kilometres;238
+S12000027;Shetland Islands;2017;Traffic Congestion;2
+S12000027;Shetland Islands;2017;Roads Needing Repairs;35.3
+S12000027;Shetland Islands;2018;Roads Needing Repairs;36.2
+S12000027;Shetland Islands;2011;Vehicle Kilometres;208
+S12000027;Shetland Islands;2011;Roads Needing Repairs;43.6
+S12000027;Shetland Islands;2018;Traffic Congestion;2
+S12000027;Shetland Islands;2021;Traffic Congestion;1
+S12000027;Shetland Islands;2023;Vehicle Kilometres;225
+S12000027;Shetland Islands;2016;Traffic Congestion;2.4
+S12000027;Shetland Islands;2023;Roads Needing Repairs;30
+S12000027;Shetland Islands;2019;Traffic Congestion;2
+S12000027;Shetland Islands;2022;Traffic Congestion;2
+S12000027;Shetland Islands;2009;Vehicle Kilometres;203
+S12000027;Shetland Islands;2015;Traffic Congestion;2.4
+S12000027;Shetland Islands;2021;Vehicle Kilometres;208
+S12000027;Shetland Islands;2021;Roads Needing Repairs;34
+S12000027;Shetland Islands;2019;Vehicle Kilometres;233
+S12000027;Shetland Islands;2013;Roads Needing Repairs;35.9
+S12000027;Shetland Islands;2020;Roads Needing Repairs;34.7
+S12000027;Shetland Islands;2015;Roads Needing Repairs;38.9
+S12000027;Shetland Islands;2013;Vehicle Kilometres;212
+S12000027;Shetland Islands;2009;Traffic Congestion;2.47
+S12000027;Shetland Islands;2008;Vehicle Kilometres;206
+S12000027;Shetland Islands;2003;Traffic Congestion;2.1
+S12000027;Shetland Islands;2007;Traffic Congestion;2.1
+S12000027;Shetland Islands;2009;Roads Needing Repairs;39.3
+S12000028;South Ayrshire;2022;Vehicle Kilometres;1040
+S12000028;South Ayrshire;2015;Traffic Congestion;9
+S12000028;South Ayrshire;2010;Vehicle Kilometres;977
+S12000028;South Ayrshire;2020;Vehicle Kilometres;814
+S12000028;South Ayrshire;2015;Roads Needing Repairs;44.2
+S12000028;South Ayrshire;2014;Traffic Congestion;7
+S12000028;South Ayrshire;2017;Traffic Congestion;6.1
+S12000028;South Ayrshire;2013;Vehicle Kilometres;952
+S12000028;South Ayrshire;2021;Roads Needing Repairs;39
+S12000028;South Ayrshire;2017;Vehicle Kilometres;1049
+S12000028;South Ayrshire;2012;Traffic Congestion;5.5
+S12000028;South Ayrshire;2016;Traffic Congestion;4.1
+S12000028;South Ayrshire;2019;Roads Needing Repairs;40.6
+S12000028;South Ayrshire;2017;Roads Needing Repairs;41
+S12000028;South Ayrshire;2020;Roads Needing Repairs;40.9
+S12000028;South Ayrshire;2016;Vehicle Kilometres;1028
+S12000028;South Ayrshire;2012;Roads Needing Repairs;44.5
+S12000028;South Ayrshire;2009;Roads Needing Repairs;42.8
+S12000028;South Ayrshire;2022;Traffic Congestion;9
+S12000028;South Ayrshire;2023;Roads Needing Repairs;36
+S12000028;South Ayrshire;2018;Vehicle Kilometres;1051
+S12000028;South Ayrshire;2021;Traffic Congestion;7
+S12000028;South Ayrshire;2015;Vehicle Kilometres;996
+S12000028;South Ayrshire;2023;Vehicle Kilometres;1053
+S12000028;South Ayrshire;2022;Roads Needing Repairs;38
+S12000028;South Ayrshire;2006;Vehicle Kilometres;969
+S12000028;South Ayrshire;2003;Traffic Congestion;14.5
+S12000028;South Ayrshire;2006;Roads Needing Repairs;61
+S12000028;South Ayrshire;2011;Roads Needing Repairs;46.7
+S12000028;South Ayrshire;2007;Vehicle Kilometres;980
+S12000028;South Ayrshire;2018;Traffic Congestion;6
+S12000028;South Ayrshire;2014;Vehicle Kilometres;980
+S12000028;South Ayrshire;2009;Vehicle Kilometres;970
+S12000028;South Ayrshire;2007;Traffic Congestion;8.4
+S12000028;South Ayrshire;2021;Vehicle Kilometres;950
+S12000028;South Ayrshire;2018;Roads Needing Repairs;41.3
+S12000028;South Ayrshire;2016;Roads Needing Repairs;42.3
+S12000028;South Ayrshire;2007;Roads Needing Repairs;45
+S12000028;South Ayrshire;2013;Traffic Congestion;6.2
+S12000028;South Ayrshire;2008;Roads Needing Repairs;42.2
+S12000028;South Ayrshire;2019;Traffic Congestion;6
+S12000028;South Ayrshire;2011;Vehicle Kilometres;973
+S12000028;South Ayrshire;2012;Vehicle Kilometres;959
+S12000028;South Ayrshire;2014;Roads Needing Repairs;41.4
+S12000028;South Ayrshire;2005;Traffic Congestion;7.9
+S12000028;South Ayrshire;2019;Vehicle Kilometres;1053
+S12000028;South Ayrshire;2013;Roads Needing Repairs;41.4
+S12000028;South Ayrshire;2023;Traffic Congestion;8
+S12000028;South Ayrshire;2009;Traffic Congestion;6.1
+S12000028;South Ayrshire;2008;Vehicle Kilometres;974
+S12000029;South Lanarkshire;2011;Vehicle Kilometres;2448
+S12000029;South Lanarkshire;2009;Roads Needing Repairs;37.5
+S12000029;South Lanarkshire;2021;Traffic Congestion;15
+S12000029;South Lanarkshire;2006;Vehicle Kilometres;2437
+S12000029;South Lanarkshire;2019;Traffic Congestion;15
+S12000029;South Lanarkshire;2017;Vehicle Kilometres;2796
+S12000029;South Lanarkshire;2006;Roads Needing Repairs;51
+S12000029;South Lanarkshire;2021;Vehicle Kilometres;2559
+S12000029;South Lanarkshire;2007;Traffic Congestion;15.7
+S12000029;South Lanarkshire;2003;Traffic Congestion;12
+S12000029;South Lanarkshire;2019;Vehicle Kilometres;2836
+S12000029;South Lanarkshire;2008;Vehicle Kilometres;2451
+S12000029;South Lanarkshire;2023;Vehicle Kilometres;2843
+S12000029;South Lanarkshire;2023;Traffic Congestion;14
+S12000029;South Lanarkshire;2016;Traffic Congestion;18.6
+S12000029;South Lanarkshire;2017;Roads Needing Repairs;31.9
+S12000029;South Lanarkshire;2015;Traffic Congestion;21.8
+S12000029;South Lanarkshire;2019;Roads Needing Repairs;30.4
+S12000029;South Lanarkshire;2017;Traffic Congestion;19.2
+S12000029;South Lanarkshire;2023;Roads Needing Repairs;32
+S12000029;South Lanarkshire;2007;Roads Needing Repairs;39
+S12000029;South Lanarkshire;2014;Roads Needing Repairs;42.1
+S12000029;South Lanarkshire;2020;Vehicle Kilometres;2181
+S12000029;South Lanarkshire;2012;Vehicle Kilometres;2502
+S12000029;South Lanarkshire;2015;Vehicle Kilometres;2608
+S12000029;South Lanarkshire;2021;Roads Needing Repairs;30
+S12000029;South Lanarkshire;2015;Roads Needing Repairs;33.5
+S12000029;South Lanarkshire;2013;Traffic Congestion;7.5
+S12000029;South Lanarkshire;2014;Traffic Congestion;14.6
+S12000029;South Lanarkshire;2018;Roads Needing Repairs;31.3
+S12000029;South Lanarkshire;2014;Vehicle Kilometres;2585
+S12000029;South Lanarkshire;2018;Traffic Congestion;17
+S12000029;South Lanarkshire;2012;Traffic Congestion;13.1
+S12000029;South Lanarkshire;2009;Traffic Congestion;11.47
+S12000029;South Lanarkshire;2016;Roads Needing Repairs;33.1
+S12000029;South Lanarkshire;2010;Vehicle Kilometres;2454
+S12000029;South Lanarkshire;2018;Vehicle Kilometres;2809
+S12000029;South Lanarkshire;2005;Traffic Congestion;15.4
+S12000029;South Lanarkshire;2012;Roads Needing Repairs;36.8
+S12000029;South Lanarkshire;2008;Roads Needing Repairs;37.5
+S12000029;South Lanarkshire;2022;Roads Needing Repairs;30
+S12000029;South Lanarkshire;2020;Roads Needing Repairs;30.6
+S12000029;South Lanarkshire;2016;Vehicle Kilometres;2713
+S12000029;South Lanarkshire;2007;Vehicle Kilometres;2446
+S12000029;South Lanarkshire;2022;Vehicle Kilometres;2781
+S12000029;South Lanarkshire;2022;Traffic Congestion;14
+S12000029;South Lanarkshire;2011;Roads Needing Repairs;37.5
+S12000029;South Lanarkshire;2013;Vehicle Kilometres;2513
+S12000029;South Lanarkshire;2013;Roads Needing Repairs;42.1
+S12000029;South Lanarkshire;2009;Vehicle Kilometres;2475
+S12000030;Stirling;2007;Traffic Congestion;16.1
+S12000030;Stirling;2022;Traffic Congestion;10
+S12000030;Stirling;2006;Roads Needing Repairs;53
+S12000030;Stirling;2008;Vehicle Kilometres;1249
+S12000030;Stirling;2019;Roads Needing Repairs;41.3
+S12000030;Stirling;2005;Traffic Congestion;9.4
+S12000030;Stirling;2013;Traffic Congestion;5.9
+S12000030;Stirling;2006;Vehicle Kilometres;1236
+S12000030;Stirling;2018;Traffic Congestion;12
+S12000030;Stirling;2007;Roads Needing Repairs;47
+S12000030;Stirling;2017;Roads Needing Repairs;42.5
+S12000030;Stirling;2017;Traffic Congestion;10.7
+S12000030;Stirling;2021;Roads Needing Repairs;40
+S12000030;Stirling;2012;Roads Needing Repairs;40.8
+S12000030;Stirling;2011;Roads Needing Repairs;42.3
+S12000030;Stirling;2022;Vehicle Kilometres;1259
+S12000030;Stirling;2018;Vehicle Kilometres;1351
+S12000030;Stirling;2015;Vehicle Kilometres;1263
+S12000030;Stirling;2012;Vehicle Kilometres;1195
+S12000030;Stirling;2021;Traffic Congestion;11
+S12000030;Stirling;2003;Traffic Congestion;8.2
+S12000030;Stirling;2013;Roads Needing Repairs;35.6
+S12000030;Stirling;2014;Roads Needing Repairs;35.6
+S12000030;Stirling;2021;Vehicle Kilometres;1160
+S12000030;Stirling;2009;Traffic Congestion;11.99
+S12000030;Stirling;2015;Traffic Congestion;12.1
+S12000030;Stirling;2009;Roads Needing Repairs;44.5
+S12000030;Stirling;2023;Roads Needing Repairs;40
+S12000030;Stirling;2015;Roads Needing Repairs;44.2
+S12000030;Stirling;2016;Traffic Congestion;5
+S12000030;Stirling;2014;Traffic Congestion;10.9
+S12000030;Stirling;2018;Roads Needing Repairs;41.6
+S12000030;Stirling;2013;Vehicle Kilometres;1192
+S12000030;Stirling;2023;Vehicle Kilometres;1281
+S12000030;Stirling;2014;Vehicle Kilometres;1236
+S12000030;Stirling;2007;Vehicle Kilometres;1261
+S12000030;Stirling;2008;Roads Needing Repairs;44.7
+S12000030;Stirling;2016;Vehicle Kilometres;1329
+S12000030;Stirling;2022;Roads Needing Repairs;40
+S12000030;Stirling;2017;Vehicle Kilometres;1341
+S12000030;Stirling;2023;Traffic Congestion;13
+S12000030;Stirling;2011;Vehicle Kilometres;1210
+S12000030;Stirling;2020;Roads Needing Repairs;41.8
+S12000030;Stirling;2019;Vehicle Kilometres;1350
+S12000030;Stirling;2016;Roads Needing Repairs;43.8
+S12000030;Stirling;2019;Traffic Congestion;15
+S12000030;Stirling;2009;Vehicle Kilometres;1234
+S12000030;Stirling;2020;Vehicle Kilometres;1020
+S12000030;Stirling;2010;Vehicle Kilometres;1227
+S12000030;Stirling;2012;Traffic Congestion;7.7
+S12000033;Aberdeen City;2015;Vehicle Kilometres;1308
+S12000033;Aberdeen City;2014;Roads Needing Repairs;27
+S12000033;Aberdeen City;2012;Traffic Congestion;11.6
+S12000033;Aberdeen City;2012;Vehicle Kilometres;1270
+S12000033;Aberdeen City;2010;Vehicle Kilometres;1273
+S12000033;Aberdeen City;2016;Vehicle Kilometres;1345
+S12000033;Aberdeen City;2005;Traffic Congestion;19.2
+S12000033;Aberdeen City;2021;Roads Needing Repairs;28
+S12000033;Aberdeen City;2016;Roads Needing Repairs;28.2
+S12000033;Aberdeen City;2013;Vehicle Kilometres;1268
+S12000033;Aberdeen City;2015;Roads Needing Repairs;26
+S12000033;Aberdeen City;2018;Vehicle Kilometres;1351
+S12000033;Aberdeen City;2020;Vehicle Kilometres;1254
+S12000033;Aberdeen City;2009;Traffic Congestion;18.15
+S12000033;Aberdeen City;2006;Roads Needing Repairs;39
+S12000033;Aberdeen City;2018;Traffic Congestion;20
+S12000033;Aberdeen City;2013;Roads Needing Repairs;27
+S12000033;Aberdeen City;2014;Vehicle Kilometres;1299
+S12000033;Aberdeen City;2013;Traffic Congestion;18.5
+S12000033;Aberdeen City;2023;Traffic Congestion;13
+S12000033;Aberdeen City;2007;Traffic Congestion;23.1
+S12000033;Aberdeen City;2009;Roads Needing Repairs;31.2
+S12000033;Aberdeen City;2008;Vehicle Kilometres;1342
+S12000033;Aberdeen City;2017;Traffic Congestion;19.4
+S12000033;Aberdeen City;2023;Vehicle Kilometres;1529
+S12000033;Aberdeen City;2023;Roads Needing Repairs;27
+S12000033;Aberdeen City;2007;Roads Needing Repairs;22
+S12000033;Aberdeen City;2017;Roads Needing Repairs;30.3
+S12000033;Aberdeen City;2019;Vehicle Kilometres;1586
+S12000033;Aberdeen City;2020;Roads Needing Repairs;28.4
+S12000033;Aberdeen City;2015;Traffic Congestion;16.4
+S12000033;Aberdeen City;2008;Roads Needing Repairs;24.6
+S12000033;Aberdeen City;2019;Traffic Congestion;17
+S12000033;Aberdeen City;2019;Roads Needing Repairs;30
+S12000033;Aberdeen City;2022;Vehicle Kilometres;1474
+S12000033;Aberdeen City;2017;Vehicle Kilometres;1344
+S12000033;Aberdeen City;2022;Traffic Congestion;11
+S12000033;Aberdeen City;2021;Traffic Congestion;11
+S12000033;Aberdeen City;2006;Vehicle Kilometres;1390
+S12000033;Aberdeen City;2014;Traffic Congestion;19.2
+S12000033;Aberdeen City;2018;Roads Needing Repairs;30.2
+S12000033;Aberdeen City;2011;Vehicle Kilometres;1261
+S12000033;Aberdeen City;2009;Vehicle Kilometres;1293
+S12000033;Aberdeen City;2007;Vehicle Kilometres;1354
+S12000033;Aberdeen City;2011;Roads Needing Repairs;32.4
+S12000033;Aberdeen City;2016;Traffic Congestion;19.6
+S12000033;Aberdeen City;2012;Roads Needing Repairs;30.5
+S12000033;Aberdeen City;2003;Traffic Congestion;18.3
+S12000033;Aberdeen City;2022;Roads Needing Repairs;26
+S12000033;Aberdeen City;2021;Vehicle Kilometres;1382
+S12000034;Aberdeenshire;2011;Vehicle Kilometres;2694
+S12000034;Aberdeenshire;2018;Roads Needing Repairs;27.1
+S12000034;Aberdeenshire;2008;Vehicle Kilometres;2723
+S12000034;Aberdeenshire;2009;Traffic Congestion;11.5
+S12000034;Aberdeenshire;2009;Roads Needing Repairs;25.9
+S12000034;Aberdeenshire;2022;Traffic Congestion;6
+S12000034;Aberdeenshire;2021;Traffic Congestion;7
+S12000034;Aberdeenshire;2021;Vehicle Kilometres;2888
+S12000034;Aberdeenshire;2009;Vehicle Kilometres;2679
+S12000034;Aberdeenshire;2007;Vehicle Kilometres;2743
+S12000034;Aberdeenshire;2022;Roads Needing Repairs;23
+S12000034;Aberdeenshire;2022;Vehicle Kilometres;3095
+S12000034;Aberdeenshire;2007;Roads Needing Repairs;27
+S12000034;Aberdeenshire;2007;Traffic Congestion;12.7
+S12000034;Aberdeenshire;2019;Traffic Congestion;10
+S12000034;Aberdeenshire;2019;Vehicle Kilometres;3262
+S12000034;Aberdeenshire;2010;Vehicle Kilometres;2719
+S12000034;Aberdeenshire;2018;Vehicle Kilometres;3127
+S12000034;Aberdeenshire;2011;Roads Needing Repairs;24.7
+S12000034;Aberdeenshire;2019;Roads Needing Repairs;26.3
+S12000034;Aberdeenshire;2023;Traffic Congestion;7
+S12000034;Aberdeenshire;2020;Roads Needing Repairs;24.7
+S12000034;Aberdeenshire;2021;Roads Needing Repairs;23
+S12000034;Aberdeenshire;2005;Traffic Congestion;10.7
+S12000034;Aberdeenshire;2020;Vehicle Kilometres;2562
+S12000034;Aberdeenshire;2013;Traffic Congestion;12.8
+S12000034;Aberdeenshire;2013;Vehicle Kilometres;2771
+S12000034;Aberdeenshire;2015;Traffic Congestion;13.7
+S12000034;Aberdeenshire;2018;Traffic Congestion;14
+S12000034;Aberdeenshire;2012;Vehicle Kilometres;2741
+S12000034;Aberdeenshire;2017;Vehicle Kilometres;3257
+S12000034;Aberdeenshire;2008;Roads Needing Repairs;22.7
+S12000034;Aberdeenshire;2013;Roads Needing Repairs;26.3
+S12000034;Aberdeenshire;2016;Vehicle Kilometres;3078
+S12000034;Aberdeenshire;2015;Vehicle Kilometres;2954
+S12000034;Aberdeenshire;2016;Roads Needing Repairs;24.9
+S12000034;Aberdeenshire;2015;Roads Needing Repairs;24.9
+S12000034;Aberdeenshire;2012;Traffic Congestion;12.9
+S12000034;Aberdeenshire;2016;Traffic Congestion;15.8
+S12000034;Aberdeenshire;2012;Roads Needing Repairs;24.3
+S12000034;Aberdeenshire;2017;Traffic Congestion;14.6
+S12000034;Aberdeenshire;2014;Traffic Congestion;17.2
+S12000034;Aberdeenshire;2014;Roads Needing Repairs;26.3
+S12000034;Aberdeenshire;2023;Roads Needing Repairs;22
+S12000034;Aberdeenshire;2017;Roads Needing Repairs;26.2
+S12000034;Aberdeenshire;2006;Vehicle Kilometres;2742
+S12000034;Aberdeenshire;2006;Roads Needing Repairs;39
+S12000034;Aberdeenshire;2003;Traffic Congestion;8.4
+S12000034;Aberdeenshire;2014;Vehicle Kilometres;2898
+S12000034;Aberdeenshire;2023;Vehicle Kilometres;3178
+S12000035;Argyll and Bute;2005;Traffic Congestion;5.4
+S12000035;Argyll and Bute;2017;Roads Needing Repairs;55.5
+S12000035;Argyll and Bute;2012;Roads Needing Repairs;57.6
+S12000035;Argyll and Bute;2016;Vehicle Kilometres;963
+S12000035;Argyll and Bute;2003;Traffic Congestion;3.6
+S12000035;Argyll and Bute;2020;Vehicle Kilometres;737
+S12000035;Argyll and Bute;2010;Vehicle Kilometres;882
+S12000035;Argyll and Bute;2016;Traffic Congestion;2.5
+S12000035;Argyll and Bute;2012;Traffic Congestion;3.7
+S12000035;Argyll and Bute;2017;Traffic Congestion;5.1
+S12000035;Argyll and Bute;2017;Vehicle Kilometres;996
+S12000035;Argyll and Bute;2019;Traffic Congestion;6
+S12000035;Argyll and Bute;2019;Roads Needing Repairs;54.2
+S12000035;Argyll and Bute;2012;Vehicle Kilometres;872
+S12000035;Argyll and Bute;2019;Vehicle Kilometres;985
+S12000035;Argyll and Bute;2006;Vehicle Kilometres;903
+S12000035;Argyll and Bute;2014;Roads Needing Repairs;57.6
+S12000035;Argyll and Bute;2007;Traffic Congestion;7.6
+S12000035;Argyll and Bute;2022;Traffic Congestion;7
+S12000035;Argyll and Bute;2013;Vehicle Kilometres;882
+S12000035;Argyll and Bute;2014;Vehicle Kilometres;908
+S12000035;Argyll and Bute;2021;Traffic Congestion;7
+S12000035;Argyll and Bute;2009;Traffic Congestion;3.73
+S12000035;Argyll and Bute;2007;Vehicle Kilometres;902
+S12000035;Argyll and Bute;2014;Traffic Congestion;17.5
+S12000035;Argyll and Bute;2022;Vehicle Kilometres;945
+S12000035;Argyll and Bute;2009;Roads Needing Repairs;55.3
+S12000035;Argyll and Bute;2009;Vehicle Kilometres;893
+S12000035;Argyll and Bute;2022;Roads Needing Repairs;50
+S12000035;Argyll and Bute;2015;Vehicle Kilometres;931
+S12000035;Argyll and Bute;2020;Roads Needing Repairs;52.5
+S12000035;Argyll and Bute;2007;Roads Needing Repairs;57
+S12000035;Argyll and Bute;2013;Traffic Congestion;2.5
+S12000035;Argyll and Bute;2016;Roads Needing Repairs;55.3
+S12000035;Argyll and Bute;2015;Roads Needing Repairs;54.4
+S12000035;Argyll and Bute;2015;Traffic Congestion;5.6
+S12000035;Argyll and Bute;2023;Traffic Congestion;10
+S12000035;Argyll and Bute;2013;Roads Needing Repairs;57.6
+S12000035;Argyll and Bute;2023;Vehicle Kilometres;959
+S12000035;Argyll and Bute;2021;Roads Needing Repairs;51
+S12000035;Argyll and Bute;2021;Vehicle Kilometres;865
+S12000035;Argyll and Bute;2011;Roads Needing Repairs;58.8
+S12000035;Argyll and Bute;2011;Vehicle Kilometres;878
+S12000035;Argyll and Bute;2018;Traffic Congestion;4
+S12000035;Argyll and Bute;2023;Roads Needing Repairs;49
+S12000035;Argyll and Bute;2018;Roads Needing Repairs;54.5
+S12000035;Argyll and Bute;2008;Vehicle Kilometres;896
+S12000035;Argyll and Bute;2008;Roads Needing Repairs;52.2
+S12000035;Argyll and Bute;2018;Vehicle Kilometres;983
+S12000035;Argyll and Bute;2006;Roads Needing Repairs;56
+S12000036;City of Edinburgh;2012;Traffic Congestion;18.3
+S12000036;City of Edinburgh;2022;Traffic Congestion;17
+S12000036;City of Edinburgh;2017;Vehicle Kilometres;3014
+S12000036;City of Edinburgh;2016;Roads Needing Repairs;34.6
+S12000036;City of Edinburgh;2007;Roads Needing Repairs;39
+S12000036;City of Edinburgh;2013;Traffic Congestion;15
+S12000036;City of Edinburgh;2006;Vehicle Kilometres;2964
+S12000036;City of Edinburgh;2023;Traffic Congestion;19
+S12000036;City of Edinburgh;2021;Vehicle Kilometres;2757
+S12000036;City of Edinburgh;2009;Vehicle Kilometres;2953
+S12000036;City of Edinburgh;2022;Roads Needing Repairs;36
+S12000036;City of Edinburgh;2017;Traffic Congestion;16.9
+S12000036;City of Edinburgh;2006;Roads Needing Repairs;49
+S12000036;City of Edinburgh;2018;Traffic Congestion;19
+S12000036;City of Edinburgh;2016;Vehicle Kilometres;3026
+S12000036;City of Edinburgh;2011;Roads Needing Repairs;32.5
+S12000036;City of Edinburgh;2016;Traffic Congestion;16.1
+S12000036;City of Edinburgh;2020;Roads Needing Repairs;37.3
+S12000036;City of Edinburgh;2020;Vehicle Kilometres;2468
+S12000036;City of Edinburgh;2014;Vehicle Kilometres;2889
+S12000036;City of Edinburgh;2021;Traffic Congestion;18
+S12000036;City of Edinburgh;2008;Roads Needing Repairs;34.1
+S12000036;City of Edinburgh;2019;Traffic Congestion;20
+S12000036;City of Edinburgh;2014;Roads Needing Repairs;43.5
+S12000036;City of Edinburgh;2009;Roads Needing Repairs;32.9
+S12000036;City of Edinburgh;2015;Traffic Congestion;15.3
+S12000036;City of Edinburgh;2017;Roads Needing Repairs;36.4
+S12000036;City of Edinburgh;2008;Vehicle Kilometres;2932
+S12000036;City of Edinburgh;2011;Vehicle Kilometres;2848
+S12000036;City of Edinburgh;2018;Roads Needing Repairs;36.5
+S12000036;City of Edinburgh;2010;Vehicle Kilometres;2835
+S12000036;City of Edinburgh;2003;Traffic Congestion;16.5
+S12000036;City of Edinburgh;2005;Traffic Congestion;17.1
+S12000036;City of Edinburgh;2023;Vehicle Kilometres;3040
+S12000036;City of Edinburgh;2019;Vehicle Kilometres;3158
+S12000036;City of Edinburgh;2022;Vehicle Kilometres;2998
+S12000036;City of Edinburgh;2019;Roads Needing Repairs;33.5
+S12000036;City of Edinburgh;2014;Traffic Congestion;16.8
+S12000036;City of Edinburgh;2009;Traffic Congestion;15
+S12000036;City of Edinburgh;2012;Vehicle Kilometres;2824
+S12000036;City of Edinburgh;2012;Roads Needing Repairs;34
+S12000036;City of Edinburgh;2018;Vehicle Kilometres;3138
+S12000036;City of Edinburgh;2007;Vehicle Kilometres;3015
+S12000036;City of Edinburgh;2015;Vehicle Kilometres;2951
+S12000036;City of Edinburgh;2015;Roads Needing Repairs;35.9
+S12000036;City of Edinburgh;2023;Roads Needing Repairs;34
+S12000036;City of Edinburgh;2007;Traffic Congestion;15
+S12000036;City of Edinburgh;2021;Roads Needing Repairs;36
+S12000036;City of Edinburgh;2013;Roads Needing Repairs;43.5
+S12000036;City of Edinburgh;2013;Vehicle Kilometres;2833
+S12000038;Renfrewshire;2018;Vehicle Kilometres;1634
+S12000038;Renfrewshire;2021;Traffic Congestion;14
+S12000038;Renfrewshire;2016;Vehicle Kilometres;1581
+S12000038;Renfrewshire;2015;Vehicle Kilometres;1544
+S12000038;Renfrewshire;2008;Vehicle Kilometres;1492
+S12000038;Renfrewshire;2007;Vehicle Kilometres;1476
+S12000038;Renfrewshire;2016;Roads Needing Repairs;34.8
+S12000038;Renfrewshire;2023;Roads Needing Repairs;28
+S12000038;Renfrewshire;2021;Vehicle Kilometres;1471
+S12000038;Renfrewshire;2003;Traffic Congestion;10.1
+S12000038;Renfrewshire;2023;Vehicle Kilometres;1616
+S12000038;Renfrewshire;2020;Roads Needing Repairs;32
+S12000038;Renfrewshire;2018;Traffic Congestion;11
+S12000038;Renfrewshire;2013;Traffic Congestion;9.5
+S12000038;Renfrewshire;2021;Roads Needing Repairs;29
+S12000038;Renfrewshire;2005;Traffic Congestion;11.9
+S12000038;Renfrewshire;2015;Traffic Congestion;17.7
+S12000038;Renfrewshire;2007;Roads Needing Repairs;34
+S12000038;Renfrewshire;2017;Traffic Congestion;12.8
+S12000038;Renfrewshire;2011;Roads Needing Repairs;42.5
+S12000038;Renfrewshire;2008;Roads Needing Repairs;35.7
+S12000038;Renfrewshire;2022;Traffic Congestion;12
+S12000038;Renfrewshire;2022;Roads Needing Repairs;28
+S12000038;Renfrewshire;2009;Roads Needing Repairs;46.1
+S12000038;Renfrewshire;2023;Traffic Congestion;11
+S12000038;Renfrewshire;2009;Traffic Congestion;13.1
+S12000038;Renfrewshire;2017;Vehicle Kilometres;1589
+S12000038;Renfrewshire;2018;Roads Needing Repairs;35.1
+S12000038;Renfrewshire;2012;Traffic Congestion;15.6
+S12000038;Renfrewshire;2013;Roads Needing Repairs;38.8
+S12000038;Renfrewshire;2014;Traffic Congestion;18.2
+S12000038;Renfrewshire;2017;Roads Needing Repairs;33.9
+S12000038;Renfrewshire;2022;Vehicle Kilometres;1610
+S12000038;Renfrewshire;2019;Vehicle Kilometres;1639
+S12000038;Renfrewshire;2013;Vehicle Kilometres;1454
+S12000038;Renfrewshire;2019;Roads Needing Repairs;32.9
+S12000038;Renfrewshire;2006;Vehicle Kilometres;1469
+S12000038;Renfrewshire;2007;Traffic Congestion;18
+S12000038;Renfrewshire;2014;Roads Needing Repairs;38.8
+S12000038;Renfrewshire;2011;Vehicle Kilometres;1449
+S12000038;Renfrewshire;2010;Vehicle Kilometres;1444
+S12000038;Renfrewshire;2016;Traffic Congestion;11.7
+S12000038;Renfrewshire;2020;Vehicle Kilometres;1280
+S12000038;Renfrewshire;2014;Vehicle Kilometres;1508
+S12000038;Renfrewshire;2012;Vehicle Kilometres;1440
+S12000038;Renfrewshire;2012;Roads Needing Repairs;37.3
+S12000038;Renfrewshire;2019;Traffic Congestion;13
+S12000038;Renfrewshire;2015;Roads Needing Repairs;36.2
+S12000038;Renfrewshire;2009;Vehicle Kilometres;1464
+S12000038;Renfrewshire;2006;Roads Needing Repairs;45
+S12000041;Angus;2015;Vehicle Kilometres;1102
+S12000041;Angus;2007;Traffic Congestion;6.4
+S12000041;Angus;2007;Roads Needing Repairs;30
+S12000041;Angus;2015;Roads Needing Repairs;28.9
+S12000041;Angus;2023;Vehicle Kilometres;1120
+S12000041;Angus;2020;Roads Needing Repairs;31
+S12000041;Angus;2009;Roads Needing Repairs;27.1
+S12000041;Angus;2009;Traffic Congestion;7.56
+S12000041;Angus;2021;Traffic Congestion;5
+S12000041;Angus;2013;Vehicle Kilometres;1063
+S12000041;Angus;2009;Vehicle Kilometres;1042
+S12000041;Angus;2014;Roads Needing Repairs;30.1
+S12000041;Angus;2022;Vehicle Kilometres;1101
+S12000041;Angus;2022;Roads Needing Repairs;31
+S12000041;Angus;2014;Traffic Congestion;6.8
+S12000041;Angus;2018;Roads Needing Repairs;32.7
+S12000041;Angus;2013;Roads Needing Repairs;30.1
+S12000041;Angus;2023;Traffic Congestion;8
+S12000041;Angus;2021;Vehicle Kilometres;1012
+S12000041;Angus;2003;Traffic Congestion;8.5
+S12000041;Angus;2021;Roads Needing Repairs;31
+S12000041;Angus;2015;Traffic Congestion;4.7
+S12000041;Angus;2013;Traffic Congestion;5.3
+S12000041;Angus;2008;Vehicle Kilometres;1052
+S12000041;Angus;2006;Roads Needing Repairs;39
+S12000041;Angus;2007;Vehicle Kilometres;1032
+S12000041;Angus;2018;Traffic Congestion;10
+S12000041;Angus;2014;Vehicle Kilometres;1100
+S12000041;Angus;2011;Roads Needing Repairs;29
+S12000041;Angus;2012;Roads Needing Repairs;27.9
+S12000041;Angus;2012;Vehicle Kilometres;1049
+S12000041;Angus;2016;Vehicle Kilometres;1133
+S12000041;Angus;2012;Traffic Congestion;9.1
+S12000041;Angus;2019;Roads Needing Repairs;33.2
+S12000041;Angus;2016;Roads Needing Repairs;31.2
+S12000041;Angus;2011;Vehicle Kilometres;1040
+S12000041;Angus;2020;Vehicle Kilometres;887
+S12000041;Angus;2019;Vehicle Kilometres;1145
+S12000041;Angus;2008;Roads Needing Repairs;26.6
+S12000041;Angus;2010;Vehicle Kilometres;1049
+S12000041;Angus;2023;Roads Needing Repairs;32
+S12000041;Angus;2016;Traffic Congestion;5.5
+S12000041;Angus;2022;Traffic Congestion;5
+S12000041;Angus;2017;Traffic Congestion;7.3
+S12000041;Angus;2005;Traffic Congestion;5.1
+S12000041;Angus;2018;Vehicle Kilometres;1148
+S12000041;Angus;2019;Traffic Congestion;9
+S12000041;Angus;2017;Vehicle Kilometres;1163
+S12000041;Angus;2006;Vehicle Kilometres;1043
+S12000041;Angus;2017;Roads Needing Repairs;31.8
+S12000042;Dundee City;2023;Vehicle Kilometres;853
+S12000042;Dundee City;2007;Traffic Congestion;19.9
+S12000042;Dundee City;2014;Roads Needing Repairs;49.3
+S12000042;Dundee City;2013;Vehicle Kilometres;817
+S12000042;Dundee City;2021;Traffic Congestion;14
+S12000042;Dundee City;2017;Vehicle Kilometres;839
+S12000042;Dundee City;2019;Traffic Congestion;13
+S12000042;Dundee City;2013;Roads Needing Repairs;49.3
+S12000042;Dundee City;2011;Vehicle Kilometres;829
+S12000042;Dundee City;2012;Vehicle Kilometres;831
+S12000042;Dundee City;2021;Vehicle Kilometres;783
+S12000042;Dundee City;2017;Traffic Congestion;11.2
+S12000042;Dundee City;2018;Roads Needing Repairs;26.5
+S12000042;Dundee City;2012;Roads Needing Repairs;27.7
+S12000042;Dundee City;2014;Vehicle Kilometres;819
+S12000042;Dundee City;2009;Traffic Congestion;11.76
+S12000042;Dundee City;2023;Traffic Congestion;18
+S12000042;Dundee City;2023;Roads Needing Repairs;28
+S12000042;Dundee City;2010;Vehicle Kilometres;833
+S12000042;Dundee City;2016;Traffic Congestion;12
+S12000042;Dundee City;2013;Traffic Congestion;11.8
+S12000042;Dundee City;2022;Traffic Congestion;16
+S12000042;Dundee City;2007;Vehicle Kilometres;897
+S12000042;Dundee City;2018;Traffic Congestion;12
+S12000042;Dundee City;2005;Traffic Congestion;9.3
+S12000042;Dundee City;2007;Roads Needing Repairs;25
+S12000042;Dundee City;2016;Vehicle Kilometres;836
+S12000042;Dundee City;2009;Vehicle Kilometres;875
+S12000042;Dundee City;2009;Roads Needing Repairs;25.6
+S12000042;Dundee City;2015;Roads Needing Repairs;27.2
+S12000042;Dundee City;2011;Roads Needing Repairs;25.8
+S12000042;Dundee City;2014;Traffic Congestion;15.4
+S12000042;Dundee City;2015;Vehicle Kilometres;817
+S12000042;Dundee City;2008;Roads Needing Repairs;23.2
+S12000042;Dundee City;2018;Vehicle Kilometres;850
+S12000042;Dundee City;2020;Vehicle Kilometres;691
+S12000042;Dundee City;2008;Vehicle Kilometres;893
+S12000042;Dundee City;2022;Vehicle Kilometres;841
+S12000042;Dundee City;2019;Vehicle Kilometres;854
+S12000042;Dundee City;2015;Traffic Congestion;12.9
+S12000042;Dundee City;2003;Traffic Congestion;8.8
+S12000042;Dundee City;2022;Roads Needing Repairs;28
+S12000042;Dundee City;2016;Roads Needing Repairs;26.7
+S12000042;Dundee City;2021;Roads Needing Repairs;26
+S12000042;Dundee City;2012;Traffic Congestion;11.8
+S12000042;Dundee City;2006;Roads Needing Repairs;45
+S12000042;Dundee City;2006;Vehicle Kilometres;877
+S12000042;Dundee City;2017;Roads Needing Repairs;25.4
+S12000042;Dundee City;2019;Roads Needing Repairs;26
+S12000042;Dundee City;2020;Roads Needing Repairs;23.7
+S12000045;East Dunbartonshire;2014;Traffic Congestion;10.7
+S12000045;East Dunbartonshire;2022;Vehicle Kilometres;554
+S12000045;East Dunbartonshire;2014;Vehicle Kilometres;529
+S12000045;East Dunbartonshire;2016;Traffic Congestion;14.3
+S12000045;East Dunbartonshire;2009;Traffic Congestion;12.32
+S12000045;East Dunbartonshire;2019;Roads Needing Repairs;33.3
+S12000045;East Dunbartonshire;2011;Roads Needing Repairs;43.3
+S12000045;East Dunbartonshire;2009;Roads Needing Repairs;44.1
+S12000045;East Dunbartonshire;2003;Traffic Congestion;16.7
+S12000045;East Dunbartonshire;2022;Roads Needing Repairs;31
+S12000045;East Dunbartonshire;2014;Roads Needing Repairs;41.7
+S12000045;East Dunbartonshire;2007;Roads Needing Repairs;49
+S12000045;East Dunbartonshire;2011;Vehicle Kilometres;519
+S12000045;East Dunbartonshire;2013;Vehicle Kilometres;511
+S12000045;East Dunbartonshire;2012;Vehicle Kilometres;516
+S12000045;East Dunbartonshire;2017;Vehicle Kilometres;566
+S12000045;East Dunbartonshire;2019;Vehicle Kilometres;573
+S12000045;East Dunbartonshire;2012;Traffic Congestion;9
+S12000045;East Dunbartonshire;2017;Traffic Congestion;15
+S12000045;East Dunbartonshire;2018;Traffic Congestion;15
+S12000045;East Dunbartonshire;2018;Roads Needing Repairs;34
+S12000045;East Dunbartonshire;2013;Roads Needing Repairs;41.7
+S12000045;East Dunbartonshire;2007;Vehicle Kilometres;545
+S12000045;East Dunbartonshire;2021;Traffic Congestion;15
+S12000045;East Dunbartonshire;2012;Roads Needing Repairs;43.6
+S12000045;East Dunbartonshire;2009;Vehicle Kilometres;536
+S12000045;East Dunbartonshire;2010;Vehicle Kilometres;521
+S12000045;East Dunbartonshire;2023;Roads Needing Repairs;33
+S12000045;East Dunbartonshire;2015;Vehicle Kilometres;532
+S12000045;East Dunbartonshire;2021;Roads Needing Repairs;33
+S12000045;East Dunbartonshire;2023;Traffic Congestion;15
+S12000045;East Dunbartonshire;2019;Traffic Congestion;15
+S12000045;East Dunbartonshire;2023;Vehicle Kilometres;562
+S12000045;East Dunbartonshire;2005;Traffic Congestion;11.6
+S12000045;East Dunbartonshire;2021;Vehicle Kilometres;521
+S12000045;East Dunbartonshire;2022;Traffic Congestion;15
+S12000045;East Dunbartonshire;2015;Roads Needing Repairs;39.2
+S12000045;East Dunbartonshire;2016;Roads Needing Repairs;37.4
+S12000045;East Dunbartonshire;2017;Roads Needing Repairs;35.2
+S12000045;East Dunbartonshire;2020;Roads Needing Repairs;33.4
+S12000045;East Dunbartonshire;2007;Traffic Congestion;17.3
+S12000045;East Dunbartonshire;2008;Vehicle Kilometres;537
+S12000045;East Dunbartonshire;2015;Traffic Congestion;14.9
+S12000045;East Dunbartonshire;2020;Vehicle Kilometres;467
+S12000045;East Dunbartonshire;2013;Traffic Congestion;13.2
+S12000045;East Dunbartonshire;2006;Roads Needing Repairs;44
+S12000045;East Dunbartonshire;2018;Vehicle Kilometres;571
+S12000045;East Dunbartonshire;2016;Vehicle Kilometres;545
+S12000045;East Dunbartonshire;2006;Vehicle Kilometres;534
+S12000045;East Dunbartonshire;2008;Roads Needing Repairs;44.4
+S12000047;Fife;2006;Vehicle Kilometres;2809
+S12000047;Fife;2007;Roads Needing Repairs;35
+S12000047;Fife;2022;Vehicle Kilometres;2969
+S12000047;Fife;2005;Traffic Congestion;11.3
+S12000047;Fife;2015;Traffic Congestion;8.2
+S12000047;Fife;2011;Vehicle Kilometres;2836
+S12000047;Fife;2017;Traffic Congestion;8.3
+S12000047;Fife;2017;Roads Needing Repairs;31.8
+S12000047;Fife;2009;Traffic Congestion;8.18
+S12000047;Fife;2006;Roads Needing Repairs;58
+S12000047;Fife;2020;Vehicle Kilometres;2409
+S12000047;Fife;2021;Roads Needing Repairs;33
+S12000047;Fife;2018;Traffic Congestion;9
+S12000047;Fife;2015;Roads Needing Repairs;32.6
+S12000047;Fife;2020;Roads Needing Repairs;32.5
+S12000047;Fife;2013;Roads Needing Repairs;33
+S12000047;Fife;2019;Roads Needing Repairs;32.4
+S12000047;Fife;2016;Roads Needing Repairs;32.6
+S12000047;Fife;2023;Traffic Congestion;16
+S12000047;Fife;2011;Roads Needing Repairs;36.3
+S12000047;Fife;2008;Roads Needing Repairs;32.8
+S12000047;Fife;2016;Vehicle Kilometres;3040
+S12000047;Fife;2014;Vehicle Kilometres;2923
+S12000047;Fife;2014;Traffic Congestion;9
+S12000047;Fife;2007;Traffic Congestion;10
+S12000047;Fife;2022;Traffic Congestion;9
+S12000047;Fife;2003;Traffic Congestion;9.5
+S12000047;Fife;2017;Vehicle Kilometres;3124
+S12000047;Fife;2008;Vehicle Kilometres;2844
+S12000047;Fife;2009;Roads Needing Repairs;40.6
+S12000047;Fife;2021;Vehicle Kilometres;2755
+S12000047;Fife;2013;Vehicle Kilometres;2839
+S12000047;Fife;2022;Roads Needing Repairs;32
+S12000047;Fife;2018;Roads Needing Repairs;31.9
+S12000047;Fife;2021;Traffic Congestion;8
+S12000047;Fife;2012;Roads Needing Repairs;34.1
+S12000047;Fife;2019;Traffic Congestion;9
+S12000047;Fife;2010;Vehicle Kilometres;2842
+S12000047;Fife;2014;Roads Needing Repairs;33
+S12000047;Fife;2023;Vehicle Kilometres;3036
+S12000047;Fife;2013;Traffic Congestion;8.8
+S12000047;Fife;2007;Vehicle Kilometres;2864
+S12000047;Fife;2016;Traffic Congestion;6.9
+S12000047;Fife;2019;Vehicle Kilometres;3119
+S12000047;Fife;2012;Vehicle Kilometres;2819
+S12000047;Fife;2015;Vehicle Kilometres;2945
+S12000047;Fife;2023;Roads Needing Repairs;32
+S12000047;Fife;2009;Vehicle Kilometres;2849
+S12000047;Fife;2012;Traffic Congestion;9.3
+S12000047;Fife;2018;Vehicle Kilometres;3085
+S12000048;Perth and Kinross;2009;Roads Needing Repairs;32.5
+S12000048;Perth and Kinross;2022;Traffic Congestion;7
+S12000048;Perth and Kinross;2023;Vehicle Kilometres;2515
+S12000048;Perth and Kinross;2023;Roads Needing Repairs;33
+S12000048;Perth and Kinross;2009;Traffic Congestion;12.46
+S12000048;Perth and Kinross;2008;Vehicle Kilometres;2270
+S12000048;Perth and Kinross;2009;Vehicle Kilometres;2260
+S12000048;Perth and Kinross;2008;Roads Needing Repairs;32.1
+S12000048;Perth and Kinross;2018;Traffic Congestion;10
+S12000048;Perth and Kinross;2017;Roads Needing Repairs;37.2
+S12000048;Perth and Kinross;2018;Roads Needing Repairs;35.9
+S12000048;Perth and Kinross;2012;Vehicle Kilometres;2224
+S12000048;Perth and Kinross;2012;Traffic Congestion;9.5
+S12000048;Perth and Kinross;2017;Traffic Congestion;7.2
+S12000048;Perth and Kinross;2012;Roads Needing Repairs;35.3
+S12000048;Perth and Kinross;2018;Vehicle Kilometres;2622
+S12000048;Perth and Kinross;2006;Roads Needing Repairs;46
+S12000048;Perth and Kinross;2019;Roads Needing Repairs;37
+S12000048;Perth and Kinross;2007;Roads Needing Repairs;36
+S12000048;Perth and Kinross;2011;Roads Needing Repairs;34.3
+S12000048;Perth and Kinross;2006;Vehicle Kilometres;2309
+S12000048;Perth and Kinross;2011;Vehicle Kilometres;2252
+S12000048;Perth and Kinross;2013;Roads Needing Repairs;35.4
+S12000048;Perth and Kinross;2013;Vehicle Kilometres;2257
+S12000048;Perth and Kinross;2015;Traffic Congestion;7.8
+S12000048;Perth and Kinross;2013;Traffic Congestion;10
+S12000048;Perth and Kinross;2014;Vehicle Kilometres;2337
+S12000048;Perth and Kinross;2014;Traffic Congestion;6.8
+S12000048;Perth and Kinross;2014;Roads Needing Repairs;35.4
+S12000048;Perth and Kinross;2016;Roads Needing Repairs;37.2
+S12000048;Perth and Kinross;2023;Traffic Congestion;7
+S12000048;Perth and Kinross;2017;Vehicle Kilometres;2647
+S12000048;Perth and Kinross;2016;Traffic Congestion;9.5
+S12000048;Perth and Kinross;2015;Roads Needing Repairs;34.3
+S12000048;Perth and Kinross;2015;Vehicle Kilometres;2380
+S12000048;Perth and Kinross;2016;Vehicle Kilometres;2501
+S12000048;Perth and Kinross;2010;Vehicle Kilometres;2237
+S12000048;Perth and Kinross;2021;Roads Needing Repairs;31
+S12000048;Perth and Kinross;2020;Roads Needing Repairs;34.9
+S12000048;Perth and Kinross;2003;Traffic Congestion;7.6
+S12000048;Perth and Kinross;2005;Traffic Congestion;6.5
+S12000048;Perth and Kinross;2007;Traffic Congestion;9.1
+S12000048;Perth and Kinross;2019;Traffic Congestion;8
+S12000048;Perth and Kinross;2022;Roads Needing Repairs;31
+S12000048;Perth and Kinross;2021;Traffic Congestion;4
+S12000048;Perth and Kinross;2019;Vehicle Kilometres;2591
+S12000048;Perth and Kinross;2022;Vehicle Kilometres;2463
+S12000048;Perth and Kinross;2021;Vehicle Kilometres;2163
+S12000048;Perth and Kinross;2020;Vehicle Kilometres;1952
+S12000048;Perth and Kinross;2007;Vehicle Kilometres;2319
+S12000049;Glasgow City;2015;Vehicle Kilometres;3498
+S12000049;Glasgow City;2023;Traffic Congestion;8
+S12000049;Glasgow City;2021;Vehicle Kilometres;3240
+S12000049;Glasgow City;2016;Traffic Congestion;15.8
+S12000049;Glasgow City;2016;Vehicle Kilometres;3583
+S12000049;Glasgow City;2006;Vehicle Kilometres;3334
+S12000049;Glasgow City;2021;Roads Needing Repairs;28
+S12000049;Glasgow City;2013;Roads Needing Repairs;33
+S12000049;Glasgow City;2016;Roads Needing Repairs;30.8
+S12000049;Glasgow City;2022;Vehicle Kilometres;3500
+S12000049;Glasgow City;2014;Roads Needing Repairs;33
+S12000049;Glasgow City;2008;Vehicle Kilometres;3407
+S12000049;Glasgow City;2022;Roads Needing Repairs;28
+S12000049;Glasgow City;2014;Vehicle Kilometres;3526
+S12000049;Glasgow City;2007;Vehicle Kilometres;3381
+S12000049;Glasgow City;2014;Traffic Congestion;9
+S12000049;Glasgow City;2015;Roads Needing Repairs;32.1
+S12000049;Glasgow City;2021;Traffic Congestion;15
+S12000049;Glasgow City;2023;Vehicle Kilometres;3571
+S12000049;Glasgow City;2015;Traffic Congestion;12.8
+S12000049;Glasgow City;2007;Traffic Congestion;19.9
+S12000049;Glasgow City;2013;Vehicle Kilometres;3496
+S12000049;Glasgow City;2013;Traffic Congestion;9.2
+S12000049;Glasgow City;2008;Roads Needing Repairs;25.5
+S12000049;Glasgow City;2018;Roads Needing Repairs;29.3
+S12000049;Glasgow City;2010;Vehicle Kilometres;3291
+S12000049;Glasgow City;2019;Traffic Congestion;15
+S12000049;Glasgow City;2009;Vehicle Kilometres;3369
+S12000049;Glasgow City;2018;Traffic Congestion;15
+S12000049;Glasgow City;2003;Traffic Congestion;13.2
+S12000049;Glasgow City;2022;Traffic Congestion;15
+S12000049;Glasgow City;2006;Roads Needing Repairs;60
+S12000049;Glasgow City;2019;Vehicle Kilometres;3645
+S12000049;Glasgow City;2019;Roads Needing Repairs;28.9
+S12000049;Glasgow City;2011;Roads Needing Repairs;30.9
+S12000049;Glasgow City;2018;Vehicle Kilometres;3586
+S12000049;Glasgow City;2011;Vehicle Kilometres;3301
+S12000049;Glasgow City;2017;Traffic Congestion;14.3
+S12000049;Glasgow City;2017;Vehicle Kilometres;3597
+S12000049;Glasgow City;2009;Roads Needing Repairs;29.7
+S12000049;Glasgow City;2012;Traffic Congestion;8.8
+S12000049;Glasgow City;2020;Roads Needing Repairs;29.5
+S12000049;Glasgow City;2005;Traffic Congestion;18.1
+S12000049;Glasgow City;2012;Vehicle Kilometres;3450
+S12000049;Glasgow City;2020;Vehicle Kilometres;2832
+S12000049;Glasgow City;2009;Traffic Congestion;14.07
+S12000049;Glasgow City;2023;Roads Needing Repairs;30
+S12000049;Glasgow City;2017;Roads Needing Repairs;30.6
+S12000049;Glasgow City;2007;Roads Needing Repairs;25
+S12000049;Glasgow City;2012;Roads Needing Repairs;32.4
+S12000050;North Lanarkshire;2008;Roads Needing Repairs;32.6
+S12000050;North Lanarkshire;2008;Vehicle Kilometres;2986
+S12000050;North Lanarkshire;2003;Traffic Congestion;12.2
+S12000050;North Lanarkshire;2023;Traffic Congestion;14
+S12000050;North Lanarkshire;2006;Vehicle Kilometres;2910
+S12000050;North Lanarkshire;2012;Traffic Congestion;13.2
+S12000050;North Lanarkshire;2017;Vehicle Kilometres;3255
+S12000050;North Lanarkshire;2016;Roads Needing Repairs;31.8
+S12000050;North Lanarkshire;2016;Traffic Congestion;16.3
+S12000050;North Lanarkshire;2016;Vehicle Kilometres;3117
+S12000050;North Lanarkshire;2017;Roads Needing Repairs;32.8
+S12000050;North Lanarkshire;2006;Roads Needing Repairs;48
+S12000050;North Lanarkshire;2018;Traffic Congestion;16
+S12000050;North Lanarkshire;2017;Traffic Congestion;16.5
+S12000050;North Lanarkshire;2012;Vehicle Kilometres;3210
+S12000050;North Lanarkshire;2012;Roads Needing Repairs;32
+S12000050;North Lanarkshire;2015;Vehicle Kilometres;3051
+S12000050;North Lanarkshire;2007;Vehicle Kilometres;2974
+S12000050;North Lanarkshire;2015;Roads Needing Repairs;33.3
+S12000050;North Lanarkshire;2014;Roads Needing Repairs;31.8
+S12000050;North Lanarkshire;2014;Traffic Congestion;9.7
+S12000050;North Lanarkshire;2014;Vehicle Kilometres;3099
+S12000050;North Lanarkshire;2013;Roads Needing Repairs;31.8
+S12000050;North Lanarkshire;2013;Traffic Congestion;10.3
+S12000050;North Lanarkshire;2013;Vehicle Kilometres;3195
+S12000050;North Lanarkshire;2007;Traffic Congestion;16.7
+S12000050;North Lanarkshire;2015;Traffic Congestion;17.1
+S12000050;North Lanarkshire;2021;Vehicle Kilometres;3007
+S12000050;North Lanarkshire;2009;Vehicle Kilometres;2952
+S12000050;North Lanarkshire;2009;Traffic Congestion;14.45
+S12000050;North Lanarkshire;2020;Roads Needing Repairs;31.8
+S12000050;North Lanarkshire;2009;Roads Needing Repairs;32.4
+S12000050;North Lanarkshire;2021;Roads Needing Repairs;29
+S12000050;North Lanarkshire;2023;Roads Needing Repairs;32
+S12000050;North Lanarkshire;2022;Traffic Congestion;13
+S12000050;North Lanarkshire;2023;Vehicle Kilometres;3384
+S12000050;North Lanarkshire;2022;Roads Needing Repairs;32
+S12000050;North Lanarkshire;2021;Traffic Congestion;12
+S12000050;North Lanarkshire;2022;Vehicle Kilometres;3281
+S12000050;North Lanarkshire;2011;Roads Needing Repairs;31.8
+S12000050;North Lanarkshire;2019;Roads Needing Repairs;30.7
+S12000050;North Lanarkshire;2019;Vehicle Kilometres;3338
+S12000050;North Lanarkshire;2018;Roads Needing Repairs;30.5
+S12000050;North Lanarkshire;2011;Vehicle Kilometres;2919
+S12000050;North Lanarkshire;2018;Vehicle Kilometres;3349
+S12000050;North Lanarkshire;2005;Traffic Congestion;13.8
+S12000050;North Lanarkshire;2010;Vehicle Kilometres;2960
+S12000050;North Lanarkshire;2020;Vehicle Kilometres;2625
+S12000050;North Lanarkshire;2007;Roads Needing Repairs;34
+S12000050;North Lanarkshire;2019;Traffic Congestion;15
