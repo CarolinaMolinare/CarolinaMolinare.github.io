@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project | Carolina Molinare</title>
+    
+    <!-- Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    
+    <style>
+        :root{
+          --text:#1f2937;
+          --muted:#6b7280;
+          --bg:#ffffff;
+          --link:#047857;
+          --accent:#10b981;
+          --green-light: #ecfdf5;
+          --green-dark: #064e3b;
+        }
+        * { box-sizing:border-box; }
+        
+        body {
+          font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          font-size: 16px;
+          line-height: 1.8;
+          color: var(--text);
+          background: var(--bg);
+          margin: 0;
+          padding: 0;
+        }
+        
+        /* Navigation */
+        nav {
+          background: white;
+          border-bottom: 2px solid #e5e7eb;
+          padding: 20px 0;
+          position: sticky;
+          top: 0;
+          z-index: 100;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        nav .container {
+          max-width: 860px;
+          margin: 0 auto;
+          padding: 0 20px;
+          display: flex;
+          gap: 30px;
+          align-items: center;
+        }
+        
+        nav a {
+          color: var(--text);
+          text-decoration: none;
+          font-weight: 600;
+          padding: 8px 16px;
+          border-radius: 8px;
+          transition: all 0.3s ease;
+        }
+        
+        nav a:hover {
+          background: var(--green-light);
+          color: var(--link);
+        }
+        
+        /* Main content */
+        .container {
+          max-width: 860px;
+          margin: 0 auto;
+          padding: 40px 20px 80px;
+        }
+        
+        h1, h2, h3, h4 {
+          font-weight: 700;
+          letter-spacing: -0.02em;
+        }
+        
+        .big { 
+          font-size: 2.6em; 
+          line-height: 1.15;
+          margin-bottom: 8px;
+          background: linear-gradient(120deg, #10b981, #047857, #059669);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+        }
+        
+        .small { 
+          font-size: 1.15em; 
+          color: var(--muted);
+          margin-top: 0;
+          margin-bottom: 30px;
+        }
+        
+        h2 { 
+          font-size: 1.8em;
+          margin-top: 50px;
+          padding-bottom: 12px;
+          border-bottom: 3px solid var(--link);
+          color: var(--link);
+          position: relative;
+        }
+        
+        h2::before {
+          content: '';
+          position: absolute;
+          bottom: -3px;
+          left: 0;
+          width: 80px;
+          height: 3px;
+          background: var(--accent);
+        }
+        
+        h3 {
+          font-size: 1.4em;
+          color: var(--text);
+          margin-top: 30px;
+        }
+        
+        h4 {
+          font-size: 1.2em;
+          color: var(--link);
+          margin-top: 25px;
+        }
+        
+        p {
+          margin: 0 0 1.2em;
+          font-weight: 400;
+          color: var(--text);
+        }
+        
+        /* Project sections */
+        .project-section {
+          margin-bottom: 50px;
+        }
+        
+        /* Links */
+        a {
+          color: var(--link);
+          text-decoration: underline;
+          text-underline-offset: 3px;
+          text-decoration-thickness: 1px;
+          transition: opacity 0.2s;
+        }
+        
+        a:hover {
+          opacity: 0.85;
+        }
+        
+        .links {
+          display: flex;
+          gap: 12px;
+          margin: 20px 0;
+          flex-wrap: wrap;
+        }
+        
+        .links a {
+          background: white;
+          color: var(--text);
+          padding: 10px 18px;
+          border-radius: 8px;
+          text-decoration: none;
+          font-size: 0.9em;
+          font-weight: 600;
+          border: 2px solid #e5e7eb;
+          transition: all 0.3s ease;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        
+        .links a:nth-child(1) { border-color: #10b981; }
+        .links a:nth-child(2) { border-color: #3b82f6; }
+        .links a:nth-child(3) { border-color: #6b7280; }
+        .links a:nth-child(4) { border-color: #f59e0b; }
+        
+        .links a:hover {
+          transform: translateY(-3px);
+          box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+        }
+        
+        .links a:nth-child(1):hover { background: #10b981; color: white; }
+        .links a:nth-child(2):hover { background: #3b82f6; color: white; }
+        .links a:nth-child(3):hover { background: #6b7280; color: white; }
+        .links a:nth-child(4):hover { background: #f59e0b; color: white; }
+        
+        /* Chart containers */
+        figure {
+          margin: 30px 0;
+        }
+        
+        /* Metrics/Stats box */
+        .metrics {
+          background: white;
+          padding: 20px;
+          border-radius: 10px;
+          border-left: 4px solid var(--link);
+          margin: 20px 0;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .metrics strong {
+          color: var(--link);
+          font-size: 1.1em;
+        }
+        
+        /* Key findings list */
+        ul {
+          list-style: none;
+          padding-left: 0;
+        }
+        
+        ul li {
+          padding-left: 30px;
+          position: relative;
+          margin-bottom: 12px;
+        }
+        
+        ul li::before {
+          content: '✓';
+          position: absolute;
+          left: 0;
+          color: var(--accent);
+          font-weight: bold;
+          font-size: 1.2em;
+        }
+        
+        /* Intro box */
+        .intro-box {
+          background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+          padding: 30px;
+          border-radius: 12px;
+          margin-bottom: 40px;
+          border: 2px solid #a7f3d0;
+        }
+        
+        /* Footer */
+        footer {
+          background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+          border-top: 2px solid #a7f3d0;
+          padding: 40px 0;
+          margin-top: 60px;
+          text-align: center;
+          color: var(--muted);
+        }
+        
+        footer a {
+          color: var(--link);
+          margin: 0 12px;
+          font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <a href="index.html">Home</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="project.html">Project</a>
+            <a href="https://github.com/CarolinaMolinare" target="_blank">GitHub</a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Project Title -->
+        <h1 class="big">Project</h1>
+        <h3 class="small">Analysis of Fertility Rates in Chile</h3>
+        
+        <!-- Introduction Section -->
+        <div class="intro-box">
+            <h3 style="margin-top: 0;">Research Question</h3>
+            <p>
+                <!-- Add your research question here -->
+                How does [policy/intervention] affect fertility rates in Chile across different age groups and regions?
+            </p>
+        </div>
+
+        <!-- Motivation Section -->
+        <div class="project-section">
+            <h2>Motivation</h2>
+            <p>
+                <!-- Explain why this topic is important -->
+                Chile faces an unprecedented demographic crisis. With a fertility rate of 1.16 births per woman in 2023—and preliminary data suggesting a further drop to 1.03 in 2024—Chile has fallen far below the replacement level of 2.1 children per woman needed to maintain population stability. <br>
+                As shown in the first chart, Chile's fertility rate has declined dramatically since 2000, diverging sharply from the OECD average and accelerating its descent in recent years. <br>
+                The second chart reveals a striking paradox: while Chile's GDP per capita has grown steadily from approximately $18,000 in 2000 to over $30,000 in 2024 (constant 2021 PPP dollars), it remains significantly below the OECD average of approximately $52,000. <br>
+                Chile exhibits fertility rates characteristic of wealthy, post-industrial economies—comparable to South Korea (0.72) and Japan (1.2)— yet without having achieved their levels of economic development. <br>
+                The third chart underscores this severity: among 38 OECD countries, Chile sits in the bottom tier alongside South Korea, Spain (1.12), and Italy (1.2). <br>
+                The country has adopted the demographic patterns of developed nations while still being a developing economy, creating a unique policy challenge where ultra-low fertility threatens long-term growth prospects before Chile has completed its economic convergence.<br>
+                This demographic transformation poses structural challenges across multiple dimensions: it strains the sustainability of the social security system, reduces the future contributor base, affects labor force availability, and demands a profound revision of public policies oriented toward collective well-being.
+            </p>
+        </div>
+
+        <!-- Data Section -->
+        <div class="project-section">
+            <h2>Data</h2>
+            <p>
+                <!-- Describe your data sources -->
+                This project uses data from [Source], covering the period from [Year] to [Year]...
+            </p>
+            
+            <div class="links">
+                <a href="#">📊 Data Source</a>
+                <a href="#">💻 Colab Notebook</a>
+                <a href="#">📁 GitHub Repository</a>
+            </div>
+        </div>
+
+        <!-- Methodology Section -->
+        <div class="project-section">
+            <h2>Methodology</h2>
+            <h4>Analytical Approach</h4>
+            <p>
+                <!-- Explain your methods: DID, RDD, etc. -->
+                I employ a [method name] approach to analyze...
+            </p>
+            
+            <h4>Key Variables</h4>
+            <ul>
+                <li>Dependent variable: [Variable name and description]</li>
+                <li>Treatment variable: [Variable name and description]</li>
+                <li>Control variables: [List controls]</li>
+            </ul>
+        </div>
+
+        <!-- Visualizations Section -->
+        <div class="project-section">
+            <h2>Visualizations</h2>
+            
+            <!-- Visualization 1 -->
+            <h3>Chart 1: [Title]</h3>
+            <p>[Description of what this chart shows]</p>
+            <figure id="chart1"></figure>
+            <div class="links">
+                <a href="#">📊 Interactive Chart</a>
+                <a href="#">💻 Code</a>
+                <a href="#">📁 Data</a>
+            </div>
+            
+            <!-- Visualization 2 -->
+            <h3>Chart 2: [Title]</h3>
+            <p>[Description of what this chart shows]</p>
+            <figure id="chart2"></figure>
+            <div class="links">
+                <a href="#">📊 Interactive Chart</a>
+                <a href="#">💻 Code</a>
+                <a href="#">📁 Data</a>
+            </div>
+            
+            <!-- Visualization 3 -->
+            <h3>Chart 3: [Title]</h3>
+            <p>[Description of what this chart shows]</p>
+            <figure id="chart3"></figure>
+            <div class="links">
+                <a href="#">📊 Interactive Chart</a>
+                <a href="#">💻 Code</a>
+                <a href="#">📁 Data</a>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div class="project-section">
+            <h2>Key Findings</h2>
+            
+            <div class="metrics">
+                <p><strong>Main Results:</strong></p>
+                <p>[Summary of your main statistical findings]</p>
+            </div>
+            
+            <ul>
+                <li>[Key finding 1]</li>
+                <li>[Key finding 2]</li>
+                <li>[Key finding 3]</li>
+                <li>[Key finding 4]</li>
+            </ul>
+        </div>
+
+        <!-- Challenges Section -->
+        <div class="project-section">
+            <h2>Challenges & Solutions</h2>
+            
+            <h4>Data Limitations</h4>
+            <p>[Describe data challenges and how you addressed them]</p>
+            
+            <h4>Methodological Considerations</h4>
+            <p>[Discuss any methodological challenges]</p>
+            
+            <h4>Technical Implementation</h4>
+            <p>[Explain technical solutions you developed]</p>
+        </div>
+
+        <!-- Conclusions Section -->
+        <div class="project-section">
+            <h2>Conclusions</h2>
+            <p>
+                [Summarize your main conclusions and policy implications]
+            </p>
+            
+            <h4>Policy Implications</h4>
+            <p>[Discuss what your findings mean for policy]</p>
+            
+            <h4>Future Research</h4>
+            <p>[Suggest directions for future work]</p>
+        </div>
+
+        <!-- References Section -->
+        <div class="project-section">
+            <h2>References & Resources</h2>
+            <p><strong>Data Sources:</strong></p>
+            <ul style="list-style: disc; padding-left: 30px;">
+                <li>[Data source 1]</li>
+                <li>[Data source 2]</li>
+            </ul>
+            
+            <p><strong>Code & Documentation:</strong></p>
+            <div class="links">
+                <a href="#">📊 All Visualizations</a>
+                <a href="#">💻 GitHub Repository</a>
+                <a href="#">🔬 Colab Notebooks</a>
+                <a href="#">📄 Final Report (PDF)</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p style="font-size: 1.1em; font-weight: 600; color: var(--text); margin-bottom: 10px;">© 2025 Carolina Molinare | LSE Data Science Student</p>
+        <p>
+            <a href="https://github.com/CarolinaMolinare" target="_blank">GitHub</a> |
+            <a href="https://www.linkedin.com/in/carolina-molinare" target="_blank">LinkedIn</a>
+        </p>
+    </footer>
+
+    <!-- Vega-Lite Chart Embedding -->
+    <script>
+        // Add your chart specs here
+        // Example:
+        vegaEmbed('#chart1', 'Part1/WB_chart_1_spec.json');
+        vegaEmbed('#chart2', 'Part1/WB_chart_2_spec.json');
+        vegaEmbed('#chart3', 'Part1/Graph4.json');
+    </script>
+</body>
+</html>

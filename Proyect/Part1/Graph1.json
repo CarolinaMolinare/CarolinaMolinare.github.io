@@ -1,0 +1,156 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "config": {
+    "view": { "stroke": "transparent" },
+    "title": { "fontSize": 18, "subtitleFontSize": 14 },
+    "legend": {
+    "titleFontSize": 14,
+    "labelFontSize": 12,
+    "titleLimit": 260,
+    "labelLimit": 260
+  },
+    "concat": { "spacing": 12 }
+  },
+  "vconcat": [
+    {
+      "data": {
+        "url": "https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic;cl/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023",
+        "format": { "property": "[1]" }
+      },
+      "width": 700,
+      "height": 400,
+      "title": {
+        "text": "Fertility Rate",
+        "subtitle": "By country income classification group (1960-2023)",
+        "anchor": "start"
+      },
+      "transform": [{ "filter": "datum.value" }],
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": null,
+          "axis": { "grid": false }
+        }
+      },
+      "layer": [
+        {
+          "transform": [{ "filter": "datum.country.value !== 'Chile'" }],
+          "mark": { "type": "line", "strokeWidth": 2 },
+          "encoding": {
+            "y": {
+              "field": "value",
+              "type": "quantitative",
+              "title": "Births per woman",
+              "scale": { "domain": [0, 8] },
+              "axis": { "grid": false }
+            },
+            "color": {
+              "field": "country.value",
+              "type": "nominal",
+              "legend": { "title": "Income Group" },
+              "scale": {
+                "domain": [
+                  "Low income",
+                  "Lower middle income",
+                  "Middle income",
+                  "Upper middle income",
+                  "High income"
+                ],
+                "range": ["#a8e6cf", "#7bc96f", "#4caf50", "#388e3c", "#1b5e20"]
+              }
+            }
+          }
+        },
+        {
+          "transform": [{ "filter": "datum.country.value === 'Chile'" }],
+          "mark": { "type": "line", "strokeWidth": 2, "color":"#74B9FF" },
+          "encoding": {
+            "y": { "field": "value", "type": "quantitative" }
+          }
+        },
+        {
+          "transform": [
+            { "filter": "datum.country.value === 'Chile'" },
+            {
+              "window": [{ "op": "row_number", "as": "row_number" }],
+              "sort": [{ "field": "date", "order": "descending" }]
+            },
+            { "filter": "datum.row_number === 1" }
+          ],
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 5,
+            "fontSize": 11,
+            "color": "#74B9FF",
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "y": { "field": "value", "type": "quantitative" },
+            "text": { "value": "Chile" }
+          }
+        },
+        {
+          "transform": [
+            { "pivot": "country.value", "value": "value", "groupby": ["date"] }
+          ],
+          "mark": { "type": "point", "opacity": 0 },
+          "encoding": {
+            "tooltip": [
+              { "field": "date", "type": "temporal", "title": "Year", "timeUnit": "year" },
+              { "field": "Chile", "type": "quantitative", "title": "Chile", "format": ".1f" },
+              { "field": "Low income", "type": "quantitative", "title": "Low income", "format": ".1f" },
+              { "field": "Lower middle income", "type": "quantitative", "title": "Lower middle income", "format": ".1f" },
+              { "field": "Middle income", "type": "quantitative", "title": "Middle income", "format": ".1f" },
+              { "field": "Upper middle income", "type": "quantitative", "title": "Upper middle income", "format": ".1f" },
+              { "field": "High income", "type": "quantitative", "title": "High income", "format": ".1f" }
+            ]
+          },
+          "params": [
+            {
+              "name": "hover",
+              "select": {
+                "type": "point",
+                "fields": ["date"],
+                "nearest": true,
+                "on": "pointerover",
+                "clear": "pointerout"
+              }
+            }
+          ]
+        },
+        {
+          "transform": [
+            { "pivot": "country.value", "value": "value", "groupby": ["date"] },
+            { "filter": { "param": "hover", "empty": false } }
+          ],
+          "mark": { "type": "rule", "color": "gray", "strokeWidth": 1 }
+        }
+      ]
+    },
+    {
+      "width": 700,
+      "height": 18,
+      "data": {
+        "values": [
+          { "source": "Source: World Bank Indicators (WDI)" }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "top",
+        "fontSize": 12,
+        "color": "gray",
+        "fontWeight": "normal"
+      },
+      "encoding": {
+        "text": { "field": "source" },
+        "x": { "value": 0 },
+        "y": { "value": 0 }
+      },
+      "view": { "stroke": "transparent" }
+    }
+  ]
+}
