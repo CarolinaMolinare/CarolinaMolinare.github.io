@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio | Carolina Molinare</title>
+
+  <link rel="stylesheet" href="Format.css" />
+
+  <!-- Vega-Lite -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body class="portfolio">
+  <nav>
+    <div class="container">
+      <a href="index.html">Home</a>
+      <a href="Portfolio.html">Portfolio</a>
+      <a href="Project.html">Project</a>
+      <a href="https://github.com/CarolinaMolinare" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <h1 class="big" style="margin-bottom: 0px;">My Portfolio</h1>
+    <p style="margin-top: 0px;">
+      Carolina Molinare |
+      <a href="https://www.linkedin.com/in/carolina-molinare" target="_blank" rel="noopener">LinkedIn</a> |
+      <a href="https://github.com/CarolinaMolinare" target="_blank" rel="noopener">GitHub</a>
+    </p>
+
+    <h3 class="small">
+      Hello! This is my portfolio for the Automated Data Visualization for Policymaking course.<br>
+      Instructor: Richard Davis
+    </h3>
+
+    <!-- Section 1 -->
+    <section>
+      <h2>Section 1: Adding two charts using the vegaEmbed function</h2>
+      <p>I select two graphs from <a href="https://www.richarddavies.io/library" target="_blank" rel="noopener">https://www.richarddavies.io/library</a></p>
+      <figure id="Location1"></figure>
+      <figure id="Location2"></figure>
+    </section>
+
+    <!-- Section 2 -->
+    <section>
+      <h2>Section 2: Creating my own visualisations</h2>
+      <p>I create two graphs from <a href="https://www.economicsobservatory.com/explore" target="_blank" rel="noopener">Economics Observatory Data Hub</a></p>
+      <figure id="Location3"></figure>
+      <figure id="Location4" style="width: 90%; min-height: 400px;"></figure>
+    </section>
+
+    <!-- Section 3 -->
+    <section>
+      <h2>Section 3: Using a visualisation in policy commentary</h2>
+      <p>
+        Some political sectors advocate for health policies that increase public funding for assisted reproduction.
+        This is because the fertility rate is very low in Chile (1.16 children per woman), largely below the OECD average (1.49 children per woman).
+        Also, women between 30 and 39 represent almost 50% births in the country.
+        We can see a trend where the decision to become a mother occurs at older ages when pregnancy is riskier.
+      </p>
+      <figure id="Location5"></figure>
+      <figure id="Location6"></figure>
+    </section>
+
+    <!-- Section 4 -->
+    <section>
+      <h2>Section 4: Re-creating someone else's chart</h2>
+      <p>
+        This is the graph that Chilean ex-president Sebastian Piñera shows during an official debate for the presidency about delinquency in Chile.
+        He used it to argue that, under his previous administration (2010-2013), the crime rate was lower than in other presidential terms.
+        However, the figure is a clear example of misleading data visualization: it manipulates the scale to exaggerate differences and make a modest variation appear disproportionately large.
+        The second graph shows how the same data should be displayed with an appropriate scale—an approach that would have been far less supportive of Piñera's narrative.
+        He ultimately won that election.
+      </p>
+
+      <div id="Location7">
+        <img src="PortafolioTask/badgraph.png" alt="Misleading graph">
+      </div>
+
+      <figure id="Location8"></figure>
+      <figure id="Location9"></figure>
+
+      <p>
+        The first key change is to show a fully comparable series and clarify that the indicator measures victimization (not delinquency).
+        Importantly, the victimization methodology was updated in 2016, which means the 2010 figure shown by Piñera comes from the old methodology and should not be plotted or compared as if it were equivalent.
+        Using the consistent post-2016 series, the victimization rate varies only modestly over the period.
+      </p>
+    </section>
+
+    <!-- Section 5 -->
+    <section>
+      <h2>Section 5: Accessing data</h2>
+      <p><strong>API</strong></p>
+
+      <figure id="Location10"></figure>
+
+      <p>
+        World Bank Indicators API (V2) follows this structure: https://api.worldbank.org/v2/country/{countries}/indicator/{indicator}?{parameters}<br><br>
+        Where:<br>
+        - Countries: lic (Low income countries); lmc (Lower middle income countries); mic (Middle income countries); umc (Upper middle income countries); hic (High income countries)<br>
+        - Indicator: SP.DYN.TFRT.IN (Fertility rate, total (births per woman))<br>
+        - Parameters: format=json (Returns data in JSON format); per_page=1000; date=1960:2023<br><br>
+        API:
+        <a href="https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023"
+           target="_blank" rel="noopener">
+          https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023
+        </a>
+      </p>
+
+      <p>
+        Scraped Chilean Central Bank unemployment data using pd.read_html with decimal=',' for Spanish format. Transformed wide-format table to tidy long-format using melt and date parsing.
+        <a href="https://colab.research.google.com/drive/1WkR3GgM0iRYRq6zIQ66OQSYdlegeMU7b?usp=sharing" target="_blank" rel="noopener">Google Colab</a>
+      </p>
+
+      <figure id="Location11"></figure>
+    </section>
+
+    <!-- Section 6 -->
+    <section>
+      <h2>Section 6: Loops</h2>
+      <p>
+        Using a loop to batch download six different series as JSON files from the World Bank API.<br>
+        Charts compare Chile against OECD average across key development indicators (2000-2023).
+        <a href="https://colab.research.google.com/drive/1PCiZ7otBmgSt4NjAd1yx4JnB9S-cI7M8?usp=sharing" target="_blank" rel="noopener">Google Colab</a><br>
+        Six different charts are created and individually arranged in the 3x2 grid
+      </p>
+
+      <div class="chart-grid">
+        <figure id="Locationchart1"></figure>
+        <figure id="Locationchart2"></figure>
+        <figure id="Locationchart3"></figure>
+        <figure id="Locationchart4"></figure>
+        <figure id="Locationchart5"></figure>
+        <figure id="Locationchart6"></figure>
+      </div>
+    </section>
+
+    <!-- Section 7 -->
+    <section>
+      <h2>Section 7: Maps</h2>
+      <p>
+        The first map is from Scotland's official statistics provide by the Scottish Government
+        <a href="https://statistics.gov.scot/home" target="_blank" rel="noopener">https://statistics.gov.scot/home</a>
+      </p>
+      <figure id="LocationMap1"></figure>
+
+      <p>
+        The second map is from Wales's Government Data Map which provide the location of Maintained schools.<br>
+        The location is given in coordinates according to the British National Grid. Therefore, these coordinates must first be converted to latitude and longitude in order to map the database.
+        <a href="https://datamap.gov.wales/layers/geonode:maintained_schools_wg" target="_blank" rel="noopener">https://datamap.gov.wales/layers/geonode:maintained_schools_wg</a>
+      </p>
+      <figure id="LocationMap2"></figure>
+    </section>
+
+    <!-- Section 8 -->
+    <section>
+      <h2>Section 8: Extracting a story from millions of prices</h2>
+      <p>
+        In this section we analyze the price evolution of the components of a typical English breakfast.<br>
+        Chart 1 tracks the average prices of seven English breakfast items from 1995 to 2025, using LRPD data, and reveals significant inflation, particularly after 2022, in products such as bacon and sausage.<br>
+        Chart 2 compares average London English breakfast item prices across 2015, 2020, and 2025, showing that the price increase was higher between 2025 and 2020 than between 2020 and 2015 for most products.
+      </p>
+      <figure id="Location12"></figure>
+      <figure id="Location13"></figure>
+    </section>
+
+    <!-- Section 9 -->
+    <section>
+      <h2>Section 9: Interactive charts</h2>
+      <figure id="Location14"></figure>
+      <figure id="Location15"></figure>
+    </section>
+
+    <!-- Section 10 -->
+    <section>
+      <h2>Section 10: Advanced Analysis and Machine Learning</h2>
+      <figure id="Location16"></figure>
+      <figure id="Location17"></figure>
+    </section>
+  </div>
+
+  <footer>
+    <p style="font-size: 1.1em; font-weight: 600; color: var(--text); margin-bottom: 10px;">
+      © 2025 Carolina Molinare | LSE Data Science Student
+    </p>
+    <p>
+      <a href="https://github.com/CarolinaMolinare" target="_blank" rel="noopener">GitHub</a> |
+      <a href="https://www.linkedin.com/in/carolina-molinare" target="_blank" rel="noopener">LinkedIn</a>
+    </p>
+  </footer>
+
+  <script>
+    vegaEmbed('#Location1',"PortafolioTask/Graph1.json");
+    vegaEmbed('#Location2',"PortafolioTask/Graph2.json");
+    vegaEmbed('#Location3',"PortafolioTask/Graph3.json");
+    vegaEmbed('#Location4',"PortafolioTask/Graph4.json");
+    vegaEmbed('#Location5',"PortafolioTask/Graph5.json");
+    vegaEmbed('#Location6',"PortafolioTask/Graph6.json");
+    vegaEmbed('#Location8',"PortafolioTask/Graph8.json");
+    vegaEmbed('#Location9',"PortafolioTask/Graph9.json");
+    vegaEmbed('#Location10',"PortafolioTask/Graph10.json");
+    vegaEmbed('#Location11',"PortafolioTask/Graph11.json");
+    vegaEmbed('#LocationMap1',"PortafolioTask/Map1.json");
+    vegaEmbed('#LocationMap2',"PortafolioTask/Map2.json");
+    vegaEmbed('#Location12',"PortafolioTask/CC8/english_breakfast_prices.json");
+    vegaEmbed('#Location13',"PortafolioTask/CC8/region_english_breakfast_prices.json");
+    vegaEmbed('#Location14',"PortafolioTask/CC9/births_map_region.json");
+    vegaEmbed('#Location15',"PortafolioTask/CC9/SFR.json");
+    vegaEmbed('#Location16',"PortafolioTask/CC10/ECP.json");
+    vegaEmbed('#Location17',"PortafolioTask/CC10/LRML.json");
+
+    for (let i = 1; i <= 6; i++) {
+      vegaEmbed(`#Locationchart${i}`, `PortafolioTask/CC6/WB_chart_${i}_spec.json`);
+    }
+  </script>
+</body>
+</html>
