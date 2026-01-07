@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Choropleth map showing road conditions across Scottish Council Areas",
+  "title": {
+    "text": "Roads Needing Repairs in Scotland (2023)",
+    "subtitle": "Source: Scottish Government Road Network and Traffic Statistics",
+    "fontSize": 18,
+    "subtitleFontSize": 12
+  },
+  "width": 500,
+  "height": 700,
+  "data": {
+    "url": "https://raw.githubusercontent.com/jhellingsdata/RADataHub/refs/heads/main/MappingWorkshop/geo_data/LAD_SCT_2025_05.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "object_name"
+    }
+  },
+  "transform": [
+    {
+      "lookup": "properties.LAD25CD",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/CarolinaMolinare/CarolinaMolinare.github.io/refs/heads/main/PortafolioTask/CC7/scotland_roads_long_format.csv",
+          "format": {
+            "type": "dsv",
+            "delimiter": ";"
+          }
+        },
+        "key": "geo_id",
+        "fields": ["year", "variable", "value"]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 0.5
+  },
+  "encoding": {
+    "color": {
+      "field": "value",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "reds"
+      },
+      "legend": {
+        "title": "Percentage",
+        "orient": "bottom",
+        "direction": "horizontal"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.LAD25NM",
+        "type": "nominal",
+        "title": "Council Area"
+      },
+      {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Value (%)",
+        "format": ".1f"
+      }
+    ]
+  },
+  "projection": {
+    "type": "mercator"
+  }
+}

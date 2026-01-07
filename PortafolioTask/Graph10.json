@@ -1,0 +1,167 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "data": {
+    "url": "https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023",
+    "format": {
+      "property": "[1]"
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    }
+  },
+  "width": 700,
+  "height": 400,
+  "title": {
+    "text": "Fertility Rate",
+    "subtitle": "By country income classification group (1960-2023)",
+    "anchor": "start"
+  },
+  "transform": [
+    {
+      "filter": "datum.value"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": "Source: World Bank API",
+      "axis": {
+        "grid": false,
+        "titleFontSize": 10,
+        "titlePadding": 10
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Births per woman",
+          "scale": {
+            "domain": [0, 8]
+          },
+          "axis": {
+            "grid": false
+          }
+        },
+        "color": {
+          "field": "country.value",
+          "type": "nominal",
+          "legend": {
+            "title": "Income Group"
+          },
+          "scale": {
+            "domain": [
+              "Low income",
+              "Lower middle income",
+              "Middle income",
+              "Upper middle income",
+              "High income"
+            ],
+            "range": [
+              "#a8e6cf",
+              "#7bc96f",
+              "#4caf50",
+              "#388e3c",
+              "#1b5e20"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "pivot": "country.value",
+          "value": "value",
+          "groupby": ["date"]
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "opacity": 0
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "date",
+            "type": "temporal",
+            "title": "Year",
+            "timeUnit": "year"
+          },
+          {
+            "field": "Low income",
+            "type": "quantitative",
+            "title": "Low income",
+            "format": ".1f"
+          },
+          {
+            "field": "Lower middle income",
+            "type": "quantitative",
+            "title": "Lower middle income",
+            "format": ".1f"
+          },
+          {
+            "field": "Middle income",
+            "type": "quantitative",
+            "title": "Middle income",
+            "format": ".1f"
+          },
+          {
+            "field": "Upper middle income",
+            "type": "quantitative",
+            "title": "Upper middle income",
+            "format": ".1f"
+          },
+          {
+            "field": "High income",
+            "type": "quantitative",
+            "title": "High income",
+            "format": ".1f"
+          }
+        ]
+      },
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "fields": ["date"],
+            "nearest": true,
+            "on": "pointerover",
+            "clear": "pointerout"
+          }
+        }
+      ]
+    },
+    {
+      "transform": [
+        {
+          "pivot": "country.value",
+          "value": "value",
+          "groupby": ["date"]
+        },
+        {
+          "filter": {
+            "param": "hover",
+            "empty": false
+          }
+        }
+      ],
+      "mark": {
+        "type": "rule",
+        "color": "gray",
+        "strokeWidth": 1
+      }
+    }
+  ]
+}

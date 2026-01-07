@@ -1,0 +1,1415 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "background": "white",
+  "padding": 5,
+  "title": {
+    "text": [
+      "Chile vs OECD Average - Development Indicators (2000-2023)",
+      "Source: World Bank data"
+    ],
+    "fontSize": 18,
+    "anchor": "middle"
+  },
+  "data": [
+    {
+      "name": "data-c62b9a0a7bc51f2f25805f9d48860b8c",
+      "values": [
+        {"year": 2000, "value": 77.128, "country": "Chile"},
+        {"year": 2000, "value": 76.8195165967813, "country": "OECD"},
+        {"year": 2001, "value": 77.1207466135963, "country": "OECD"},
+        {"year": 2001, "value": 77.58, "country": "Chile"},
+        {"year": 2002, "value": 77.84, "country": "Chile"},
+        {"year": 2002, "value": 77.2833606924084, "country": "OECD"},
+        {"year": 2003, "value": 77.4260355491099, "country": "OECD"},
+        {"year": 2003, "value": 77.884, "country": "Chile"},
+        {"year": 2004, "value": 78.276, "country": "Chile"},
+        {"year": 2004, "value": 77.8261405899935, "country": "OECD"},
+        {"year": 2005, "value": 77.9539871455081, "country": "OECD"},
+        {"year": 2005, "value": 78.459, "country": "Chile"},
+        {"year": 2006, "value": 78.533, "country": "Chile"},
+        {"year": 2006, "value": 78.2501352258837, "country": "OECD"},
+        {"year": 2007, "value": 78.4729454763553, "country": "OECD"},
+        {"year": 2007, "value": 78.652, "country": "Chile"},
+        {"year": 2008, "value": 78.752, "country": "Chile"},
+        {"year": 2008, "value": 78.6146332445559, "country": "OECD"},
+        {"year": 2009, "value": 78.8670589595977, "country": "OECD"},
+        {"year": 2009, "value": 78.89, "country": "Chile"},
+        {"year": 2010, "value": 79.095, "country": "Chile"},
+        {"year": 2010, "value": 79.0473008520596, "country": "OECD"},
+        {"year": 2011, "value": 79.2685938676768, "country": "OECD"},
+        {"year": 2011, "value": 79.236, "country": "Chile"},
+        {"year": 2012, "value": 79.221, "country": "Chile"},
+        {"year": 2012, "value": 79.4298859829549, "country": "OECD"},
+        {"year": 2013, "value": 79.6249276178205, "country": "OECD"},
+        {"year": 2013, "value": 79.551, "country": "Chile"},
+        {"year": 2014, "value": 79.714, "country": "Chile"},
+        {"year": 2014, "value": 79.8766518985509, "country": "OECD"},
+        {"year": 2015, "value": 79.761947694534, "country": "OECD"},
+        {"year": 2015, "value": 80.008, "country": "Chile"},
+        {"year": 2016, "value": 80.295, "country": "Chile"},
+        {"year": 2016, "value": 79.8914226918913, "country": "OECD"},
+        {"year": 2017, "value": 79.931058371801, "country": "OECD"},
+        {"year": 2017, "value": 80.61, "country": "Chile"},
+        {"year": 2018, "value": 80.559, "country": "Chile"},
+        {"year": 2018, "value": 80.0281711116686, "country": "OECD"},
+        {"year": 2019, "value": 80.2450659060679, "country": "OECD"},
+        {"year": 2019, "value": 80.324, "country": "Chile"},
+        {"year": 2020, "value": 79.349, "country": "Chile"},
+        {"year": 2020, "value": 78.958005085165, "country": "OECD"},
+        {"year": 2021, "value": 78.5885513303119, "country": "OECD"},
+        {"year": 2021, "value": 78.876, "country": "Chile"},
+        {"year": 2022, "value": 79.176, "country": "Chile"},
+        {"year": 2022, "value": 79.5212545784247, "country": "OECD"},
+        {"year": 2023, "value": 80.1614352591851, "country": "OECD"},
+        {"year": 2023, "value": 81.167, "country": "Chile"}
+      ]
+    },
+    {
+      "name": "data-0df71d8bd08e3139b773ac0d7ddd74e0",
+      "values": [
+        {"year": 2000, "value": 17525.2717273479, "country": "Chile"},
+        {"year": 2000, "value": 40100.0736635285, "country": "OECD"},
+        {"year": 2001, "value": 40359.7742955811, "country": "OECD"},
+        {"year": 2001, "value": 17870.3008332711, "country": "Chile"},
+        {"year": 2002, "value": 18240.2015602857, "country": "Chile"},
+        {"year": 2002, "value": 40691.7246907504, "country": "OECD"},
+        {"year": 2003, "value": 41219.2890851893, "country": "OECD"},
+        {"year": 2003, "value": 18902.8708740806, "country": "Chile"},
+        {"year": 2004, "value": 19961.9835794233, "country": "Chile"},
+        {"year": 2004, "value": 42284.8711664127, "country": "OECD"},
+        {"year": 2005, "value": 43196.3601762154, "country": "OECD"},
+        {"year": 2005, "value": 20918.5275760681, "country": "Chile"},
+        {"year": 2006, "value": 21968.5375355854, "country": "Chile"},
+        {"year": 2006, "value": 44265.6201666808, "country": "OECD"},
+        {"year": 2007, "value": 45160.7672425496, "country": "OECD"},
+        {"year": 2007, "value": 22878.8834428789, "country": "Chile"},
+        {"year": 2008, "value": 23509.7816931441, "country": "Chile"},
+        {"year": 2008, "value": 45022.4637924216, "country": "OECD"},
+        {"year": 2009, "value": 43146.9846734134, "country": "OECD"},
+        {"year": 2009, "value": 23013.5817893814, "country": "Chile"},
+        {"year": 2010, "value": 24116.7694715614, "country": "Chile"},
+        {"year": 2010, "value": 44163.5000019848, "country": "OECD"},
+        {"year": 2011, "value": 44837.8963217335, "country": "OECD"},
+        {"year": 2011, "value": 25366.2690249825, "country": "Chile"},
+        {"year": 2012, "value": 26670.4971338402, "country": "Chile"},
+        {"year": 2012, "value": 45146.1602478401, "country": "OECD"},
+        {"year": 2013, "value": 45604.6500774203, "country": "OECD"},
+        {"year": 2013, "value": 27291.3576525957, "country": "Chile"},
+        {"year": 2014, "value": 27505.0495524158, "country": "Chile"},
+        {"year": 2014, "value": 46327.0750560206, "country": "OECD"},
+        {"year": 2015, "value": 47222.4264143199, "country": "OECD"},
+        {"year": 2015, "value": 27811.3745158617, "country": "Chile"},
+        {"year": 2016, "value": 27958.7284996682, "country": "Chile"},
+        {"year": 2016, "value": 47815.3606829439, "country": "OECD"},
+        {"year": 2017, "value": 48824.2005087167, "country": "OECD"},
+        {"year": 2017, "value": 27892.9946862827, "country": "Chile"},
+        {"year": 2018, "value": 28492.6611456515, "country": "Chile"},
+        {"year": 2018, "value": 49687.0078076748, "country": "OECD"},
+        {"year": 2019, "value": 50306.6814679338, "country": "OECD"},
+        {"year": 2019, "value": 28218.5343879081, "country": "Chile"},
+        {"year": 2020, "value": 26248.5616432825, "country": "Chile"},
+        {"year": 2020, "value": 48089.3143059651, "country": "OECD"},
+        {"year": 2021, "value": 50955.6018382245, "country": "OECD"},
+        {"year": 2021, "value": 29089.850459728, "country": "Chile"},
+        {"year": 2022, "value": 29569.4775527937, "country": "Chile"},
+        {"year": 2022, "value": 52344.6903615246, "country": "OECD"},
+        {"year": 2023, "value": 52929.4284227082, "country": "OECD"},
+        {"year": 2023, "value": 29563.6780243659, "country": "Chile"}
+      ]
+    },
+    {
+      "name": "data-54d6ab1b2fdd3713c933e2776fefe857",
+      "values": [
+        {"year": 2000, "value": 10.8333333333333, "country": "Chile"},
+        {"year": 2000, "value": 18.0485717342463, "country": "OECD"},
+        {"year": 2001, "value": 17.728334857259, "country": "OECD"},
+        {"year": 2001, "value": 10.8333333333333, "country": "Chile"},
+        {"year": 2002, "value": 12.5, "country": "Chile"},
+        {"year": 2002, "value": 19.2410190811214, "country": "OECD"},
+        {"year": 2003, "value": 19.506881869492, "country": "OECD"},
+        {"year": 2003, "value": 12.5, "country": "Chile"},
+        {"year": 2004, "value": 12.5, "country": "Chile"},
+        {"year": 2004, "value": 20.0886560548056, "country": "OECD"},
+        {"year": 2005, "value": 20.6988451288126, "country": "OECD"},
+        {"year": 2005, "value": 15, "country": "Chile"},
+        {"year": 2006, "value": 15, "country": "Chile"},
+        {"year": 2006, "value": 21.0998324627969, "country": "OECD"},
+        {"year": 2007, "value": 22.2375554460325, "country": "OECD"},
+        {"year": 2007, "value": 15, "country": "Chile"},
+        {"year": 2008, "value": 15, "country": "Chile"},
+        {"year": 2008, "value": 22.38864800946, "country": "OECD"},
+        {"year": 2009, "value": 23.0875258442453, "country": "OECD"},
+        {"year": 2009, "value": 14.1666666666667, "country": "Chile"},
+        {"year": 2010, "value": 14.1666666666667, "country": "Chile"},
+        {"year": 2010, "value": 23.1670111209527, "country": "OECD"},
+        {"year": 2011, "value": 23.9637688293788, "country": "OECD"},
+        {"year": 2011, "value": 14.1666666666667, "country": "Chile"},
+        {"year": 2012, "value": 14.1666666666667, "country": "Chile"},
+        {"year": 2012, "value": 25.0270749236979, "country": "OECD"},
+        {"year": 2013, "value": 26.1656502065709, "country": "OECD"},
+        {"year": 2013, "value": 15.8333333333333, "country": "Chile"},
+        {"year": 2014, "value": 15.8333333333333, "country": "Chile"},
+        {"year": 2014, "value": 26.7909027151588, "country": "OECD"},
+        {"year": 2015, "value": 27.8432940235859, "country": "OECD"},
+        {"year": 2015, "value": 15.8333333333333, "country": "Chile"},
+        {"year": 2016, "value": 27.9655931186237, "country": "OECD"},
+        {"year": 2016, "value": 15.8333333333333, "country": "Chile"},
+        {"year": 2017, "value": 28.8716814159292, "country": "OECD"},
+        {"year": 2018, "value": 29.8748645186718, "country": "OECD"},
+        {"year": 2018, "value": 22.5806451612903, "country": "Chile"},
+        {"year": 2019, "value": 22.5806451612903, "country": "Chile"},
+        {"year": 2019, "value": 30.8018124507486, "country": "OECD"},
+        {"year": 2020, "value": 31.4990138067061, "country": "OECD"},
+        {"year": 2020, "value": 22.5806451612903, "country": "Chile"},
+        {"year": 2021, "value": 35.4838709677419, "country": "Chile"},
+        {"year": 2021, "value": 32.4234092694423, "country": "OECD"},
+        {"year": 2022, "value": 32.5221238938053, "country": "OECD"},
+        {"year": 2022, "value": 35.4838709677419, "country": "Chile"},
+        {"year": 2023, "value": 35.4838709677419, "country": "Chile"},
+        {"year": 2023, "value": 32.8286373207661, "country": "OECD"}
+      ]
+    },
+    {
+      "name": "data-3043183b5693d187fdbeef34c9bec24c",
+      "values": [
+        {"year": 2000, "value": 3.211, "country": "Chile"},
+        {"year": 2000, "value": 4.47206129982898, "country": "OECD"},
+        {"year": 2001, "value": 4.25112496098208, "country": "OECD"},
+        {"year": 2002, "value": 5.24587750844612, "country": "OECD"},
+        {"year": 2003, "value": 5.3367310572379, "country": "OECD"},
+        {"year": 2003, "value": 4.476, "country": "Chile"},
+        {"year": 2004, "value": 5.89604710144629, "country": "OECD"},
+        {"year": 2005, "value": 5.27532723023732, "country": "OECD"},
+        {"year": 2006, "value": 5.82, "country": "Chile"},
+        {"year": 2006, "value": 4.49405251037148, "country": "OECD"},
+        {"year": 2007, "value": 4.6160116026755, "country": "OECD"},
+        {"year": 2007, "value": 7.05, "country": "Chile"},
+        {"year": 2008, "value": 4.69797401812583, "country": "OECD"},
+        {"year": 2009, "value": 6.505, "country": "Chile"},
+        {"year": 2009, "value": 6.16397087456094, "country": "OECD"},
+        {"year": 2010, "value": 5.946, "country": "Chile"},
+        {"year": 2010, "value": 6.37709002848394, "country": "OECD"},
+        {"year": 2011, "value": 6.57857066257983, "country": "OECD"},
+        {"year": 2011, "value": 5.685, "country": "Chile"},
+        {"year": 2012, "value": 5.439, "country": "Chile"},
+        {"year": 2012, "value": 6.90911167473273, "country": "OECD"},
+        {"year": 2013, "value": 7.23826030638011, "country": "OECD"},
+        {"year": 2013, "value": 5, "country": "Chile"},
+        {"year": 2014, "value": 5.322, "country": "Chile"},
+        {"year": 2014, "value": 7.05596692004503, "country": "OECD"},
+        {"year": 2015, "value": 6.47141914463288, "country": "OECD"},
+        {"year": 2015, "value": 5.054, "country": "Chile"},
+        {"year": 2016, "value": 6.27751051152523, "country": "OECD"},
+        {"year": 2016, "value": 6.195, "country": "Chile"},
+        {"year": 2017, "value": 7.076, "country": "Chile"},
+        {"year": 2017, "value": 5.99849756765608, "country": "OECD"},
+        {"year": 2018, "value": 5.77139635212426, "country": "OECD"},
+        {"year": 2018, "value": 7.589, "country": "Chile"},
+        {"year": 2019, "value": 6.854, "country": "Chile"},
+        {"year": 2019, "value": 6.04926659831974, "country": "OECD"},
+        {"year": 2020, "value": 6.23519202474224, "country": "OECD"},
+        {"year": 2020, "value": 9.568, "country": "Chile"},
+        {"year": 2021, "value": 8.132, "country": "Chile"},
+        {"year": 2021, "value": 6.5565549535328, "country": "OECD"},
+        {"year": 2022, "value": 5.3015875662962, "country": "OECD"},
+        {"year": 2022, "value": 6.926, "country": "Chile"},
+        {"year": 2023, "value": 7.189, "country": "Chile"},
+        {"year": 2023, "value": 4.91004152732873, "country": "OECD"}
+      ]
+    },
+    {
+      "name": "data-d14950faeaff05bb1434bdf7927b5169",
+      "values": [
+        {"year": 2000, "value": 35.4313201904297, "country": "Chile"},
+        {"year": 2000, "value": 52.5736885070801, "country": "OECD"},
+        {"year": 2001, "value": 54.7479782104492, "country": "OECD"},
+        {"year": 2002, "value": 40.2664985656738, "country": "Chile"},
+        {"year": 2002, "value": 57.0971183776855, "country": "OECD"},
+        {"year": 2003, "value": 58.7679901123047, "country": "OECD"},
+        {"year": 2003, "value": 43.5181999206543, "country": "Chile"},
+        {"year": 2004, "value": 44.3284606933594, "country": "Chile"},
+        {"year": 2004, "value": 60.0452499389648, "country": "OECD"},
+        {"year": 2005, "value": 50.2735595703125, "country": "Chile"},
+        {"year": 2005, "value": 60.9480895996094, "country": "OECD"},
+        {"year": 2006, "value": 62.3033905029297, "country": "OECD"},
+        {"year": 2006, "value": 49.3216896057129, "country": "Chile"},
+        {"year": 2007, "value": 63.0849990844727, "country": "OECD"},
+        {"year": 2007, "value": 54.7230491638184, "country": "Chile"},
+        {"year": 2008, "value": 56.7743988037109, "country": "Chile"},
+        {"year": 2008, "value": 63.6964912414551, "country": "OECD"},
+        {"year": 2009, "value": 59.9912910461426, "country": "Chile"},
+        {"year": 2009, "value": 65.258903503418, "country": "OECD"},
+        {"year": 2010, "value": 66.3445205688477, "country": "Chile"},
+        {"year": 2010, "value": 66.7914505004883, "country": "OECD"},
+        {"year": 2011, "value": 67.871696472168, "country": "OECD"},
+        {"year": 2011, "value": 70.8241806030273, "country": "Chile"},
+        {"year": 2012, "value": 68.917236328125, "country": "OECD"},
+        {"year": 2012, "value": 75.0770721435547, "country": "Chile"},
+        {"year": 2013, "value": 79.8703384399414, "country": "Chile"},
+        {"year": 2013, "value": 69.910758972168, "country": "OECD"},
+        {"year": 2014, "value": 70.9062423706055, "country": "OECD"},
+        {"year": 2014, "value": 83.6629791259766, "country": "Chile"},
+        {"year": 2015, "value": 72.0236282348633, "country": "OECD"},
+        {"year": 2015, "value": 86.4181137084961, "country": "Chile"},
+        {"year": 2016, "value": 73.9402770996094, "country": "OECD"},
+        {"year": 2016, "value": 88.8458862304688, "country": "Chile"},
+        {"year": 2017, "value": 89.921989440918, "country": "Chile"},
+        {"year": 2017, "value": 74.7901000976562, "country": "OECD"},
+        {"year": 2018, "value": 75.4892120361328, "country": "OECD"},
+        {"year": 2018, "value": 91.1974792480469, "country": "Chile"},
+        {"year": 2019, "value": 92.0659713745117, "country": "Chile"},
+        {"year": 2019, "value": 76.4273910522461, "country": "OECD"},
+        {"year": 2020, "value": 77.2700805664062, "country": "OECD"},
+        {"year": 2020, "value": 89.1124877929688, "country": "Chile"},
+        {"year": 2021, "value": 96.2227935791016, "country": "Chile"},
+        {"year": 2021, "value": 78.8566436767578, "country": "OECD"},
+        {"year": 2022, "value": 78.3904876708984, "country": "OECD"},
+        {"year": 2022, "value": 99.3372802734375, "country": "Chile"},
+        {"year": 2023, "value": 104.734062194824, "country": "Chile"},
+        {"year": 2023, "value": 79.5250930786133, "country": "OECD"}
+      ]
+    },
+    {
+      "name": "data-9466b2a5c44e3f1ec7019681234f9b99",
+      "values": [
+        {"year": 2000, "value": 3.84327295706565, "country": "Chile"},
+        {"year": 2000, "value": 3.06380344899536, "country": "OECD"},
+        {"year": 2001, "value": 3.18908268106052, "country": "OECD"},
+        {"year": 2001, "value": 3.56910053001467, "country": "Chile"},
+        {"year": 2002, "value": 2.48939816650705, "country": "Chile"},
+        {"year": 2002, "value": 2.47736067910935, "country": "OECD"},
+        {"year": 2003, "value": 2.18428358241519, "country": "OECD"},
+        {"year": 2003, "value": 2.8101787574361, "country": "Chile"},
+        {"year": 2004, "value": 1.05473871403517, "country": "Chile"},
+        {"year": 2004, "value": 2.2579640963823, "country": "OECD"},
+        {"year": 2005, "value": 2.47212179047863, "country": "OECD"},
+        {"year": 2005, "value": 3.05257621387849, "country": "Chile"},
+        {"year": 2006, "value": 3.39201733699405, "country": "Chile"},
+        {"year": 2006, "value": 2.60015376460352, "country": "OECD"},
+        {"year": 2007, "value": 2.48470438812871, "country": "OECD"},
+        {"year": 2007, "value": 4.40779938398044, "country": "Chile"},
+        {"year": 2008, "value": 8.71626873039607, "country": "Chile"},
+        {"year": 2008, "value": 4.11407022033816, "country": "OECD"},
+        {"year": 2009, "value": 1.10457711175391, "country": "OECD"},
+        {"year": 2009, "value": 0.353045178360937, "country": "Chile"},
+        {"year": 2010, "value": 1.41071107954321, "country": "Chile"},
+        {"year": 2010, "value": 1.80735230566098, "country": "OECD"},
+        {"year": 2011, "value": 3.37429759432522, "country": "OECD"},
+        {"year": 2011, "value": 3.34121694259302, "country": "Chile"},
+        {"year": 2012, "value": 3.00744840213047, "country": "Chile"},
+        {"year": 2012, "value": 2.52945520915772, "country": "OECD"},
+        {"year": 2013, "value": 1.45156526398378, "country": "OECD"},
+        {"year": 2013, "value": 1.7895555398459, "country": "Chile"},
+        {"year": 2014, "value": 4.71867527854672, "country": "Chile"},
+        {"year": 2014, "value": 0.624517311086569, "country": "OECD"},
+        {"year": 2015, "value": 0.338705695410168, "country": "OECD"},
+        {"year": 2015, "value": 4.34877353217044, "country": "Chile"},
+        {"year": 2016, "value": 3.78619355893118, "country": "Chile"},
+        {"year": 2016, "value": 0.443258157565783, "country": "OECD"},
+        {"year": 2017, "value": 1.82264336059063, "country": "OECD"},
+        {"year": 2017, "value": 2.18271846868519, "country": "Chile"},
+        {"year": 2018, "value": 2.43488981353057, "country": "Chile"},
+        {"year": 2018, "value": 1.9324681228636, "country": "OECD"},
+        {"year": 2019, "value": 1.74071267870181, "country": "OECD"},
+        {"year": 2019, "value": 2.55754475703327, "country": "Chile"},
+        {"year": 2020, "value": 3.04549084804326, "country": "Chile"},
+        {"year": 2020, "value": 0.73285164517586, "country": "OECD"},
+        {"year": 2021, "value": 2.81528854435832, "country": "OECD"},
+        {"year": 2021, "value": 4.52456838259144, "country": "Chile"},
+        {"year": 2022, "value": 11.643866711056, "country": "Chile"},
+        {"year": 2022, "value": 8.23803240697186, "country": "OECD"},
+        {"year": 2023, "value": 5.67767862615429, "country": "OECD"},
+        {"year": 2023, "value": 7.58168251407962, "country": "Chile"}
+      ]
+    },
+    {
+      "name": "data_0",
+      "source": "data-c62b9a0a7bc51f2f25805f9d48860b8c",
+      "transform": [
+        {"type": "formula", "expr": "toNumber(datum[\"year\"])", "as": "year"}
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data_0",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_2",
+      "source": "data-0df71d8bd08e3139b773ac0d7ddd74e0",
+      "transform": [
+        {"type": "formula", "expr": "toNumber(datum[\"year\"])", "as": "year"}
+      ]
+    },
+    {
+      "name": "data_3",
+      "source": "data_2",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_4",
+      "source": "data-54d6ab1b2fdd3713c933e2776fefe857",
+      "transform": [
+        {"type": "formula", "expr": "toNumber(datum[\"year\"])", "as": "year"}
+      ]
+    },
+    {
+      "name": "data_5",
+      "source": "data_4",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_6",
+      "source": "data-3043183b5693d187fdbeef34c9bec24c",
+      "transform": [
+        {"type": "formula", "expr": "toNumber(datum[\"year\"])", "as": "year"}
+      ]
+    },
+    {
+      "name": "data_7",
+      "source": "data_6",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_8",
+      "source": "data-d14950faeaff05bb1434bdf7927b5169",
+      "transform": [
+        {"type": "formula", "expr": "toNumber(datum[\"year\"])", "as": "year"}
+      ]
+    },
+    {
+      "name": "data_9",
+      "source": "data_8",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_10",
+      "source": "data-9466b2a5c44e3f1ec7019681234f9b99",
+      "transform": [
+        {"type": "formula", "expr": "toNumber(datum[\"year\"])", "as": "year"}
+      ]
+    },
+    {
+      "name": "data_11",
+      "source": "data_10",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {"name": "childHeight", "value": 220},
+    {"name": "concat_0_childWidth", "value": 350},
+    {"name": "concat_1_childWidth", "value": 350},
+    {"name": "concat_2_childWidth", "value": 350}
+  ],
+  "layout": {"padding": 20, "columns": 1, "bounds": "full", "align": "each"},
+  "marks": [
+    {
+      "type": "group",
+      "name": "concat_0_group",
+      "layout": {"padding": 20, "bounds": "full", "align": "each"},
+      "marks": [
+        {
+          "type": "group",
+          "name": "concat_0_concat_0_group",
+          "title": {
+            "text": "Life Expectancy at Birth",
+            "subtitle": "Years",
+            "fontSize": 14,
+            "frame": "group"
+          },
+          "style": "cell",
+          "encode": {
+            "update": {
+              "width": {"signal": "concat_0_childWidth"},
+              "height": {"signal": "childHeight"}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_0_concat_0_layer_0_pathgroup",
+              "type": "group",
+              "from": {
+                "facet": {
+                  "name": "faceted_path_concat_0_concat_0_layer_0_main",
+                  "data": "data_0",
+                  "groupby": ["country"]
+                }
+              },
+              "encode": {
+                "update": {
+                  "width": {"field": {"group": "width"}},
+                  "height": {"field": {"group": "height"}}
+                }
+              },
+              "marks": [
+                {
+                  "name": "concat_0_concat_0_layer_0_marks",
+                  "type": "line",
+                  "style": ["line"],
+                  "sort": {"field": "x"},
+                  "from": {
+                    "data": "faceted_path_concat_0_concat_0_layer_0_main"
+                  },
+                  "encode": {
+                    "update": {
+                      "stroke": {"scale": "color", "field": "country"},
+                      "description": {
+                        "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; Years: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                      },
+                      "x": {"scale": "concat_0_concat_0_x", "field": "year"},
+                      "y": {"scale": "concat_0_concat_0_y", "field": "value"},
+                      "defined": {
+                        "signal": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "concat_0_concat_0_layer_1_marks",
+              "type": "symbol",
+              "style": ["point"],
+              "from": {"data": "data_1"},
+              "encode": {
+                "update": {
+                  "opacity": {"value": 1},
+                  "fill": {"scale": "color", "field": "country"},
+                  "ariaRoleDescription": {"value": "point"},
+                  "description": {
+                    "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; Years: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                  },
+                  "x": {"scale": "concat_0_concat_0_x", "field": "year"},
+                  "y": {"scale": "concat_0_concat_0_y", "field": "value"}
+                }
+              }
+            }
+          ],
+          "axes": [
+            {
+              "scale": "concat_0_concat_0_x",
+              "orient": "bottom",
+              "gridScale": "concat_0_concat_0_y",
+              "grid": true,
+              "tickCount": {"signal": "ceil(concat_0_childWidth/40)"},
+              "tickMinStep": 1,
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_0_concat_0_y",
+              "orient": "left",
+              "gridScale": "concat_0_concat_0_x",
+              "grid": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_0_concat_0_x",
+              "orient": "bottom",
+              "grid": false,
+              "title": "Year",
+              "format": "d",
+              "labelFlush": true,
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(concat_0_childWidth/40)"},
+              "tickMinStep": 1,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_0_concat_0_y",
+              "orient": "left",
+              "grid": false,
+              "title": "Years",
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "zindex": 0
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "concat_0_concat_1_group",
+          "title": {
+            "text": "GDP per Capita (PPP)",
+            "subtitle": "Constant 2021 International $",
+            "fontSize": 14,
+            "frame": "group"
+          },
+          "style": "cell",
+          "encode": {
+            "update": {
+              "width": {"signal": "concat_0_childWidth"},
+              "height": {"signal": "childHeight"}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_0_concat_1_layer_0_pathgroup",
+              "type": "group",
+              "from": {
+                "facet": {
+                  "name": "faceted_path_concat_0_concat_1_layer_0_main",
+                  "data": "data_2",
+                  "groupby": ["country"]
+                }
+              },
+              "encode": {
+                "update": {
+                  "width": {"field": {"group": "width"}},
+                  "height": {"field": {"group": "height"}}
+                }
+              },
+              "marks": [
+                {
+                  "name": "concat_0_concat_1_layer_0_marks",
+                  "type": "line",
+                  "style": ["line"],
+                  "sort": {"field": "x"},
+                  "from": {
+                    "data": "faceted_path_concat_0_concat_1_layer_0_main"
+                  },
+                  "encode": {
+                    "update": {
+                      "stroke": {"scale": "color", "field": "country"},
+                      "description": {
+                        "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; Constant 2021 International $: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                      },
+                      "x": {"scale": "concat_0_concat_1_x", "field": "year"},
+                      "y": {"scale": "concat_0_concat_1_y", "field": "value"},
+                      "defined": {
+                        "signal": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "concat_0_concat_1_layer_1_marks",
+              "type": "symbol",
+              "style": ["point"],
+              "from": {"data": "data_3"},
+              "encode": {
+                "update": {
+                  "opacity": {"value": 1},
+                  "fill": {"scale": "color", "field": "country"},
+                  "ariaRoleDescription": {"value": "point"},
+                  "description": {
+                    "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; Constant 2021 International $: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                  },
+                  "x": {"scale": "concat_0_concat_1_x", "field": "year"},
+                  "y": {"scale": "concat_0_concat_1_y", "field": "value"}
+                }
+              }
+            }
+          ],
+          "axes": [
+            {
+              "scale": "concat_0_concat_1_x",
+              "orient": "bottom",
+              "gridScale": "concat_0_concat_1_y",
+              "grid": true,
+              "tickCount": {"signal": "ceil(concat_0_childWidth/40)"},
+              "tickMinStep": 1,
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_0_concat_1_y",
+              "orient": "left",
+              "gridScale": "concat_0_concat_1_x",
+              "grid": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_0_concat_1_x",
+              "orient": "bottom",
+              "grid": false,
+              "title": "Year",
+              "format": "d",
+              "labelFlush": true,
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(concat_0_childWidth/40)"},
+              "tickMinStep": 1,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_0_concat_1_y",
+              "orient": "left",
+              "grid": false,
+              "title": "Constant 2021 International $",
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "zindex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "concat_1_group",
+      "layout": {"padding": 20, "bounds": "full", "align": "each"},
+      "marks": [
+        {
+          "type": "group",
+          "name": "concat_1_concat_0_group",
+          "title": {
+            "text": "Women in Parliament",
+            "subtitle": "% of Seats",
+            "fontSize": 14,
+            "frame": "group"
+          },
+          "style": "cell",
+          "encode": {
+            "update": {
+              "width": {"signal": "concat_1_childWidth"},
+              "height": {"signal": "childHeight"}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_1_concat_0_layer_0_pathgroup",
+              "type": "group",
+              "from": {
+                "facet": {
+                  "name": "faceted_path_concat_1_concat_0_layer_0_main",
+                  "data": "data_4",
+                  "groupby": ["country"]
+                }
+              },
+              "encode": {
+                "update": {
+                  "width": {"field": {"group": "width"}},
+                  "height": {"field": {"group": "height"}}
+                }
+              },
+              "marks": [
+                {
+                  "name": "concat_1_concat_0_layer_0_marks",
+                  "type": "line",
+                  "style": ["line"],
+                  "sort": {"field": "x"},
+                  "from": {
+                    "data": "faceted_path_concat_1_concat_0_layer_0_main"
+                  },
+                  "encode": {
+                    "update": {
+                      "stroke": {"scale": "color", "field": "country"},
+                      "description": {
+                        "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; % of Seats: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                      },
+                      "x": {"scale": "concat_1_concat_0_x", "field": "year"},
+                      "y": {"scale": "concat_1_concat_0_y", "field": "value"},
+                      "defined": {
+                        "signal": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "concat_1_concat_0_layer_1_marks",
+              "type": "symbol",
+              "style": ["point"],
+              "from": {"data": "data_5"},
+              "encode": {
+                "update": {
+                  "opacity": {"value": 1},
+                  "fill": {"scale": "color", "field": "country"},
+                  "ariaRoleDescription": {"value": "point"},
+                  "description": {
+                    "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; % of Seats: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                  },
+                  "x": {"scale": "concat_1_concat_0_x", "field": "year"},
+                  "y": {"scale": "concat_1_concat_0_y", "field": "value"}
+                }
+              }
+            }
+          ],
+          "axes": [
+            {
+              "scale": "concat_1_concat_0_x",
+              "orient": "bottom",
+              "gridScale": "concat_1_concat_0_y",
+              "grid": true,
+              "tickCount": {"signal": "ceil(concat_1_childWidth/40)"},
+              "tickMinStep": 1,
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_1_concat_0_y",
+              "orient": "left",
+              "gridScale": "concat_1_concat_0_x",
+              "grid": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_1_concat_0_x",
+              "orient": "bottom",
+              "grid": false,
+              "title": "Year",
+              "format": "d",
+              "labelFlush": true,
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(concat_1_childWidth/40)"},
+              "tickMinStep": 1,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_1_concat_0_y",
+              "orient": "left",
+              "grid": false,
+              "title": "% of Seats",
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "zindex": 0
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "concat_1_concat_1_group",
+          "title": {
+            "text": "Unemployment (Advanced Education)",
+            "subtitle": "% of Labor Force",
+            "fontSize": 14,
+            "frame": "group"
+          },
+          "style": "cell",
+          "encode": {
+            "update": {
+              "width": {"signal": "concat_1_childWidth"},
+              "height": {"signal": "childHeight"}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_1_concat_1_layer_0_pathgroup",
+              "type": "group",
+              "from": {
+                "facet": {
+                  "name": "faceted_path_concat_1_concat_1_layer_0_main",
+                  "data": "data_6",
+                  "groupby": ["country"]
+                }
+              },
+              "encode": {
+                "update": {
+                  "width": {"field": {"group": "width"}},
+                  "height": {"field": {"group": "height"}}
+                }
+              },
+              "marks": [
+                {
+                  "name": "concat_1_concat_1_layer_0_marks",
+                  "type": "line",
+                  "style": ["line"],
+                  "sort": {"field": "x"},
+                  "from": {
+                    "data": "faceted_path_concat_1_concat_1_layer_0_main"
+                  },
+                  "encode": {
+                    "update": {
+                      "stroke": {"scale": "color", "field": "country"},
+                      "description": {
+                        "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; % of Labor Force: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                      },
+                      "x": {"scale": "concat_1_concat_1_x", "field": "year"},
+                      "y": {"scale": "concat_1_concat_1_y", "field": "value"},
+                      "defined": {
+                        "signal": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "concat_1_concat_1_layer_1_marks",
+              "type": "symbol",
+              "style": ["point"],
+              "from": {"data": "data_7"},
+              "encode": {
+                "update": {
+                  "opacity": {"value": 1},
+                  "fill": {"scale": "color", "field": "country"},
+                  "ariaRoleDescription": {"value": "point"},
+                  "description": {
+                    "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; % of Labor Force: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                  },
+                  "x": {"scale": "concat_1_concat_1_x", "field": "year"},
+                  "y": {"scale": "concat_1_concat_1_y", "field": "value"}
+                }
+              }
+            }
+          ],
+          "axes": [
+            {
+              "scale": "concat_1_concat_1_x",
+              "orient": "bottom",
+              "gridScale": "concat_1_concat_1_y",
+              "grid": true,
+              "tickCount": {"signal": "ceil(concat_1_childWidth/40)"},
+              "tickMinStep": 1,
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_1_concat_1_y",
+              "orient": "left",
+              "gridScale": "concat_1_concat_1_x",
+              "grid": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_1_concat_1_x",
+              "orient": "bottom",
+              "grid": false,
+              "title": "Year",
+              "format": "d",
+              "labelFlush": true,
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(concat_1_childWidth/40)"},
+              "tickMinStep": 1,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_1_concat_1_y",
+              "orient": "left",
+              "grid": false,
+              "title": "% of Labor Force",
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "zindex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "concat_2_group",
+      "layout": {"padding": 20, "bounds": "full", "align": "each"},
+      "marks": [
+        {
+          "type": "group",
+          "name": "concat_2_concat_0_group",
+          "title": {
+            "text": "Tertiary Education Enrollment",
+            "subtitle": "% Gross Enrollment",
+            "fontSize": 14,
+            "frame": "group"
+          },
+          "style": "cell",
+          "encode": {
+            "update": {
+              "width": {"signal": "concat_2_childWidth"},
+              "height": {"signal": "childHeight"}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_2_concat_0_layer_0_pathgroup",
+              "type": "group",
+              "from": {
+                "facet": {
+                  "name": "faceted_path_concat_2_concat_0_layer_0_main",
+                  "data": "data_8",
+                  "groupby": ["country"]
+                }
+              },
+              "encode": {
+                "update": {
+                  "width": {"field": {"group": "width"}},
+                  "height": {"field": {"group": "height"}}
+                }
+              },
+              "marks": [
+                {
+                  "name": "concat_2_concat_0_layer_0_marks",
+                  "type": "line",
+                  "style": ["line"],
+                  "sort": {"field": "x"},
+                  "from": {
+                    "data": "faceted_path_concat_2_concat_0_layer_0_main"
+                  },
+                  "encode": {
+                    "update": {
+                      "stroke": {"scale": "color", "field": "country"},
+                      "description": {
+                        "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; % Gross Enrollment: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                      },
+                      "x": {"scale": "concat_2_concat_0_x", "field": "year"},
+                      "y": {"scale": "concat_2_concat_0_y", "field": "value"},
+                      "defined": {
+                        "signal": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "concat_2_concat_0_layer_1_marks",
+              "type": "symbol",
+              "style": ["point"],
+              "from": {"data": "data_9"},
+              "encode": {
+                "update": {
+                  "opacity": {"value": 1},
+                  "fill": {"scale": "color", "field": "country"},
+                  "ariaRoleDescription": {"value": "point"},
+                  "description": {
+                    "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; % Gross Enrollment: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                  },
+                  "x": {"scale": "concat_2_concat_0_x", "field": "year"},
+                  "y": {"scale": "concat_2_concat_0_y", "field": "value"}
+                }
+              }
+            }
+          ],
+          "axes": [
+            {
+              "scale": "concat_2_concat_0_x",
+              "orient": "bottom",
+              "gridScale": "concat_2_concat_0_y",
+              "grid": true,
+              "tickCount": {"signal": "ceil(concat_2_childWidth/40)"},
+              "tickMinStep": 1,
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_2_concat_0_y",
+              "orient": "left",
+              "gridScale": "concat_2_concat_0_x",
+              "grid": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_2_concat_0_x",
+              "orient": "bottom",
+              "grid": false,
+              "title": "Year",
+              "format": "d",
+              "labelFlush": true,
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(concat_2_childWidth/40)"},
+              "tickMinStep": 1,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_2_concat_0_y",
+              "orient": "left",
+              "grid": false,
+              "title": "% Gross Enrollment",
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "zindex": 0
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "concat_2_concat_1_group",
+          "title": {
+            "text": "Inflation (Consumer Prices)",
+            "subtitle": "Annual %",
+            "fontSize": 14,
+            "frame": "group"
+          },
+          "style": "cell",
+          "encode": {
+            "update": {
+              "width": {"signal": "concat_2_childWidth"},
+              "height": {"signal": "childHeight"}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_2_concat_1_layer_0_pathgroup",
+              "type": "group",
+              "from": {
+                "facet": {
+                  "name": "faceted_path_concat_2_concat_1_layer_0_main",
+                  "data": "data_10",
+                  "groupby": ["country"]
+                }
+              },
+              "encode": {
+                "update": {
+                  "width": {"field": {"group": "width"}},
+                  "height": {"field": {"group": "height"}}
+                }
+              },
+              "marks": [
+                {
+                  "name": "concat_2_concat_1_layer_0_marks",
+                  "type": "line",
+                  "style": ["line"],
+                  "sort": {"field": "x"},
+                  "from": {
+                    "data": "faceted_path_concat_2_concat_1_layer_0_main"
+                  },
+                  "encode": {
+                    "update": {
+                      "stroke": {"scale": "color", "field": "country"},
+                      "description": {
+                        "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; Annual %: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                      },
+                      "x": {"scale": "concat_2_concat_1_x", "field": "year"},
+                      "y": {"scale": "concat_2_concat_1_y", "field": "value"},
+                      "defined": {
+                        "signal": "isValid(datum[\"year\"]) && isFinite(+datum[\"year\"]) && isValid(datum[\"value\"]) && isFinite(+datum[\"value\"])"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "concat_2_concat_1_layer_1_marks",
+              "type": "symbol",
+              "style": ["point"],
+              "from": {"data": "data_11"},
+              "encode": {
+                "update": {
+                  "opacity": {"value": 1},
+                  "fill": {"scale": "color", "field": "country"},
+                  "ariaRoleDescription": {"value": "point"},
+                  "description": {
+                    "signal": "\"Year: \" + (format(datum[\"year\"], \"d\")) + \"; Annual %: \" + (format(datum[\"value\"], \"\")) + \"; country: \" + (isValid(datum[\"country\"]) ? datum[\"country\"] : \"\"+datum[\"country\"])"
+                  },
+                  "x": {"scale": "concat_2_concat_1_x", "field": "year"},
+                  "y": {"scale": "concat_2_concat_1_y", "field": "value"}
+                }
+              }
+            }
+          ],
+          "axes": [
+            {
+              "scale": "concat_2_concat_1_x",
+              "orient": "bottom",
+              "gridScale": "concat_2_concat_1_y",
+              "grid": true,
+              "tickCount": {"signal": "ceil(concat_2_childWidth/40)"},
+              "tickMinStep": 1,
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_2_concat_1_y",
+              "orient": "left",
+              "gridScale": "concat_2_concat_1_x",
+              "grid": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "domain": false,
+              "labels": false,
+              "aria": false,
+              "maxExtent": 0,
+              "minExtent": 0,
+              "ticks": false,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_2_concat_1_x",
+              "orient": "bottom",
+              "grid": false,
+              "title": "Year",
+              "format": "d",
+              "labelFlush": true,
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(concat_2_childWidth/40)"},
+              "tickMinStep": 1,
+              "zindex": 0
+            },
+            {
+              "scale": "concat_2_concat_1_y",
+              "orient": "left",
+              "grid": false,
+              "title": "Annual %",
+              "labelOverlap": true,
+              "tickCount": {"signal": "ceil(childHeight/40)"},
+              "zindex": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": ["Chile", "OECD"],
+      "range": ["#6366f1", "#94a3b8"]
+    },
+    {
+      "name": "concat_0_concat_0_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_0", "field": "year"},
+          {"data": "data_1", "field": "year"}
+        ]
+      },
+      "range": [0, {"signal": "concat_0_childWidth"}],
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "concat_0_concat_0_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_0", "field": "value"},
+          {"data": "data_1", "field": "value"}
+        ]
+      },
+      "range": [{"signal": "childHeight"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_0_concat_1_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_2", "field": "year"},
+          {"data": "data_3", "field": "year"}
+        ]
+      },
+      "range": [0, {"signal": "concat_0_childWidth"}],
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "concat_0_concat_1_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_2", "field": "value"},
+          {"data": "data_3", "field": "value"}
+        ]
+      },
+      "range": [{"signal": "childHeight"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_1_concat_0_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_4", "field": "year"},
+          {"data": "data_5", "field": "year"}
+        ]
+      },
+      "range": [0, {"signal": "concat_1_childWidth"}],
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "concat_1_concat_0_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_4", "field": "value"},
+          {"data": "data_5", "field": "value"}
+        ]
+      },
+      "range": [{"signal": "childHeight"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_1_concat_1_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_6", "field": "year"},
+          {"data": "data_7", "field": "year"}
+        ]
+      },
+      "range": [0, {"signal": "concat_1_childWidth"}],
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "concat_1_concat_1_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_6", "field": "value"},
+          {"data": "data_7", "field": "value"}
+        ]
+      },
+      "range": [{"signal": "childHeight"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_2_concat_0_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_8", "field": "year"},
+          {"data": "data_9", "field": "year"}
+        ]
+      },
+      "range": [0, {"signal": "concat_2_childWidth"}],
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "concat_2_concat_0_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_8", "field": "value"},
+          {"data": "data_9", "field": "value"}
+        ]
+      },
+      "range": [{"signal": "childHeight"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_2_concat_1_x",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_10", "field": "year"},
+          {"data": "data_11", "field": "year"}
+        ]
+      },
+      "range": [0, {"signal": "concat_2_childWidth"}],
+      "nice": true,
+      "zero": false
+    },
+    {
+      "name": "concat_2_concat_1_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {"data": "data_10", "field": "value"},
+          {"data": "data_11", "field": "value"}
+        ]
+      },
+      "range": [{"signal": "childHeight"}, 0],
+      "nice": true,
+      "zero": true
+    }
+  ],
+  "legends": [
+    {
+      "title": "Country",
+      "stroke": "color",
+      "symbolType": "circle",
+      "fill": "color",
+      "encode": {"symbols": {"update": {"opacity": {"value": 1}}}}
+    }
+  ],
+  "config": {
+    "axis": {"gridOpacity": 0.3},
+    "style": {"cell": {"strokeWidth": 0}}
+  }
+}

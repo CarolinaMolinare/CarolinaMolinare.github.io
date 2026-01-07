@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 700,
+  "title": {
+    "text": "Maintained Schools in Wales",
+    "subtitle": "by Sector and Pupils",
+    "fontSize": 25,
+    "font": "Arial"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jhellingsdata/RADataHub/refs/heads/main/MappingWorkshop/geo_data/LAD_WLS_2025_05.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "object_name"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#dbdbdb",
+        "stroke": "#000000",
+        "strokeWidth": 1
+      },
+      "projection": {
+        "type": "mercator"
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/CarolinaMolinare/CarolinaMolinare.github.io/refs/heads/main/PortafolioTask/CC7/wales_schools_coordinates.csv"
+      },
+      "mark": {
+        "type": "circle",
+        "opacity": 0.7,
+        "stroke": "#322d2d",
+        "strokeWidth": 0.5
+      },
+      "projection": {
+        "type": "mercator"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "pupils",
+          "type": "quantitative",
+          "title": "Number of Students",
+          "scale": {
+            "type": "sqrt",
+            "range": [10, 300]
+          },
+          "legend": {
+            "orient": "bottom-left",
+            "direction": "horizontal",
+            "titleLimit": 200,
+            "symbolSize": 200,
+            "labelFontSize": 12,
+            "titleFontSize": 13
+          }
+        },
+        "color": {
+          "field": "sector",
+          "type": "nominal",
+          "title": "Sector",
+          "scale": {
+            "range": ["#5E35B1", "#1E88E5", "#00ACC1", "#FF6F91", "#FFA07A"]
+          },
+          "legend": {
+            "orient": "right",
+            "titleLimit": 200,
+            "symbolSize": 200,
+            "labelFontSize": 14,
+            "titleFontSize": 18
+          }
+        },
+        "tooltip": [
+          {
+            "field": "school_name",
+            "type": "nominal",
+            "title": "School"
+          },
+          {
+            "field": "local_authority",
+            "type": "nominal",
+            "title": "Local Authority"
+          },
+          {
+            "field": "sector",
+            "type": "nominal",
+            "title": "Sector"
+          },
+          {
+            "field": "pupils",
+            "type": "quantitative",
+            "title": "Number of students"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "values": [{}]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "bottom",
+        "dy": 400,
+        "fontSize": 14,
+        "color": "#000000"
+      },
+      "encoding": {
+        "text": {
+          "value": "Source: Data Map Wales Government"
+        }
+      }
+    }
+  ]
+}

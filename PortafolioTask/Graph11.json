@@ -1,0 +1,187 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Unemployment Rate by Gender in Chile (2018-2025)",
+    "subtitle": "Monthly data from Chile's Central Bank",
+    "fontSize": 20,
+    "subtitleFontSize": 14,
+    "anchor": "start",
+    "color": "#333"
+  },
+  "width": 700,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/CarolinaMolinare/CarolinaMolinare.github.io/refs/heads/main/PortafolioTask/unemployment_rate_2018_2025.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "point": false,
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": "Date",
+          "axis": {
+            "format": "%b %Y",
+            "labelAngle": 0,
+            "grid": false,
+            "tickCount": 25
+          }
+        },
+        "y": {
+          "field": "unemployment_rate",
+          "type": "quantitative",
+          "title": "Unemployment Rate (%)",
+          "scale": {
+            "domain": [
+              -2,
+              14
+            ]
+          },
+          "axis": {
+            "grid": true,
+            "gridOpacity": 0.3
+          }
+        },
+        "color": {
+          "field": "gender",
+          "type": "nominal",
+          "title": "Category",
+          "scale": {
+            "domain": [
+              "Men",
+              "Women",
+              "Total"
+            ],
+            "range": [
+              "#6366f1",
+              "#ec4899",
+              "#10b981"
+            ]
+          },
+          "legend": {
+            "orient": "top-right",
+            "titleFontSize": 13,
+            "labelFontSize": 12,
+            "symbolSize": 100,
+            "symbolStrokeWidth": 2
+          }
+        },
+        "strokeWidth": {
+          "condition": {
+            "test": "datum.gender === 'Total'",
+            "value": 3
+          },
+          "value": 2
+        },
+        "tooltip": [
+          {
+            "field": "date",
+            "type": "temporal",
+            "title": "Date",
+            "format": "%B %Y"
+          },
+          {
+            "field": "gender",
+            "type": "nominal",
+            "title": "Category"
+          },
+          {
+            "field": "unemployment_rate",
+            "type": "quantitative",
+            "title": "Unemployment Rate (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "pivot": "gender",
+          "value": "unemployment_rate",
+          "groupby": [
+            "date"
+          ]
+        },
+        {
+          "calculate": "datum.Women - datum.Men",
+          "as": "gender_gap"
+        }
+      ],
+      "mark": {
+        "type": "bar",
+        "opacity": 0.6
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "gender_gap",
+          "type": "quantitative",
+          "title": "Gender Gap (pp)",
+          "axis": {
+            "orient": "right",
+            "grid": false
+          },
+          "scale": {
+            "domain": [
+              -2,
+              14
+            ]
+          }
+        },
+        "color": {
+          "value": "#fbbf24"
+        },
+        "tooltip": [
+          {
+            "field": "date",
+            "type": "temporal",
+            "title": "Date",
+            "format": "%B %Y"
+          },
+          {
+            "field": "gender_gap",
+            "type": "quantitative",
+            "title": "Gender Gap (pp)",
+            "format": ".2f"
+          },
+          {
+            "field": "Women",
+            "type": "quantitative",
+            "title": "Women Rate (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "Men",
+            "type": "quantitative",
+            "title": "Men Rate (%)",
+            "format": ".1f"
+          }
+        ]
+      }
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    },
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 13,
+      "titleColor": "#555"
+    }
+  }
+}
