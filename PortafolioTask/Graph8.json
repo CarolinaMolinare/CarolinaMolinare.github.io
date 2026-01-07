@@ -16,6 +16,7 @@
       "data": { "values": [{}] },
       "mark": {
         "type": "rect",
+        "stroke": null,
         "fill": {
           "gradient": "radial",
           "stops": [
@@ -33,19 +34,25 @@
     },
 
     {
-      "mark": { "type": "rule", "strokeWidth": 2, "color": "black" },
+      "mark": { "type": "rule", "strokeWidth": 2, "color": "#1b65aa" },
       "encoding": { "y": { "value": 1 }, "x": { "value": 150 }, "x2": { "value": 350 } }
     },
     {
-      "mark": { "type": "text", "fontSize": 24, "fontWeight": "bold", "align": "center" },
+      "mark": {
+        "type": "text",
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "align": "center",
+        "color": "#1b65aa"
+      },
       "encoding": { "x": { "value": 250 }, "y": { "value": 20 }, "text": { "value": "DELINQUENCY" } }
     },
     {
-      "mark": { "type": "rule", "strokeWidth": 2, "color": "black" },
+      "mark": { "type": "rule", "strokeWidth": 2, "color": "#1b65aa" },
       "encoding": { "y": { "value": 35 }, "x": { "value": 150 }, "x2": { "value": 350 } }
     },
     {
-      "mark": { "type": "text", "fontSize": 11, "align": "center", "color": "#666" },
+      "mark": { "type": "text", "fontSize": 11, "align": "center", "color": "#1b65aa" },
       "encoding": {
         "x": { "value": 250 },
         "y": { "value": 50 },
@@ -74,7 +81,7 @@
           "type": "nominal",
           "scale": {
             "domain": ["2010", "2013", "2016"],
-            "range": ["#E74C3C", "#5B9BD5", "#E74C3C"]
+            "range": ["#E74C3C", "#1b65aa", "#E74C3C"]
           },
           "legend": null
         }
@@ -88,7 +95,7 @@
         "y": { "value": 205 },
         "text": { "field": "Year" },
         "color": {
-          "condition": [{ "test": "datum.Year === '2013'", "value": "#5B9BD5" }],
+          "condition": [{ "test": "datum.Year === '2013'", "value": "#1b65aa" }],
           "value": "#E74C3C"
         }
       }
@@ -107,7 +114,7 @@
     },
 
     {
-      "mark": { "type": "text", "align": "left", "baseline": "bottom", "fontSize": 10, "color": "#000000" },
+      "mark": { "type": "text", "align": "left", "baseline": "bottom", "fontSize": 10, "color": "#1b65aa" },
       "encoding": {
         "x": { "value": 10 },
         "y": { "value": 235 },

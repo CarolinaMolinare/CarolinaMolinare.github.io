@@ -27,7 +27,7 @@
           "title": "Date",
           "axis": {
             "format": "%b %Y",
-            "labelAngle": 0,
+            "labelAngle": -45,
             "grid": false,
             "tickCount": 25
           }

@@ -1,60 +1,81 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "text": "Fertility Rate in OECD countries 2023",
-    "fontSize": 14,
-    "anchor": "start",
-    "subtitle": "Source: World Bank Indicators",
-    "subtitleFontSize": 11,
-    "subtitleColor": "#666"
+  "config": {
+    "view": { "stroke": "transparent" },
+    "concat": { "spacing": 10 }
   },
-  "width": 700,
-  "height": 400,
-  "data": {
-    "url": "https://raw.githubusercontent.com/CarolinaMolinare/CarolinaMolinare.github.io/refs/heads/main/PortafolioTask/Figure3.csv",
-    "format": {
-      "type": "dsv",
-      "delimiter": ";"
-    }
-  },
-  "mark": {
-    "type": "bar"
-  },
-  "encoding": {
-    "x": {
-      "field": "Country",
-      "type": "nominal",
-      "title": "Country",
-      "sort": "-y",
-      "axis": {
-        "labelAngle": -45,
-        "labelAlign": "right"
-      }
-    },
-    "y": {
-      "field": "Fertility rate",
-      "type": "quantitative",
-      "title": "Fertility Rate",
-      "scale": {
-        "domain": [0, 3]
-      }
-    },
-    "color": {
-      "condition": [
-      {
-        "test": "datum['Country'] == 'Chile'",
-        "value": "#74B9FF"
+  "vconcat": [
+    {
+      "title": {
+        "text": "Fertility Rate in OECD countries 2023",
+        "fontSize": 18,
+        "anchor": "start",
+        "subtitle": "",
+        "subtitleFontSize": 14,
+        "subtitleColor": "#666"
       },
-      {
-      "test": "datum['Country'] == 'OECD average'",
-      "value": "#27AE60"
-      }
+      "width": 700,
+      "height": 400,
+      "data": {
+        "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA;OED/indicator/SP.DYN.TFRT.IN?format=json&per_page=20000&date=2023",
+        "format": { "type": "json", "property": "[1]" }
+      },
+      "transform": [
+        { "calculate": "datum.country.value", "as": "Country" },
+        { "calculate": "datum.value", "as": "fertility_rate" },
+        { "filter": "isValid(datum.fertility_rate)" }
       ],
-      "value": "#A8E6CF"
+      "mark": { "type": "bar" },
+      "encoding": {
+        "x": {
+          "field": "Country",
+          "type": "nominal",
+          "title": " ",
+          "sort": "-y",
+          "axis": { "labelAngle": -45, "labelAlign": "right" }
+        },
+        "y": {
+          "field": "fertility_rate",
+          "type": "quantitative",
+          "title": "Births per woman",
+          "scale": { "domain": [0, 3] }
+        },
+        "color": {
+          "condition": [
+            { "test": "datum.Country == 'Chile'", "value": "#74B9FF" },
+            { "test": "datum.Country == 'OECD members'", "value": "#27AE60" }
+          ],
+          "value": "#A8E6CF"
+        },
+        "tooltip": [
+          { "field": "Country", "type": "nominal", "title": "Country" },
+          {
+            "field": "fertility_rate",
+            "type": "quantitative",
+            "title": "Fertility Rate",
+            "format": ".2f"
+          }
+        ]
+      }
     },
-    "tooltip": [
-      {"field": "Country", "type": "nominal", "title": "Country"},
-      {"field": "Fertility rate", "type": "quantitative", "title": "Fertility Rate", "format": ".2f"}
-    ]
-  }
+    {
+      "width": 700,
+      "height": 18,
+      "data": { "values": [{ "source": "Source: World Development Indicators (WDI)" }] },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "top",
+        "fontSize": 12,
+        "color": "gray",
+        "fontWeight": "normal"
+      },
+      "encoding": {
+        "text": { "field": "source" },
+        "x": { "value": 0 },
+        "y": { "value": 0 }
+      },
+      "view": { "stroke": "transparent" }
+    }
+  ]
 }
