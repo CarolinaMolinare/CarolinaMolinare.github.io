@@ -1,0 +1,299 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 380,
+      "continuousHeight": 300
+    }
+  },
+  "data": {
+    "name": "data-0df71d8bd08e3139b773ac0d7ddd74e0"
+  },
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "color": {
+      "field": "country",
+      "legend": {
+        "title": "Country"
+      },
+      "scale": {
+        "domain": [
+          "Chile",
+          "OECD"
+        ],
+        "range": [
+          "#ec4899",
+          "#94a3b8"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "axis": {
+        "format": "d"
+      },
+      "field": "year",
+      "title": "Year",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "value",
+      "title": "Constant 2021 International $",
+      "type": "quantitative"
+    }
+  },
+  "height": 220,
+  "title": {
+    "text": "GDP per Capita (PPP)",
+    "subtitle": "Constant 2021 International $",
+    "fontSize": 14
+  },
+  "width": 350,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json",
+  "datasets": {
+    "data-0df71d8bd08e3139b773ac0d7ddd74e0": [
+      {
+        "year": 2000,
+        "value": 17525.2717273479,
+        "country": "Chile"
+      },
+      {
+        "year": 2000,
+        "value": 40100.0736635285,
+        "country": "OECD"
+      },
+      {
+        "year": 2001,
+        "value": 40359.7742955811,
+        "country": "OECD"
+      },
+      {
+        "year": 2001,
+        "value": 17870.3008332711,
+        "country": "Chile"
+      },
+      {
+        "year": 2002,
+        "value": 18240.2015602857,
+        "country": "Chile"
+      },
+      {
+        "year": 2002,
+        "value": 40691.7246907504,
+        "country": "OECD"
+      },
+      {
+        "year": 2003,
+        "value": 41219.2890851893,
+        "country": "OECD"
+      },
+      {
+        "year": 2003,
+        "value": 18902.8708740806,
+        "country": "Chile"
+      },
+      {
+        "year": 2004,
+        "value": 19961.9835794233,
+        "country": "Chile"
+      },
+      {
+        "year": 2004,
+        "value": 42284.8711664127,
+        "country": "OECD"
+      },
+      {
+        "year": 2005,
+        "value": 43196.3601762154,
+        "country": "OECD"
+      },
+      {
+        "year": 2005,
+        "value": 20918.5275760681,
+        "country": "Chile"
+      },
+      {
+        "year": 2006,
+        "value": 21968.5375355854,
+        "country": "Chile"
+      },
+      {
+        "year": 2006,
+        "value": 44265.6201666808,
+        "country": "OECD"
+      },
+      {
+        "year": 2007,
+        "value": 45160.7672425496,
+        "country": "OECD"
+      },
+      {
+        "year": 2007,
+        "value": 22878.8834428789,
+        "country": "Chile"
+      },
+      {
+        "year": 2008,
+        "value": 23509.7816931441,
+        "country": "Chile"
+      },
+      {
+        "year": 2008,
+        "value": 45022.4637924216,
+        "country": "OECD"
+      },
+      {
+        "year": 2009,
+        "value": 43146.9846734134,
+        "country": "OECD"
+      },
+      {
+        "year": 2009,
+        "value": 23013.5817893814,
+        "country": "Chile"
+      },
+      {
+        "year": 2010,
+        "value": 24116.7694715614,
+        "country": "Chile"
+      },
+      {
+        "year": 2010,
+        "value": 44163.5000019848,
+        "country": "OECD"
+      },
+      {
+        "year": 2011,
+        "value": 44837.8963217335,
+        "country": "OECD"
+      },
+      {
+        "year": 2011,
+        "value": 25366.2690249825,
+        "country": "Chile"
+      },
+      {
+        "year": 2012,
+        "value": 26670.4971338402,
+        "country": "Chile"
+      },
+      {
+        "year": 2012,
+        "value": 45146.1602478401,
+        "country": "OECD"
+      },
+      {
+        "year": 2013,
+        "value": 45604.6500774203,
+        "country": "OECD"
+      },
+      {
+        "year": 2013,
+        "value": 27291.3576525957,
+        "country": "Chile"
+      },
+      {
+        "year": 2014,
+        "value": 27505.0495524158,
+        "country": "Chile"
+      },
+      {
+        "year": 2014,
+        "value": 46327.0750560206,
+        "country": "OECD"
+      },
+      {
+        "year": 2015,
+        "value": 47222.4264143199,
+        "country": "OECD"
+      },
+      {
+        "year": 2015,
+        "value": 27811.3745158617,
+        "country": "Chile"
+      },
+      {
+        "year": 2016,
+        "value": 27958.7284996682,
+        "country": "Chile"
+      },
+      {
+        "year": 2016,
+        "value": 47815.3606829439,
+        "country": "OECD"
+      },
+      {
+        "year": 2017,
+        "value": 48824.2005087167,
+        "country": "OECD"
+      },
+      {
+        "year": 2017,
+        "value": 27892.9946862827,
+        "country": "Chile"
+      },
+      {
+        "year": 2018,
+        "value": 28492.6611456515,
+        "country": "Chile"
+      },
+      {
+        "year": 2018,
+        "value": 49687.0078076748,
+        "country": "OECD"
+      },
+      {
+        "year": 2019,
+        "value": 50306.6814679338,
+        "country": "OECD"
+      },
+      {
+        "year": 2019,
+        "value": 28218.5343879081,
+        "country": "Chile"
+      },
+      {
+        "year": 2020,
+        "value": 26248.5616432825,
+        "country": "Chile"
+      },
+      {
+        "year": 2020,
+        "value": 48089.3143059651,
+        "country": "OECD"
+      },
+      {
+        "year": 2021,
+        "value": 50955.6018382245,
+        "country": "OECD"
+      },
+      {
+        "year": 2021,
+        "value": 29089.850459728,
+        "country": "Chile"
+      },
+      {
+        "year": 2022,
+        "value": 29569.4775527937,
+        "country": "Chile"
+      },
+      {
+        "year": 2022,
+        "value": 52344.6903615246,
+        "country": "OECD"
+      },
+      {
+        "year": 2023,
+        "value": 52929.4284227082,
+        "country": "OECD"
+      },
+      {
+        "year": 2023,
+        "value": 29563.6780243659,
+        "country": "Chile"
+      }
+    ]
+  }
+}

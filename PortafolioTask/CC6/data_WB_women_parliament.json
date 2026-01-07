@@ -1,0 +1,798 @@
+{
+    "indicator": "Women in national parliaments (%)",
+    "indicator_code": "SG.GEN.PARL.ZS",
+    "countries": {
+        "Chile": [
+            {
+                "page": 1,
+                "pages": 1,
+                "per_page": 500,
+                "total": 24,
+                "sourceid": "2",
+                "lastupdated": "2025-12-19"
+            },
+            [
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2023",
+                    "value": 35.4838709677419,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2022",
+                    "value": 35.4838709677419,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2021",
+                    "value": 35.4838709677419,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2020",
+                    "value": 22.5806451612903,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2019",
+                    "value": 22.5806451612903,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2018",
+                    "value": 22.5806451612903,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2017",
+                    "value": null,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2016",
+                    "value": 15.8333333333333,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2015",
+                    "value": 15.8333333333333,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2014",
+                    "value": 15.8333333333333,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2013",
+                    "value": 15.8333333333333,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2012",
+                    "value": 14.1666666666667,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2011",
+                    "value": 14.1666666666667,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2010",
+                    "value": 14.1666666666667,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2009",
+                    "value": 14.1666666666667,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2008",
+                    "value": 15,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2007",
+                    "value": 15,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2006",
+                    "value": 15,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2005",
+                    "value": 15,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2004",
+                    "value": 12.5,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2003",
+                    "value": 12.5,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2002",
+                    "value": 12.5,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2001",
+                    "value": 10.8333333333333,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "CL",
+                        "value": "Chile"
+                    },
+                    "countryiso3code": "CHL",
+                    "date": "2000",
+                    "value": 10.8333333333333,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                }
+            ]
+        ],
+        "OECD": [
+            {
+                "page": 1,
+                "pages": 1,
+                "per_page": 500,
+                "total": 24,
+                "sourceid": "2",
+                "lastupdated": "2025-12-19"
+            },
+            [
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2023",
+                    "value": 32.8286373207661,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2022",
+                    "value": 32.5221238938053,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2021",
+                    "value": 32.4234092694423,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2020",
+                    "value": 31.4990138067061,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2019",
+                    "value": 30.8018124507486,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2018",
+                    "value": 29.8748645186718,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2017",
+                    "value": 28.8716814159292,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2016",
+                    "value": 27.9655931186237,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2015",
+                    "value": 27.8432940235859,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2014",
+                    "value": 26.7909027151588,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2013",
+                    "value": 26.1656502065709,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2012",
+                    "value": 25.0270749236979,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2011",
+                    "value": 23.9637688293788,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2010",
+                    "value": 23.1670111209527,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2009",
+                    "value": 23.0875258442453,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2008",
+                    "value": 22.38864800946,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2007",
+                    "value": 22.2375554460325,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2006",
+                    "value": 21.0998324627969,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2005",
+                    "value": 20.6988451288126,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2004",
+                    "value": 20.0886560548056,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2003",
+                    "value": 19.506881869492,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2002",
+                    "value": 19.2410190811214,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2001",
+                    "value": 17.728334857259,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                },
+                {
+                    "indicator": {
+                        "id": "SG.GEN.PARL.ZS",
+                        "value": "Proportion of seats held by women in national parliaments (%)"
+                    },
+                    "country": {
+                        "id": "OE",
+                        "value": "OECD members"
+                    },
+                    "countryiso3code": "OED",
+                    "date": "2000",
+                    "value": 18.0485717342463,
+                    "unit": "",
+                    "obs_status": "",
+                    "decimal": 0
+                }
+            ]
+        ]
+    }
+}

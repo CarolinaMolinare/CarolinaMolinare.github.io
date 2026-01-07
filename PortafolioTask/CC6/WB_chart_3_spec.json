@@ -1,0 +1,294 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 380,
+      "continuousHeight": 300
+    }
+  },
+  "data": {
+    "name": "data-54d6ab1b2fdd3713c933e2776fefe857"
+  },
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "color": {
+      "field": "country",
+      "legend": {
+        "title": "Country"
+      },
+      "scale": {
+        "domain": [
+          "Chile",
+          "OECD"
+        ],
+        "range": [
+          "#8b5cf6",
+          "#94a3b8"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "axis": {
+        "format": "d"
+      },
+      "field": "year",
+      "title": "Year",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "value",
+      "title": "% of Seats",
+      "type": "quantitative"
+    }
+  },
+  "height": 220,
+  "title": {
+    "text": "Women in Parliament",
+    "subtitle": "% of Seats",
+    "fontSize": 14
+  },
+  "width": 350,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json",
+  "datasets": {
+    "data-54d6ab1b2fdd3713c933e2776fefe857": [
+      {
+        "year": 2000,
+        "value": 10.8333333333333,
+        "country": "Chile"
+      },
+      {
+        "year": 2000,
+        "value": 18.0485717342463,
+        "country": "OECD"
+      },
+      {
+        "year": 2001,
+        "value": 17.728334857259,
+        "country": "OECD"
+      },
+      {
+        "year": 2001,
+        "value": 10.8333333333333,
+        "country": "Chile"
+      },
+      {
+        "year": 2002,
+        "value": 12.5,
+        "country": "Chile"
+      },
+      {
+        "year": 2002,
+        "value": 19.2410190811214,
+        "country": "OECD"
+      },
+      {
+        "year": 2003,
+        "value": 19.506881869492,
+        "country": "OECD"
+      },
+      {
+        "year": 2003,
+        "value": 12.5,
+        "country": "Chile"
+      },
+      {
+        "year": 2004,
+        "value": 12.5,
+        "country": "Chile"
+      },
+      {
+        "year": 2004,
+        "value": 20.0886560548056,
+        "country": "OECD"
+      },
+      {
+        "year": 2005,
+        "value": 20.6988451288126,
+        "country": "OECD"
+      },
+      {
+        "year": 2005,
+        "value": 15.0,
+        "country": "Chile"
+      },
+      {
+        "year": 2006,
+        "value": 15.0,
+        "country": "Chile"
+      },
+      {
+        "year": 2006,
+        "value": 21.0998324627969,
+        "country": "OECD"
+      },
+      {
+        "year": 2007,
+        "value": 22.2375554460325,
+        "country": "OECD"
+      },
+      {
+        "year": 2007,
+        "value": 15.0,
+        "country": "Chile"
+      },
+      {
+        "year": 2008,
+        "value": 15.0,
+        "country": "Chile"
+      },
+      {
+        "year": 2008,
+        "value": 22.38864800946,
+        "country": "OECD"
+      },
+      {
+        "year": 2009,
+        "value": 23.0875258442453,
+        "country": "OECD"
+      },
+      {
+        "year": 2009,
+        "value": 14.1666666666667,
+        "country": "Chile"
+      },
+      {
+        "year": 2010,
+        "value": 14.1666666666667,
+        "country": "Chile"
+      },
+      {
+        "year": 2010,
+        "value": 23.1670111209527,
+        "country": "OECD"
+      },
+      {
+        "year": 2011,
+        "value": 23.9637688293788,
+        "country": "OECD"
+      },
+      {
+        "year": 2011,
+        "value": 14.1666666666667,
+        "country": "Chile"
+      },
+      {
+        "year": 2012,
+        "value": 14.1666666666667,
+        "country": "Chile"
+      },
+      {
+        "year": 2012,
+        "value": 25.0270749236979,
+        "country": "OECD"
+      },
+      {
+        "year": 2013,
+        "value": 26.1656502065709,
+        "country": "OECD"
+      },
+      {
+        "year": 2013,
+        "value": 15.8333333333333,
+        "country": "Chile"
+      },
+      {
+        "year": 2014,
+        "value": 15.8333333333333,
+        "country": "Chile"
+      },
+      {
+        "year": 2014,
+        "value": 26.7909027151588,
+        "country": "OECD"
+      },
+      {
+        "year": 2015,
+        "value": 27.8432940235859,
+        "country": "OECD"
+      },
+      {
+        "year": 2015,
+        "value": 15.8333333333333,
+        "country": "Chile"
+      },
+      {
+        "year": 2016,
+        "value": 27.9655931186237,
+        "country": "OECD"
+      },
+      {
+        "year": 2016,
+        "value": 15.8333333333333,
+        "country": "Chile"
+      },
+      {
+        "year": 2017,
+        "value": 28.8716814159292,
+        "country": "OECD"
+      },
+      {
+        "year": 2018,
+        "value": 29.8748645186718,
+        "country": "OECD"
+      },
+      {
+        "year": 2018,
+        "value": 22.5806451612903,
+        "country": "Chile"
+      },
+      {
+        "year": 2019,
+        "value": 22.5806451612903,
+        "country": "Chile"
+      },
+      {
+        "year": 2019,
+        "value": 30.8018124507486,
+        "country": "OECD"
+      },
+      {
+        "year": 2020,
+        "value": 31.4990138067061,
+        "country": "OECD"
+      },
+      {
+        "year": 2020,
+        "value": 22.5806451612903,
+        "country": "Chile"
+      },
+      {
+        "year": 2021,
+        "value": 35.4838709677419,
+        "country": "Chile"
+      },
+      {
+        "year": 2021,
+        "value": 32.4234092694423,
+        "country": "OECD"
+      },
+      {
+        "year": 2022,
+        "value": 32.5221238938053,
+        "country": "OECD"
+      },
+      {
+        "year": 2022,
+        "value": 35.4838709677419,
+        "country": "Chile"
+      },
+      {
+        "year": 2023,
+        "value": 35.4838709677419,
+        "country": "Chile"
+      },
+      {
+        "year": 2023,
+        "value": 32.8286373207661,
+        "country": "OECD"
+      }
+    ]
+  }
+}

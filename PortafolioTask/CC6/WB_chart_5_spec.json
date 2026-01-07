@@ -1,0 +1,294 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 380,
+      "continuousHeight": 300
+    }
+  },
+  "data": {
+    "name": "data-d14950faeaff05bb1434bdf7927b5169"
+  },
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "color": {
+      "field": "country",
+      "legend": {
+        "title": "Country"
+      },
+      "scale": {
+        "domain": [
+          "Chile",
+          "OECD"
+        ],
+        "range": [
+          "#10b981",
+          "#94a3b8"
+        ]
+      },
+      "type": "nominal"
+    },
+    "x": {
+      "axis": {
+        "format": "d"
+      },
+      "field": "year",
+      "title": "Year",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "value",
+      "title": "% Gross Enrollment",
+      "type": "quantitative"
+    }
+  },
+  "height": 220,
+  "title": {
+    "text": "Tertiary Education Enrollment",
+    "subtitle": "% Gross Enrollment",
+    "fontSize": 14
+  },
+  "width": 350,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json",
+  "datasets": {
+    "data-d14950faeaff05bb1434bdf7927b5169": [
+      {
+        "year": 2000,
+        "value": 35.4313201904297,
+        "country": "Chile"
+      },
+      {
+        "year": 2000,
+        "value": 52.5736885070801,
+        "country": "OECD"
+      },
+      {
+        "year": 2001,
+        "value": 54.7479782104492,
+        "country": "OECD"
+      },
+      {
+        "year": 2002,
+        "value": 40.2664985656738,
+        "country": "Chile"
+      },
+      {
+        "year": 2002,
+        "value": 57.0971183776855,
+        "country": "OECD"
+      },
+      {
+        "year": 2003,
+        "value": 58.7679901123047,
+        "country": "OECD"
+      },
+      {
+        "year": 2003,
+        "value": 43.5181999206543,
+        "country": "Chile"
+      },
+      {
+        "year": 2004,
+        "value": 44.3284606933594,
+        "country": "Chile"
+      },
+      {
+        "year": 2004,
+        "value": 60.0452499389648,
+        "country": "OECD"
+      },
+      {
+        "year": 2005,
+        "value": 50.2735595703125,
+        "country": "Chile"
+      },
+      {
+        "year": 2005,
+        "value": 60.9480895996094,
+        "country": "OECD"
+      },
+      {
+        "year": 2006,
+        "value": 62.3033905029297,
+        "country": "OECD"
+      },
+      {
+        "year": 2006,
+        "value": 49.3216896057129,
+        "country": "Chile"
+      },
+      {
+        "year": 2007,
+        "value": 63.0849990844727,
+        "country": "OECD"
+      },
+      {
+        "year": 2007,
+        "value": 54.7230491638184,
+        "country": "Chile"
+      },
+      {
+        "year": 2008,
+        "value": 56.7743988037109,
+        "country": "Chile"
+      },
+      {
+        "year": 2008,
+        "value": 63.6964912414551,
+        "country": "OECD"
+      },
+      {
+        "year": 2009,
+        "value": 59.9912910461426,
+        "country": "Chile"
+      },
+      {
+        "year": 2009,
+        "value": 65.258903503418,
+        "country": "OECD"
+      },
+      {
+        "year": 2010,
+        "value": 66.3445205688477,
+        "country": "Chile"
+      },
+      {
+        "year": 2010,
+        "value": 66.7914505004883,
+        "country": "OECD"
+      },
+      {
+        "year": 2011,
+        "value": 67.871696472168,
+        "country": "OECD"
+      },
+      {
+        "year": 2011,
+        "value": 70.8241806030273,
+        "country": "Chile"
+      },
+      {
+        "year": 2012,
+        "value": 68.917236328125,
+        "country": "OECD"
+      },
+      {
+        "year": 2012,
+        "value": 75.0770721435547,
+        "country": "Chile"
+      },
+      {
+        "year": 2013,
+        "value": 79.8703384399414,
+        "country": "Chile"
+      },
+      {
+        "year": 2013,
+        "value": 69.910758972168,
+        "country": "OECD"
+      },
+      {
+        "year": 2014,
+        "value": 70.9062423706055,
+        "country": "OECD"
+      },
+      {
+        "year": 2014,
+        "value": 83.6629791259766,
+        "country": "Chile"
+      },
+      {
+        "year": 2015,
+        "value": 72.0236282348633,
+        "country": "OECD"
+      },
+      {
+        "year": 2015,
+        "value": 86.4181137084961,
+        "country": "Chile"
+      },
+      {
+        "year": 2016,
+        "value": 73.9402770996094,
+        "country": "OECD"
+      },
+      {
+        "year": 2016,
+        "value": 88.8458862304688,
+        "country": "Chile"
+      },
+      {
+        "year": 2017,
+        "value": 89.921989440918,
+        "country": "Chile"
+      },
+      {
+        "year": 2017,
+        "value": 74.7901000976562,
+        "country": "OECD"
+      },
+      {
+        "year": 2018,
+        "value": 75.4892120361328,
+        "country": "OECD"
+      },
+      {
+        "year": 2018,
+        "value": 91.1974792480469,
+        "country": "Chile"
+      },
+      {
+        "year": 2019,
+        "value": 92.0659713745117,
+        "country": "Chile"
+      },
+      {
+        "year": 2019,
+        "value": 76.4273910522461,
+        "country": "OECD"
+      },
+      {
+        "year": 2020,
+        "value": 77.2700805664062,
+        "country": "OECD"
+      },
+      {
+        "year": 2020,
+        "value": 89.1124877929688,
+        "country": "Chile"
+      },
+      {
+        "year": 2021,
+        "value": 96.2227935791016,
+        "country": "Chile"
+      },
+      {
+        "year": 2021,
+        "value": 78.8566436767578,
+        "country": "OECD"
+      },
+      {
+        "year": 2022,
+        "value": 78.3904876708984,
+        "country": "OECD"
+      },
+      {
+        "year": 2022,
+        "value": 99.3372802734375,
+        "country": "Chile"
+      },
+      {
+        "year": 2023,
+        "value": 104.734062194824,
+        "country": "Chile"
+      },
+      {
+        "year": 2023,
+        "value": 79.5250930786133,
+        "country": "OECD"
+      }
+    ]
+  }
+}
