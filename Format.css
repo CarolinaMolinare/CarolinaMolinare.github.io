@@ -179,7 +179,7 @@ h2{
 .chip{
   display:inline-flex;
   align-items:center;
-  justify-content:center;
+  justify-content: center;
   gap:8px;
   padding:10px 14px;
   border-radius:999px;

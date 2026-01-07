@@ -36,7 +36,7 @@
       </p>
 
       <p>
-        But how did we get here? And what does this crisis look like when we zoom in across different dimensions—over time,
+        But how did we get here? And what does this crisis look like when we zoom in across different dimensions, such as, over time,
         across age groups, across regions within Chile, and in comparison to international benchmarks?
       </p>
     </div>
@@ -44,9 +44,9 @@
     <h2>International context</h2>
 
     <p class="chart-caption">
-      Fertility decline is not new in Chile, but the pace of the recent drop is striking. This chart pulls the total fertility
-      rate series directly from the <strong>World Bank’s WDI API</strong> (1960–2023), so the visualization is reproducible and
-      automatically linked to the underlying source. Chile is shown against World Bank income-group aggregates.
+      Fertility decline is not a new phenomenon in Chile, but the recent pace of decline is striking. 
+      This chart pulls the fertility rate series directly from the <strong>World Bank’s WDI API</strong> (1960–2023), so the visualization is reproducible and automatically linked to the underlying source. 
+      Chile is shown against World Bank income-group aggregates. While all groups show decline, Chile has fallen faster and further. 
       Hovering over a year reveals the exact values for all groups in a single consolidated tooltip.
     </p>
 
@@ -67,14 +67,14 @@
     </div>
 
     <p class="chart-caption">
-      To show how severe Chile’s situation is in 2023, fertility rates are benchmarked against other OECD countries.
-      While Chile already has preliminary data for 2024, year 2023 is used here because it is the latest year that is broadly
-      comparable across OECD members. The data come directly from the <strong>World Bank’s WDI API</strong>.
+      Chart 2 compares Chile's fertility rates with those of other OECD countries to illustrate the country’s challenging situation.
+      While Chile already has preliminary data for 2024, the year 2023 is used here because it is the latest year that is broadly comparable across OECD members. 
+      The data comes directly from the <strong>World Bank’s WDI API</strong>.
     </p>
 
     <p class="chart-caption">
-      Chile sits near the bottom of the distribution. South Korea is the clear extreme case, but Chile remains among the
-      lowest-fertility countries in the OECD.
+      Chile sits near the bottom of the distribution. South Korea is the clear extreme case, but Chile remains among the lowest-fertility countries in the OECD. 
+      This is particularly striking, given that Chile’s GDP per capita is still below that of most peers with similarly low fertility rates.
     </p>
 
     <div class="chart-block">
@@ -96,14 +96,14 @@
     <h2>Who is (and isn't) having children?</h2>
 
     <p class="chart-caption">
-      Using Chilean birth records from the National Institute of Statistics (INE), this <strong>interactive calculator</strong> is designed to capture changes that are hard to read precisely
-      from a standard line chart. Instead of estimating differences by eye (or calculating them manually), the tool returns the exact percentage change for any
-      age group and any pair of years, computed as <strong><em>(end − start) / start × 100</em></strong>.
+      Using Chilean birth records from the <a href="https://github.com/CarolinaMolinare/CarolinaMolinare.github.io/tree/main/Proyect/Part2" target="_blank" rel="noopener noreferrer"> National Institute of Statistics (INE)</a>, we first visualize the evolution of the Age-Specific Fertility Rate (ASFR)—births per 1,000 women—by age group over time.
+      To make dynamics easier to quantify, we complement the multi-series line chart with an interactive calculator designed to capture changes that are hard to read precisely from a standard plot. 
+      Instead of estimating differences by eye (or calculating them manually), the tool returns the exact percentage change for any age group and any pair of years, computed as <strong><em> (end − start) / start × 100</em></strong>.
     </p>
 
     <p class="chart-caption">
-      The figure combines a multi-series line chart with a separate “calculator panel” that performs the year-to-year lookup and calculation,
-      stitched into a single interactive view so the selections update both the highlighted line and the calculated result.
+      The figure integrates both elements into a single interactive view: a line chart displaying ASFR trajectories by age group, and a separate “calculator panel” that performs the year-to-year lookup and calculation.
+      User selections update both the highlighted series and the computed result.
     </p>
 
     <p class="chart-caption">
@@ -132,13 +132,13 @@
     </div>
 
     <p class="chart-caption">
-      This chart complements the age-specific rates by showing how the distribution of births has shifted across age groups.
-      By 2024, 30–34 accounts for the largest share. This is not “postponement only”: declines at younger ages are not fully offset later.
+      Chart 4 complements the Age-Specific Fertility Rates by showing how the distribution of births has shifted across age groups. 
+      In 1992, more than half of births were to women under 30; by 2024, this pattern had reversed, with over 50% of births occurring to women aged 30 and above, and women aged 30–34 accounting for the largest share. 
     </p>
 
     <p class="chart-caption">
-      The percentages shown were constructed in the underlying dataset. In Vega-Lite, the data are reshaped with a fold transform and
-      the stacked bars are normalised so each year sums to 100%.
+      The percentages shown were constructed from the underlying INE birth-record data in the dataset (replication files available <a href="https://github.com/CarolinaMolinare/CarolinaMolinare.github.io/tree/main/Proyect/Part2" target="_blank" rel="noopener noreferrer">here</a>). 
+      In Vega-Lite, the data are reshaped using a fold transform, and the stacked bars are normalized so each year sums to 100%.
     </p>
 
     <div class="chart-block">
@@ -160,16 +160,17 @@
     <h2>The territorial dimension</h2>
 
     <p class="chart-caption">
-      Fertility trends also have a spatial dimension. The map shows the number of births across Chilean regions by year.
+      Fertility trends also have a spatial dimension. Map 1 shows the number of births across Chilean regions by year from 2010 to 2022, using the INE's data available
+    <a href="https://github.com/CarolinaMolinare/CarolinaMolinare.github.io/tree/main/Proyect/Part3/Original%20Data" target="_blank" rel="noopener noreferrer">here</a>.
     </p>
 
     <p class="chart-caption">
-      The Región Metropolitana dominates: because its birth counts are much higher than other regions, it is displayed using a separate blue scale.
-      The rest of the country uses a green scale so regional variation remains visible rather than being compressed.
+      The Metropolitana region dominates because its birth counts are much higher than those of other regions, and it is displayed using a separate blue scale.
+      The rest of the country uses a green scale, so regional variation remains visible rather than being compressed.
     </p>
 
     <p class="chart-caption">
-      The slider shows a key point: births are declining across <em>every</em> region. This is not only a Santiago phenomenon—the crisis is national.
+      The slider shows a key point: births are declining across every region. This is not only a Santiago phenomenon, but the crisis is also national in scope.
     </p>
 
     <p class="chart-caption">
@@ -198,21 +199,21 @@
       </a>
     </div>
 
-    <h2>Labor market status</h2>
+    <h2>Labour market status</h2>
 
     <p class="chart-caption">
-      This final chart adds a labour-market lens to the fertility story. Using INE vital statistics (2010–2022), it shows the
-      <strong>share of births</strong> to mothers recorded as <strong>economically active</strong> versus <strong>inactive</strong> each year.
+      This final chart adds a labour-market lens to the fertility story. Using INE data (2010–2022) available <a href="https://github.com/CarolinaMolinare/CarolinaMolinare.github.io/tree/main/Proyect/Part3/Original%20Data" target="_blank" rel="noopener noreferrer">here</a>,
+      it shows the annual share of births to mothers recorded as economically active versus inactive.
     </p>
 
     <p class="chart-caption">
-      “Not specified” (NA) cases are excluded so shares are computed only over births with recorded labour-market status.
-      A consolidated hover tooltip reports both shares year-by-year, with a vertical rule to support reading.
+      “Not specified” (NA) cases are excluded, so shares are computed only over births with recorded labour-market status.
+      A consolidated hover tooltip reports both shares year by year, with a vertical rule to support easy reading.
     </p>
 
     <p class="chart-caption">
-      The takeaway is compositional: over time, a larger share of births is associated with active mothers. The chart does not measure the level
-      of births directly, but it highlights how the profile of motherhood has shifted alongside the broader fertility decline.
+       The takeaway is that compositional changes occur over time; a larger share of births is associated with mothers who are actively involved in the labour market.
+       The chart does not directly measure the level of births, but it highlights how the profile of motherhood has shifted in tandem with the broader decline in fertility.
     </p>
 
     <div class="chart-block">
@@ -241,7 +242,7 @@
 
     <p>
       Understanding how this crisis has evolved—across time, space, and demographics—is a first step toward designing evidence-based responses.
-      Data and code are publicly available on GitHub, and automated API calls ensure the visualizations can be updated as new data become available.
+      Data and code are publicly available on <a href="https://github.com/CarolinaMolinare/CarolinaMolinare.github.io/tree/main/" target="_blank" rel="noopener noreferrer">GitHub</a>, and automated API calls ensure the visualizations can be updated as new data become available.
     </p>
   </div>
 
