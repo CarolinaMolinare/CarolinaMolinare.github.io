@@ -134,7 +134,7 @@
       "height": 18,
       "data": {
         "values": [
-          { "source": "Source: World Bank Indicators (WDI)" }
+          { "source": "Source: World Development Indicators (WDI)" }
         ]
       },
       "mark": {

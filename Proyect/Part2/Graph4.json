@@ -1,10 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "view": { "stroke": "transparent" }
+  },
   "vconcat": [
     {
       "title": {
         "text": "Distribution of Births (1992-2024)",
-        "fontSize": 14,
+        "fontSize": 18,
         "anchor": "start",
         "subtitle": "By age group",
         "subtitleFontSize": 14
@@ -64,21 +67,23 @@
       "height": 22,
       "data": {
         "values": [
-          { "source": "Source: Vital Statistics, National Institute of Statistics (INE)." }
+          { "source": "Source: Vital Statistics, National Institute of Statistics (INE)" }
         ]
       },
       "mark": {
         "type": "text",
         "align": "left",
         "baseline": "top",
-        "fontSize": 11,
-        "color": "#666"
+        "fontSize": 12,
+        "color": "grey",
+        "fontWeight": "normal"
       },
       "encoding": {
         "x": { "value": 0 },
         "y": { "value": 0 },
         "text": { "field": "source" }
-      }
+      },
+      "view": { "stroke": "transparent" }
     }
   ],
   "spacing": 8

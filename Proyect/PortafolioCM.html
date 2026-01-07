@@ -44,158 +44,11 @@
         <figure id="Location1"></figure>
         <figure id="Location2"></figure> 
          <figure id="Location3"></figure>
-    </section>
-
-    <section>
-        <div class="chart-description">
-            <h2>Section 2: creating my own visualisations</h2>
-            <p> 
-                I create two graphs from <a href=https://www.economicsobservatory.com/explore>Economics Observatory Data Hub</a>
-            </p>
-        </div>
-       
         <figure id="Location4" style="width: 90%; min-height: 400px;"></figure> 
-    </section>
-
-    <section>
-        <div class="chart-description">
-            <h2>Section 3: Using a visualisation in policy commentary</h2>
-            <p> 
-                Some political sectors advocate for health policies that increase public funding for assisted reproduction.
-                This is because the fertility rate is very low in Chile (1.16 children per woman), largely below the OECD average (1.49 children per woman). 
-                Also, women between 30 and 39 represent almost 50% births in the country. 
-                We can see a trend where the decision to become a mother occurs at older ages when pregnancy is riskier.
-            </p>
-        </div>
         <figure id="Location5"></figure>
         <figure id="Location6"></figure>
     </section>
 
-    
-    <section>
-        <div class="chart-description">
-            <h2>Section 4:  Re-creating, someone else’s chart.</h2>
-            <p> 
-                This is the graph that Chilean ex-president Sebastian Piñera shows during an official debate for the presidency about delinquency in Chile.
-                 He used it to argue that, under his previous administration (2010-2013), the crime rate was lower than in other presidential terms. 
-                 However, the figure is a clear example of misleading data visualization: it manipulates the scale to exaggerate differences and make a modest variation appear disproportionately large.
-                 The second graph shows how the same data should be displayed with an appropriate scale—an approach that would have been far less supportive of Piñera’s narrative. 
-                 He ultimately won that election.
-            </p>
-        </div>
-        <div id="Location7">
-            <img src="badgraph.png">
-        </div>
-        <figure id="Location8"></figure>
-        <figure id="Location9"></figure>
-            <p> 
-                The first key change is to show a fully comparable series and clarify that the indicator measures victimization (not delinquency).
-                Importantly, the victimization methodology was updated in 2016, which means the 2010 figure shown by Piñera comes from the old methodology and should not be plotted or compared as if it were equivalent.
-                Using the consistent post-2016 series, the victimization rate varies only modestly over the period.
-            </p>
-    </section>
-
-    <section>
-        <div class="chart-description">
-            <h2>Section 5: accessing data</h2>
-            <p> API
-            </p> 
-
-            <figure id="Location10"></figure>
-            <p> 
-            World Bank Indicators API (V2) follows this structure: https://api.worldbank.org/v2/country/{countries}/indicator/{indicator}?{parameters}<br>
-            
-            Where:<br>
-            
-            - Countries: lic (Low income countries); lmc (Lower middle income countries); mic (Middle income countries); umc (Upper middle income countries); hic (High income countries)<br>
-            - Indicator: SP.DYN.TFRT.IN (Fertility rate, total (births per woman))<br>
-            - Parameters: format=json (Returns data in JSON format); per_page=1000 (per_page=1000); date=1960:2023 (Specifies the time range from 1960 to 2023)<br>
-
-            API: <a href=https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023>https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023</a>
-            </p>
-
-            <p> Scraped Chilean Central Bank unemployment data using pd.read_html with decimal=',' for Spanish format. Transformed wide-format table to tidy long-format using melt and date parsing.
-                <a href=https://colab.research.google.com/drive/1WkR3GgM0iRYRq6zIQ66OQSYdlegeMU7b?usp=sharing>https://colab.research.google.com/drive/1WkR3GgM0iRYRq6zIQ66OQSYdlegeMU7b?usp=sharing</a>
-            </p> 
-            <figure id="Location11"></figure>
-        </div>
-    </section>
-
-
-        <section>
-        <div class="chart-description">
-            <h2>Section 6: Loops</h2>
-            <p> Using a loop to batch download six different series as JSON files from the World Bank API.<br> 
-                Charts compare Chile against OECD average across key development indicators (2000-2023).
-                <a href=https://colab.research.google.com/drive/1PCiZ7otBmgSt4NjAd1yx4JnB9S-cI7M8?usp=sharing>https://colab.research.google.com/drive/1PCiZ7otBmgSt4NjAd1yx4JnB9S-cI7M8?usp=sharing</a>
-                Six different charts are created and individually arranged in the 3x2 grid
-
-            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 20px;">
-                <figure id="Locationchart1"></figure>
-                <figure id="Locationchart2"></figure>
-                <figure id="Locationchart3"></figure>
-                <figure id="Locationchart4"></figure>
-                <figure id="Locationchart5"></figure>
-                <figure id="Locationchart6"></figure>
-             </div>
-        </div>
-    </section>
-
-    <section>
-        <div class="chart-description">
-            <h2>Section 7: maps</h2>
-            <p> 
-                The first map is from Scotland's official statistics provide by the Scottish Government
-                <a href=https://statistics.gov.scot/home>https://statistics.gov.scot/home</a>
-            </p>
-       
-        <figure id="LocationMap1"></figure>
-            <p> 
-                The second map is from Wales's Government Data Map which provide the location of Manintened schools.<br>
-                The location is given in coordinates according to the British National Grid. Therefore, these coordinates must first be converted to latitude and longitude in order to map the database.
-               <a href=https://datamap.gov.wales/layers/geonode:maintained_schools_wg>https://datamap.gov.wales/layers/geonode:maintained_schools_wg</a>
-            </p>
-        <figure id="LocationMap2"></figure>
-        </div>
-    </section>
-    
-    <section>
-        <div class="chart-description">
-            <h2>Section 8: Extracting a story from millions of prices.</h2>
-            <p> 
-                In this section we analyze the price evolution of the components of a typical English breakfast.<br>
-                Chart 1 tracks the average prices of seven English breakfast items from 1995 to 2025, using LRPD data, and reveals significant inflation, particularly after 2022, in products such as bacon and sausage. <br>
-                Chart 2 compares average London English breakfast item prices across 2015, 2020, and 2025, showing that the price increase was higher between 2025 and 2020 than between 2020 and 2015 for most products.
-            </p>
-       
-        <figure id="Location12"></figure>
-        <figure id="Location13"></figure>
-        </div>
-    </section>
-
-    <section>
-        <div class="chart-description">
-            <h2>Section 9: Interactive charts.</h2>
-            <p> 
-           
-            </p>
-       
-        <figure id="Location14"></figure>
-        <figure id="Location15"></figure>
-        </div>
-    </section>
-
-    <section>
-        <div class="chart-description">
-            <h2>Section 10: Advanced Analysis and Machine Learning.</h2>
-            <p> 
-           
-            </p>
-       
-        <figure id="Location16"></figure>
-        <figure id="Location17"></figure>
-        </div>
-    </section>
 
      <script>
         vegaEmbed('#Location1',"Part1/Graph1.json") 
@@ -203,25 +56,8 @@
         vegaEmbed('#Location3',"Part2/SFR_proyect.json")
         vegaEmbed('#Location4',"Part2/Graph4.json") 
         vegaEmbed('#Location5',"Part3/Map_proyect.json") 
-        vegaEmbed('#Location6',"Graph6.json") 
-        vegaEmbed('#Location8',"Graph8.json") 
-        vegaEmbed('#Location9',"Graph9.json") 
-        vegaEmbed('#Location10',"Graph10.json")
-        vegaEmbed('#Location11',"Graph11.json")
-        vegaEmbed('#LocationMap1',"Map1.json") 
-        vegaEmbed('#LocationMap2',"Map2.json")
-        vegaEmbed('#Location12',"CC8/english_breakfast_prices.json")
-        vegaEmbed('#Location13',"CC8/region_english_breakfast_prices.json")
-        vegaEmbed('#Location14',"CC9/births_map_region.json")
-        vegaEmbed('#Location15',"CC9/SFR.json")
-        vegaEmbed('#Location16',"CC10/ECP.json")
-        vegaEmbed('#Location17',"CC10/LRML.json")
-
-
-        // Loop to embed the 6 graphs of Chile vs OECD
-        for (let i = 1; i <= 6; i++) {
-        vegaEmbed(`#Locationchart${i}`, `CC6/WB_chart_${i}_spec.json`);
-        }
+        vegaEmbed('#Location6',"Part3/Graph5.json") 
+   
      </script>
 
 <body> 
