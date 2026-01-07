@@ -47,19 +47,18 @@
     <!-- Section 2 -->
     <section>
       <h2>Section 2: Creating my own visualisations</h2>
-      <p>I create two graphs from <a href="https://www.economicsobservatory.com/explore" target="_blank" rel="noopener">Economics Observatory Data Hub</a></p>
+      <p>I create two graphs from <a href="https://www.economicsobservatory.com/explore" target="_blank" rel="noopener">Economics Observatory Data Hub</a>, using the “create” tool.</p>
       <figure id="Location3"></figure>
-      <figure id="Location4" style="width: 90%; min-height: 400px;"></figure>
+      <figure id="Location4"></figure>
     </section>
 
     <!-- Section 3 -->
     <section>
       <h2>Section 3: Using a visualisation in policy commentary</h2>
       <p>
-        Some political sectors advocate for health policies that increase public funding for assisted reproduction.
-        This is because the fertility rate is very low in Chile (1.16 children per woman), largely below the OECD average (1.49 children per woman).
-        Also, women between 30 and 39 represent almost 50% births in the country.
-        We can see a trend where the decision to become a mother occurs at older ages when pregnancy is riskier.
+        Should Chile expand public funding for assisted reproduction to address very low fertility and a rapid shift of births toward older maternal ages?
+        Chile sits near the bottom of the OECD fertility distribution. Births have also shifted to older ages: by 2024, over half will occur in women aged 30 and above, with the largest group being those aged 30–34.
+        This is directly relevant to funding assisted reproduction, since it targets fertility constraints that become more salient at older maternal ages, where pregnancy is more risky.
       </p>
       <figure id="Location5"></figure>
       <figure id="Location6"></figure>
@@ -93,7 +92,7 @@
     <!-- Section 5 -->
     <section>
       <h2>Section 5: Accessing data</h2>
-      <p><strong>API</strong></p>
+      <p><strong>5.1 API task</strong></p>
 
       <figure id="Location10"></figure>
 
@@ -103,15 +102,17 @@
         - Countries: lic (Low income countries); lmc (Lower middle income countries); mic (Middle income countries); umc (Upper middle income countries); hic (High income countries)<br>
         - Indicator: SP.DYN.TFRT.IN (Fertility rate, total (births per woman))<br>
         - Parameters: format=json (Returns data in JSON format); per_page=1000; date=1960:2023<br><br>
-        API:
+        API used:
         <a href="https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023"
            target="_blank" rel="noopener">
           https://api.worldbank.org/v2/country/lic;lmc;mic;umc;hic/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000&date=1960:2023
         </a>
       </p>
 
+      <p><strong>5.2 Scraper task</strong></p>
+
       <p>
-        Scraped Chilean Central Bank unemployment data using pd.read_html with decimal=',' for Spanish format. Transformed wide-format table to tidy long-format using melt and date parsing.
+        Scraped Chilean <a href="https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_GENERO/MN_GENERO1/ED_TASAJ2/638735867529170662?cbFechaInicio=2018&cbFechaTermino=2025&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase=" target="_blank" rel="noopener">Central Bank unemployment rate</a> using pd.read_html with decimal=',' for Spanish format. Transformed wide-format table to tidy long-format using melt and date parsing.
         <a href="https://colab.research.google.com/drive/1WkR3GgM0iRYRq6zIQ66OQSYdlegeMU7b?usp=sharing" target="_blank" rel="noopener">Google Colab</a>
       </p>
 
@@ -143,7 +144,7 @@
       <h2>Section 7: Maps</h2>
       <p>
         The first map is from Scotland's official statistics provide by the Scottish Government
-        <a href="https://statistics.gov.scot/home" target="_blank" rel="noopener">https://statistics.gov.scot/home</a>
+        <a href="https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Froad-network-traffic" target="_blank" rel="noopener">https://statistics.gov.scot/home</a>
       </p>
       <figure id="LocationMap1"></figure>
 
@@ -159,32 +160,80 @@
     <section>
       <h2>Section 8: Extracting a story from millions of prices</h2>
       <p>
-        In this section we analyze the price evolution of the components of a typical English breakfast.<br>
+        This section analyze the price evolution of the components of a typical English breakfast with data work in <a href=https://colab.research.google.com/drive/1_PuG1cUIGf542eOeszQDEqanRxxOrO4B#scrollTo=G2xwNcgEDdOC target="_blank" rel="noopener">Colab</a><br>
         Chart 1 tracks the average prices of seven English breakfast items from 1995 to 2025, using LRPD data, and reveals significant inflation, particularly after 2022, in products such as bacon and sausage.<br>
-        Chart 2 compares average London English breakfast item prices across 2015, 2020, and 2025, showing that the price increase was higher between 2025 and 2020 than between 2020 and 2015 for most products.
       </p>
       <figure id="Location12"></figure>
+
+      <p>
+        Chart 2 compares average English breakfast item prices by region across 2015, 2020, and 2025, showing that the price increase was higher between 2025 and 2020 than between 2020 and 2015 for most products.
+        Egg data are only available through 2021; therefore, the 2025 observation in the final chart uses 2021 values.
+      </p>
+
       <figure id="Location13"></figure>
     </section>
 
     <!-- Section 9 -->
     <section>
       <h2>Section 9: Interactive charts</h2>
+
+      <p>
+       These two interactive charts go beyond basic tooltips by letting the user actively explore the data.
+       The first is an interactive regional map of Chilean births (2010–2022) controlled by a year slider, which updates the choropleth in real time and reveals that births are declining across every region, not only in Metropolitana. 
+      </p>
+
       <figure id="Location14"></figure>
+
+      <p>
+       The second is an age-specific fertility “calculator” that combines a multi-series line chart with a linked calculator panel: users select an age group and two years, and the panel returns the exact percentage change, while simultaneously highlighting the corresponding series.
+      </p>
+
       <figure id="Location15"></figure>
+
+      <p>
+      The full workflow and code are documented in this <a href=https://colab.research.google.com/drive/137EPupz7TT9lXuUopJ9C04xjjDzzLQxi?usp=sharing target="_blank" rel="noopener">Colab</a>
+      </p>
     </section>
 
     <!-- Section 10 -->
     <section>
       <h2>Section 10: Advanced Analysis and Machine Learning</h2>
+
+      <p><strong>10.1 Advanced Analysis </strong></p>
+      
+      <p>
+       This advanced analytics chart applies a trend (de-trending) and shock-style comparison to the Emergency Contraception Pill to assess whether the policy coincides with a meaningful deviation from the underlying trajectory.
+       The key finding is that the only group showing a clear shift consistent with the policy is women aged 15–19; other female age groups do not display a comparable break.
+      </p>
+
       <figure id="Location16"></figure>
+
+      <p><strong>10.2 Machine Learning </strong></p>
+
+       <p>
+       The analysis conducts a supervised machine-learning regression to predict countries’ fertility rates using World Bank WDI data for 2019. 
+       After fetching and merging indicators with wbgapi, the sample is restricted to non-aggregate economies, and missing observations are dropped. GDP per capita (PPP) is then log-transformed. 
+      </p>
+
+      <p>
+       A standardised feature matrix X is then constructed using female labour-force participation, log GDP per capita, and female upper-secondary completion, alongside a standardised target vector y for the fertility rate. 
+      </p>
+
+      <p>
+       The model is estimated with sklearn’s LinearRegression, evaluated via cross-validation (R²), and used to generate out-of-fold predictions.
+       The results are presented in an Altair scatter plot comparing actual versus predicted fertility, along with a residual-based uncertainty band.
+      </p>
+
       <figure id="Location17"></figure>
+       <p>
+        The full workflow and code are documented in this <a href= https://colab.research.google.com/drive/1VeCJPkJu34AXKHh4u_43lvmxXBOQ_lJL?usp=sharing target="_blank" rel="noopener">Colab</a>
+      </p>
     </section>
   </div>
 
   <footer>
     <p style="font-size: 1.1em; font-weight: 600; color: var(--text); margin-bottom: 10px;">
-      © 2025 Carolina Molinare | LSE Data Science Student
+      © 2026 Carolina Molinare | LSE MPP
     </p>
     <p>
       <a href="https://github.com/CarolinaMolinare" target="_blank" rel="noopener">GitHub</a> |
